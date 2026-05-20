@@ -1,0 +1,16 @@
+# Normalize line endings: check in as LF, check out as native
+* text=auto
+
+# Force LF for scripts and structured files
+*.py text eol=lf
+*.md text eol=lf
+*.tsv text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.gitignore text eol=lf
+
+# Binary files — no line-ending conversion
+*.apkg binary
+*.pdf binary
+*.epub binary
+*.png binary

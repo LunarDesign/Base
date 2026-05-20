@@ -1,0 +1,1175 @@
+TYPE-B MULTI-DOMAIN AUDIT — CCRN/PCCN Mastery Deck (57.apkg)
+Standard: one card = one clinical domain
+======================================================================
+
+CHUNK 28  (24 cards | 3 HIGH  1 MEDIUM  0 LOW  20 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=3  chart-l3  ★ MULTI-SUBJECT
+  Domains : drug_dose, clinical_interpretation
+  Front   :
+  Post-MI patient: CO 1.6, SVR 2800, PAOP 28, ScvO₂ 42%, MAP 54 on
+  norepinephrine 0.3 mcg/kg/min. The hemodynamic space shows _______ shock.
+  ScvO₂ 42% indicates _______. Adding dobutamine addresses this by _______.
+
+  [HIGH  ] blanks=4  chart-l2  ★ MULTI-SUBJECT
+  Domains : —
+  Front   :
+  Norepinephrine acts primarily on _______ receptors to ↑SVR. At clinical doses
+  its net effect on CO is _______ because _______. Toggle norepinephrine on the
+  chart. This explains why ScvO₂ may _______ after starting norepi alone in
+  septic shock despite MAP improvement.
+
+  [HIGH  ] blanks=3  chart-l3
+  Domains : drug_dose, biomarker_kinetics, nursing_action
+  Front   :
+  Septic shock: MAP 58 on norepinephrine 0.4 mcg/kg/min, CO 5.2 L/min
+  (elevated), ScvO₂ 48%. The paradox — high CO with low ScvO₂ — is explained by
+  _______. The correct next intervention is _______, because _______.
+
+  [MEDIUM] blanks=4  chart-l3
+  Domains : drug_dose, formula_calculation
+  Front   :
+  VCV: Vt 420 mL (6 mL/kg IBW), PEEP 10, PIP 42, Pplat 34. Driving pressure =
+  _______. This exceeds the target of _______ cmH₂O. Two interventions that
+  reduce driving pressure WITHOUT increasing Vt: _______ and _______.
+
+CHUNK 29  (15 cards | 1 HIGH  3 MEDIUM  0 LOW  11 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=4  chart-l3
+  Domains : drug_mechanism, drug_monitoring, nursing_action
+  Front   :
+  VA ECMO patient develops: right arm SpO₂ 88%, left arm SpO₂ 98%, ECMO flow 4.8
+  L/min, patient improving. This is _______ syndrome. The mechanism: _______.
+  The monitoring parameter the nurse should have identified earlier: _______.
+  Intervention: _______.
+
+  [MEDIUM] blanks=3  chart-l3
+  Domains : biomarker_kinetics, clinical_interpretation
+  Front   :
+  A patient had NSTEMI 5 days ago. Today: new chest pain, troponin 18× ULN (same
+  as yesterday's value with no rise), CK-MB 0.8× ULN (normal). The _______
+  (has/has not) had a reinfarction because _______. The correct next diagnostic
+  step: _______.
+
+  [MEDIUM] blanks=4  chart-l2
+  Domains : drug_mechanism, drug_monitoring
+  Front   :
+  Toggle Mobitz I vs Mobitz II on the conduction pathway. Mobitz II occurs at
+  the level of the _______ (above/at/below the AV node), making it clinically
+  dangerous because _______. Mobitz I occurs _______. The ECG pattern
+  distinguishing them: _______.
+
+  [MEDIUM] blanks=6  chart-l3
+  Domains : drug_mechanism, nursing_action
+  Front   :
+  Toggle to 3rd Degree block. Complete heart block means P waves and QRS are
+  _______. The ventricular escape rhythm depends on block location: block at His
+  bundle → rate _______, QRS _______. Block below bifurcation → rate _______,
+  QRS _______. Immediate nursing action: _______.
+
+CHUNK 30  (15 cards | 2 HIGH  0 MEDIUM  0 LOW  13 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=4  chart-l3
+  Domains : clinical_trial, nursing_action, clinical_interpretation
+  Front   :
+  Toggle Upper Airway Obstruction on the loop. The INSPIRATORY limb is _______
+  while the expiratory limb is _______ — this pattern of variable extrathoracic
+  obstruction indicates _______. Bedside clinical assessment to confirm:
+  _______.
+
+  [HIGH  ] blanks=5  chart-l3
+  Domains : drug_dose, nursing_action, clinical_interpretation
+  Front   :
+  PE patient: BP 82/52, HR 138, RR 30, SpO₂ 84% on 15L NRB, troponin 2.8, echo:
+  RV:LV 1.4, RV hypokinesis, McConnell sign. Classification: _______ PE. Before
+  systemic thrombolysis: nursing confirms _______ contraindications (none
+  found). Dose of alteplase: _______ over _______ hours. For the first 2 hours
+  of infusion, the nurse holds _______.
+
+CHUNK 31  (15 cards | 1 HIGH  2 MEDIUM  1 LOW  11 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=5  chart-l3
+  Domains : biomarker_kinetics, nursing_action, clinical_interpretation
+  Front   :
+  A patient has sudden tearing chest pain radiating to the back, BP 186/94 right
+  arm and 148/82 left arm, new soft diastolic murmur, and ST elevation in lead
+  II. CT angiography confirms Type A aortic dissection. The ST elevation is
+  caused by _______, NOT primary ACS. This distinction changes management
+  because _______. Immediate nursing priorities: _______, _______, and _______.
+
+  [MEDIUM] blanks=3  chart-l1
+  Domains : drug_monitoring, formula_calculation
+  Front   :
+  MAP = CO × SVR / 80. On the isoline chart, adjust the Target MAP slider to 65
+  mmHg. A patient with CO 2.0 and SVR 2600 has MAP = _______ mmHg. A patient
+  with CO 7.0 and SVR 350 has MAP = _______ mmHg. Both of these are examples of
+  _______ shock with different mechanisms.
+
+  [MEDIUM] blanks=2  chart-l2
+  Domains : biomarker_kinetics, clinical_interpretation
+  Front   :
+  On the shock progression chart, the lactate parameter tracks the DO₂/VO₂
+  mismatch over time. Lactate rising past the critical threshold despite
+  adequate MAP indicates _______. Select Cardiogenic Shock — compare the CO
+  trajectory to Septic Shock. The reason cardiogenic shock has worse early
+  lactate elevation: _______.
+
+  [LOW   ] blanks=4  chart-l3
+  Domains : clinical_interpretation, formula_calculation
+  Front   :
+  PA catheter readings: CVP 18, PA 52/26 mmHg, PAWP 24 mmHg, CO 1.8 L/min, SVR
+  2600. PADP − PAWP = _______ mmHg. This gap indicates _______ is present. The
+  hemodynamic profile (low CO, high SVR, high PAWP) confirms _______ shock. PAWP
+  24 tells you that the _______ is the problem, not volume depletion.
+
+CHUNK 32  (17 cards | 3 HIGH  4 MEDIUM  0 LOW  10 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=4  chart-l3
+  Domains : drug_monitoring, nursing_action, clinical_interpretation, formula_calculation
+  Front   :
+  ICP monitor: baseline 22 mmHg, recurring A waves to 78 mmHg lasting 8 minutes.
+  MAP is 85 mmHg. During a plateau wave, CPP = _______. The fastest bedside
+  ICP-reducing intervention if EVD is in place: _______. The clinical triad of
+  HYPERTENSION + BRADYCARDIA + IRREGULAR RESPIRATIONS is called _______ and
+  indicates _______.
+
+  [HIGH  ] blanks=4  chart-l2
+  Domains : biomarker_kinetics, diagnosis_criteria, clinical_interpretation, formula_calculation
+  Front   :
+  Set MAP 70, ICP 35. CPP = _______. This CPP is CRITICAL. The diagnosis
+  producing ICP 35 despite MAP 70 in a post-cardiac arrest patient is _______.
+  Two physiologic drivers of ICP elevation after global ischemia-reperfusion:
+  _______ and _______.
+
+  [HIGH  ] blanks=5  chart-l3
+  Domains : drug_dose, diagnosis_criteria, nursing_action
+  Front   :
+  A post-op day 2 patient is intubated, RASS −4, on propofol 40 mcg/kg/min +
+  fentanyl 50 mcg/hr. CAM-ICU is _______. The ABCDEF 'A' bundle intervention is
+  the SAT. During a SAT, _______ is held while _______ is continued. SAT PASS
+  criterion for RASS: _______ or better for ≥5 minutes. Daily SAT + SBT reduces
+  mechanical ventilation by _______ days.
+
+  [MEDIUM] blanks=4  chart-l3
+  Domains : drug_monitoring, formula_calculation
+  Front   :
+  A severe TBI patient: MAP 68 mmHg, ICP 32 mmHg. CPP = _______. BTF guideline
+  CPP target for severe TBI: _______ mmHg. To reach target CPP 60 mmHg, you must
+  raise MAP to at least _______ mmHg (assuming ICP unchanged), OR lower ICP to
+  _______ mmHg (assuming MAP unchanged).
+
+  [MEDIUM] blanks=4  chart-l3
+  Domains : drug_dose, formula_calculation
+  Front   :
+  TBI patient: MAP 80, ICP 25, CPP 55 mmHg. Mannitol 0.5 g/kg IV is given. ICP
+  drops to 18 mmHg, MAP stays at 80. New CPP = _______. Two mechanisms by which
+  mannitol reduces ICP: _______ and _______. Mannitol is contraindicated when
+  serum osmolality exceeds _______ mOsm/kg.
+
+  [MEDIUM] blanks=6  chart-l1
+  Domains : drug_monitoring, formula_calculation
+  Front   :
+  Set MAP 85, ICP 22 on the CPP chart: CPP = _______. Now set MAP 65, ICP 18:
+  CPP = _______. BTF target for severe TBI is CPP _______ mmHg. CPP can be
+  raised by either _______ MAP or _______ ICP — and treating ICP is preferred
+  because _______.
+
+  [MEDIUM] blanks=6  chart-l3
+  Domains : nursing_action, formula_calculation
+  Front   :
+  Set MAP 90, ICP 40. CPP = _______. This patient has a blown right pupil and
+  posturing. Herniation pattern: _______ (side). Three simultaneous nursing
+  interventions: _______, _______, and _______. If ICP does not respond to EVD
+  drainage + osmotherapy, the emergent surgical option is _______.
+
+CHUNK 33  (18 cards | 5 HIGH  2 MEDIUM  1 LOW  10 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=2  chart-l2  ★ MULTI-SUBJECT
+  Domains : pathophysiology_rationale, clinical_interpretation
+  Front   :
+  The chart shows norepinephrine maintains high alpha-1 activity (~80%) with
+  moderate beta-1 (~35%) across all doses. This explains why norepinephrine
+  causes _______ without the _______ seen with pure alpha agonists.
+
+  [HIGH  ] blanks=2  chart-l3  ★ MULTI-SUBJECT
+  Domains : clinical_interpretation
+  Front   :
+  A patient in septic shock has MAP 55 despite 2L fluids. HR 118, CO 7.2 L/min
+  (hyperdynamic), SVR 480. The chart shows phenylephrine's alpha-1 curve is flat
+  at ~90% with zero beta-1 activity. The correct first-line vasopressor is
+  _______, not phenylephrine, because _______.
+
+  [HIGH  ] blanks=4  chart-l4  ★ MULTI-SUBJECT
+  Domains : drug_monitoring
+  Front   :
+  Comparing epinephrine and dopamine on the chart at equivalent dose levels,
+  epinephrine at low doses shows _______ dominant activity, while dopamine at
+  the same relative dose shows _______. This pharmacologic difference explains
+  their different first-line indications: epinephrine for _______, dopamine
+  historically for _______.
+
+  [HIGH  ] blanks=3  chart-l4
+  Domains : drug_mechanism, drug_monitoring, biomarker_kinetics, reversal_antidote
+  Front   :
+  The coagulation cascade chart shows warfarin inhibits synthesis of factors II,
+  VII, IX, and X. Factor VII has the shortest half-life (~6 hours). This
+  explains why INR rises quickly after starting warfarin but the patient remains
+  _______ for _______, and reversal for major bleeding uses _______.
+
+  [HIGH  ] blanks=2  chart-l2  ★ MULTI-SUBJECT
+  Domains : drug_dose, drug_mechanism
+  Front   :
+  The analgesic ladder shows Step 1 non-opioid agents including ketamine. At
+  sub-dissociative doses (0.1-0.3 mg/kg IV or 0.1-0.5 mg/kg/hr infusion),
+  ketamine provides analgesia via _______ receptor antagonism and offers the
+  advantage of _______ compared to opioids.
+
+  [MEDIUM] blanks=4  chart-l4
+  Domains : drug_mechanism, drug_monitoring
+  Front   :
+  Amiodarone is unique among antiarrhythmics because the action potential chart
+  shows it targets _______ phases simultaneously. This multi-class mechanism
+  means it is effective for both _______ and _______, but requires monitoring
+  for _______.
+
+  [MEDIUM] blanks=2  chart-l3
+  Domains : diagnosis_criteria, nursing_action
+  Front   :
+  An intubated patient on the analgesic ladder Step 2 has NRS pain 7/10, RASS -3
+  (deeply sedated on propofol + fentanyl infusion), and CAM-ICU positive. The
+  correct PADIS-guided intervention is _______, not increasing sedation, because
+  _______.
+
+  [LOW   ] blanks=3  chart-l1
+  Domains : drug_dose, drug_mechanism
+  Front   :
+  On the vasopressor dose-response chart, dopamine at low doses (1-3 mcg/kg/min)
+  primarily activates _______ receptors, causing _______. At high doses (>10
+  mcg/kg/min) it shifts to activate _______ receptors.
+
+CHUNK 34  (15 cards | 1 HIGH  0 MEDIUM  0 LOW  14 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=4  chart-l2
+  Domains : drug_mechanism, diagnosis_criteria, nursing_action
+  Front   :
+  A 70 kg trauma patient has HR 136, SBP 74, RR 38, and GCS 13. ATLS class is
+  _______, estimated blood loss is _______, and the nurse immediately activates
+  _______ targeting a product ratio of _______.
+
+CHUNK 35  (15 cards | 1 HIGH  4 MEDIUM  1 LOW  9 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=1  chart-l1  ★ MULTI-SUBJECT
+  Domains : clinical_trial
+  Front   :
+  On the cortisol response chart, adrenal insufficiency is confirmed when
+  post-cosyntropin cortisol at 30–60 min fails to reach _______ mcg/dL.
+
+  [MEDIUM] blanks=3  chart-l3
+  Domains : nursing_action, clinical_interpretation
+  Front   :
+  DKA patient: pH 6.91, HCO₃ 6, glucose 510, K⁺ 3.1 mEq/L. The chart shows
+  Severe DKA. First intervention is _______, not _______, because _______.
+
+  [MEDIUM] blanks=4  chart-l3
+  Domains : nursing_action, clinical_interpretation
+  Front   :
+  Patient arrives: glucose 740 mg/dL, serum osmolality 338 mOsm/kg, pH 7.36,
+  HCO₃ 23, ketones trace. The comparison chart pattern matches _______,
+  requiring _______ as the initial priority, not _______, because _______.
+
+  [MEDIUM] blanks=2  chart-l1
+  Domains : diagnosis_criteria, formula_calculation
+  Front   :
+  On the anion gap chart with Na 138, Cl 100, HCO₃ 14, the anion gap = _______
+  mEq/L, classified as _______.
+
+  [MEDIUM] blanks=4  chart-l3
+  Domains : biomarker_kinetics, formula_calculation
+  Front   :
+  Postoperative thyroidectomy patient: suddenly agitated, temp 40.2°C, HR 148,
+  AF, new liver enzyme elevation. Burch-Wartofsky score = _______. You hold
+  _______ and give _______ first because _______.
+
+  [LOW   ] blanks=2  chart-l1
+  Domains : diagnosis_criteria, clinical_interpretation
+  Front   :
+  On the Burch-Wartofsky scoring chart, thyroid storm is diagnosed when the
+  score reaches _______ or above. A score of 25–44 indicates _______.
+
+CHUNK 36  (15 cards | 1 HIGH  5 MEDIUM  0 LOW  9 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=4  chart-l3
+  Domains : drug_dose, biomarker_kinetics, nursing_action, formula_calculation
+  Front   :
+  Septic patient: creatinine rises from 0.9 to 2.1 mg/dL, urine output 0.3
+  mL/kg/hr for 18 hours. AKI stage = _______. Fluid resuscitation has been
+  completed. Next intervention is _______, not _______, because _______.
+
+  [MEDIUM] blanks=2  chart-l2
+  Domains : drug_mechanism, biomarker_kinetics
+  Front   :
+  A post-cardiac-surgery patient's creatinine rises from 1.0 to 3.2 mg/dL over
+  48 hours. On the AKI chart, this represents Stage _______, and the primary
+  mechanism is _______.
+
+  [MEDIUM] blanks=3  chart-l3
+  Domains : drug_dose, diagnosis_criteria
+  Front   :
+  A 90 kg patient on CVVHDF has effluent rate set at 1,350 mL/hr. The CRRT dose
+  chart shows _______ mL/kg/hr. This is _______ the KDIGO target, so you should
+  _______.
+
+  [MEDIUM] blanks=1  chart-l1
+  Domains : drug_dose, diagnosis_criteria
+  Front   :
+  On the CRRT dose calculator, for a 70 kg patient the effluent rate needed to
+  achieve the KDIGO target of 20–25 mL/kg/hr is _______.
+
+  [MEDIUM] blanks=3  chart-l3
+  Domains : drug_dose, formula_calculation
+  Front   :
+  An 85 kg anuric patient is prescribed 2,100 mL/hr CRRT. Morning labs:
+  phosphorus 1.1 mg/dL, magnesium 1.4 mEq/L, potassium 3.0 mEq/L. Dose = _______
+  mL/kg/hr. These electrolyte findings are caused by _______ and you _______.
+
+  [MEDIUM] blanks=5  chart-l3
+  Domains : drug_dose, clinical_interpretation
+  Front   :
+  ICU patient post-cardiac arrest: creatinine rising, urine output 0.2 mL/kg/hr
+  despite 3L IVF. FeNa 3.2%, BUN:Cr 10:1, urine sediment shows muddy brown
+  casts. The chart pattern matches _______, caused by _______. You prioritize
+  _______, not _______, because _______.
+
+CHUNK 37  (15 cards | 2 HIGH  0 MEDIUM  0 LOW  13 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=5  chart-l3
+  Domains : drug_monitoring, next_step_workup, formula_calculation
+  Front   :
+  Cirrhotic patient with massive hematemesis, SBP 78, HR 128, Hgb 6.1, INR 2.8.
+  Risk score = _______. You initiate _______ and _______ before endoscopy, not
+  _______, because _______.
+
+  [HIGH  ] blanks=2  chart-l3
+  Domains : drug_monitoring, biomarker_kinetics, nursing_action
+  Front   :
+  Cirrhotic patient's MELD rises from 18 to 32 over 72 hours: Cr 0.9→3.4, Bili
+  3.2→7.1, INR 1.6→2.8. This rise is caused by _______, and the critical
+  intervention within the next 24 hours is _______.
+
+CHUNK 38  (15 cards | 0 HIGH  4 MEDIUM  0 LOW  11 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [MEDIUM] blanks=2  chart-l2
+  Domains : biomarker_kinetics, formula_calculation
+  Front   :
+  A septic patient's labs show: Plt 38k (↓ from 210k), PT prolonged 7 sec above
+  normal, D-dimer markedly elevated, fibrinogen 0.8 g/L. ISTH score = _______,
+  confirming _______.
+
+  [MEDIUM] blanks=3  chart-l3
+  Domains : drug_monitoring, next_step_workup
+  Front   :
+  An ICU patient has INR 2.4, active subarachnoid hemorrhage, urgent procedure
+  needed. The blood products chart shows FFP is indicated. You order _______
+  units, and the expected result is _______, but you must also account for
+  _______.
+
+  [MEDIUM] blanks=4  chart-l3
+  Domains : drug_monitoring, clinical_interpretation
+  Front   :
+  Trauma patient receives 12 pRBC, 12 FFP, 4 apheresis platelets over 4 hours.
+  MTP is activated. Temperature 35.1°C, pH 7.18, INR 2.1. The chart shows
+  _______ triad. You prioritize _______ alongside continued product transfusion,
+  not _______, because _______.
+
+  [MEDIUM] blanks=4  chart-l3
+  Domains : biomarker_kinetics, clinical_interpretation
+  Front   :
+  One hour into a FFP transfusion, a patient develops SpO₂ 84%, bilateral
+  crackles, CXR shows bilateral infiltrates, BP 148/90, BNP 820 pg/mL. The chart
+  shows this matches _______, not _______, because _______, and treatment is
+  _______.
+
+CHUNK 39  (15 cards | 0 HIGH  3 MEDIUM  1 LOW  11 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [MEDIUM] blanks=2  chart-l1
+  Domains : drug_monitoring, nursing_action
+  Front   :
+  On the Synergy Model table, a patient with high Vulnerability maps primarily
+  to the nurse competency of _______, which at its highest level means _______.
+
+  [MEDIUM] blanks=3  chart-l3
+  Domains : nursing_action, formula_calculation
+  Front   :
+  A Synergy Model assessment shows Participation in Decision-Making = 1 (no
+  capacity, no surrogate identified). The nurse is asked to obtain consent for a
+  high-risk procedure. Per the Synergy Model, the nurse's role is _______, not
+  _______, because _______.
+
+  [MEDIUM] blanks=2  chart-l2
+  Domains : diagnosis_criteria, nursing_action
+  Front   :
+  The ABCDEF bundle chart shows a patient RASS -3, CAM-ICU positive, on propofol
+  day 4. Components B (SBT) and E (early mobility) cannot be performed because
+  _______. The immediate bundle-guided intervention is _______.
+
+  [LOW   ] blanks=3  chart-l2
+  Domains : drug_dose, drug_monitoring
+  Front   :
+  An ICU patient starts morphine 4 mg IV q4h for comfort care. Per palliative
+  care protocol, three orders must be written simultaneously as prophylaxis:
+  _______, _______, and _______.
+
+CHUNK 40  (15 cards | 4 HIGH  2 MEDIUM  1 LOW  8 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=3  chart-l2  ★ MULTI-SUBJECT
+  Domains : clinical_trial, drug_dose, drug_mechanism
+  Front   :
+  The receptor chart shows dopamine has dose-dependent receptor activity. At
+  doses >10 mcg/kg/min, the dominant effect shifts to _______ because _______,
+  which led the SOAP-II trial to show dopamine was inferior to norepinephrine
+  primarily due to _______.
+
+  [HIGH  ] blanks=4  chart-l3  ★ MULTI-SUBJECT
+  Domains : drug_dose, drug_mechanism
+  Front   :
+  On the receptor chart, vasopressin shows no α1, β1, or β2 activity. This
+  profile explains three clinical facts: vasopressin (1) does not cause _______,
+  (2) is fixed-dosed because _______, and (3) dose >0.04 units/min risks _______
+  because _______.
+
+  [HIGH  ] blanks=2  chart-l1  ★ MULTI-SUBJECT
+  Domains : drug_mechanism
+  Front   :
+  On the inotrope comparison chart, the key mechanistic difference between
+  dobutamine and milrinone is that milrinone acts _______ the β1 receptor,
+  making it effective when _______.
+
+  [HIGH  ] blanks=4  chart-l2  ★ MULTI-SUBJECT
+  Domains : drug_monitoring, nursing_action
+  Front   :
+  The inotrope chart shows milrinone causes greater SVR reduction than
+  dobutamine. For a cardiogenic shock patient with MAP 58 started on milrinone,
+  the nurse must simultaneously _______ and the monitoring triad is _______,
+  _______, _______.
+
+  [MEDIUM] blanks=2  chart-l3
+  Domains : biomarker_kinetics, nursing_action
+  Front   :
+  The obstructive shock panel (massive PE) shows elevated CVP, right heart
+  distension. The nurse prepares to give a 500 mL NS bolus for 'hemodynamic
+  support.' This is incorrect because _______, and the correct immediate
+  intervention is _______.
+
+  [MEDIUM] blanks=3  chart-l1
+  Domains : clinical_trial, drug_monitoring
+  Front   :
+  On the MAP target chart, the Surviving Sepsis Campaign target for most septic
+  shock patients is MAP _______ mmHg, based on the _______ trial, which showed
+  that targeting MAP 80–85 resulted in _______.
+
+  [LOW   ] blanks=2  chart-l3
+  Domains : drug_dose, drug_monitoring
+  Front   :
+  Post-cardiac arrest patient 4 hours after ROSC on targeted temperature
+  management (33°C). MAP 58, norepinephrine 0.3 mcg/kg/min. The MAP target for
+  post-arrest TTM is _______ mmHg and the physiological reason for this target
+  is _______.
+
+CHUNK 41  (15 cards | 0 HIGH  0 MEDIUM  0 LOW  15 OK)
+──────────────────────────────────────────────────────────────────────
+  (no flagged cards in this chunk)
+
+CHUNK 42  (15 cards | 6 HIGH  2 MEDIUM  0 LOW  7 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=1  chart-l2
+  Domains : diagnosis_criteria, nursing_action, formula_calculation
+  Front   :
+  The RASS chart shows a vented patient at RASS +2 (fighting ventilator, CPOT =
+  6). Per the A1C (Analgesia-first) protocol, the FIRST intervention before
+  adding sedation is _______.
+
+  [HIGH  ] blanks=2  chart-l1  ★ MULTI-SUBJECT
+  Domains : clinical_trial, pathophysiology_rationale
+  Front   :
+  On the analgesic comparison chart, fentanyl is preferred over morphine for
+  continuous opioid infusions in AKI because morphine's active metabolite
+  _______ accumulates in renal failure and causes _______.
+
+  [HIGH  ] blanks=2  chart-l2  ★ MULTI-SUBJECT
+  Domains : drug_mechanism
+  Front   :
+  The propofol chart shows its mechanism: it acts at _______ receptors. Two
+  reasons propofol is preferred over midazolam for ICU sedation are _______.
+
+  [HIGH  ] blanks=2  chart-l3  ★ MULTI-SUBJECT
+  Domains : drug_dose, nursing_action
+  Front   :
+  On the propofol chart, a patient on propofol 60 mcg/kg/min ×72h develops pH
+  7.22, lactate 7.1, CK 14,000, K⁺ 6.3, TG 690 mg/dL. This is _______. The FIRST
+  nursing action is _______.
+
+  [HIGH  ] blanks=1  chart-l1  ★ MULTI-SUBJECT
+  Domains : —
+  Front   :
+  On the dexmedetomidine comparison chart, dex preserves _______ while midazolam
+  depresses it. Name two settings where this advantage is clinically important.
+
+  [HIGH  ] blanks=2  chart-l2  ★ MULTI-SUBJECT
+  Domains : clinical_trial
+  Front   :
+  The dexmedetomidine comparison chart shows MENDS trial results.
+  Dexmedetomidine vs. lorazepam for ICU sedation: dex patients had fewer _______
+  and _______ days. What guideline does this support?
+
+  [MEDIUM] blanks=2  chart-l3
+  Domains : clinical_trial, diagnosis_criteria
+  Front   :
+  On the RASS chart, daily sedation interruption (SAT) combined with spontaneous
+  breathing trials (SBT) is the _______ protocol. Per the 2008 Lancet trial,
+  this reduces 1-year mortality by approximately _______.
+
+  [MEDIUM] blanks=1  chart-l3
+  Domains : drug_dose, next_step_workup
+  Front   :
+  On the dex chart, a patient develops HR 36, MAP 70 during dexmedetomidine
+  loading dose. In order, the three interventions are _______.
+
+CHUNK 43  (15 cards | 0 HIGH  3 MEDIUM  0 LOW  12 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [MEDIUM] blanks=2  chart-l1
+  Domains : drug_monitoring, clinical_interpretation
+  Front   :
+  On the TOF monitoring chart, the recommended ICU paralysis target during
+  cisatracurium infusion is _______ twitches. TOF of 0/4 indicates _______ %
+  blockade.
+
+  [MEDIUM] blanks=2  chart-l3
+  Domains : drug_dose, reversal_antidote
+  Front   :
+  On the RSI chart, rocuronium at 1.2 mg/kg is used as succinylcholine
+  alternative. Its key advantage is full reversal with _______ in the 'can't
+  intubate, can't oxygenate' (CICO) emergency at dose _______.
+
+  [MEDIUM] blanks=2  chart-l3
+  Domains : drug_dose, reversal_antidote
+  Front   :
+  On the reversal chart, a patient has TOF 0/4 after rocuronium infusion ×6h.
+  The anesthesiologist orders sugammadex 4 mg/kg. This dose is _______ for TOF
+  0/4. The correct dose is _______.
+
+CHUNK 44  (15 cards | 0 HIGH  2 MEDIUM  0 LOW  13 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [MEDIUM] blanks=3  chart-l2
+  Domains : drug_mechanism, pathophysiology_rationale
+  Front   :
+  The antihypertensive chart shows labetalol's IV α:β receptor ratio is _______.
+  This dual blockade makes it ideal for aortic dissection because it reduces
+  _______ simultaneously, preventing _______ that a pure vasodilator would
+  cause.
+
+  [MEDIUM] blanks=3  chart-l1
+  Domains : biomarker_kinetics, diagnosis_criteria
+  Front   :
+  On the hypertensive crisis chart, hypertensive emergency is defined as severe
+  BP elevation WITH _______. Hypertensive urgency is the same BP elevation
+  WITHOUT _______, and is managed with _______ agents.
+
+CHUNK 45  (15 cards | 1 HIGH  2 MEDIUM  1 LOW  11 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=3  chart-l1  ★ MULTI-SUBJECT
+  Domains : drug_dose
+  Front   :
+  On the VTE prophylaxis chart, the standard ICU pharmacologic prophylaxis dose
+  of enoxaparin is _______ mg SQ _______. The distinct therapeutic dose for
+  confirmed DVT/PE is _______ mg/kg SQ.
+
+  [MEDIUM] blanks=3  chart-l3
+  Domains : drug_monitoring, reversal_antidote
+  Front   :
+  On the warfarin reversal chart, 4-factor PCC reverses INR faster than FFP. The
+  key volume difference is 4F-PCC dose _______ mL vs FFP _______ mL for a 70 kg
+  patient. This difference is clinically important because _______.
+
+  [MEDIUM] blanks=4  chart-l3
+  Domains : drug_dose, reversal_antidote
+  Front   :
+  On the reversal chart, andexanet alfa reverses _______ oral anticoagulants.
+  The HIGH dose regimen applies when the last dose of rivaroxaban or apixaban
+  was taken _______ hours ago. The high dose is _______ mg bolus followed by
+  _______.
+
+  [LOW   ] blanks=5  chart-l2
+  Domains : drug_mechanism, reversal_antidote
+  Front   :
+  On the reversal chart, idarucizumab (Praxbind) reverses _______ only. The dose
+  is _______ IV given as _______. Its mechanism is _______ with affinity _______
+  that of thrombin.
+
+CHUNK 46  (15 cards | 1 HIGH  7 MEDIUM  0 LOW  7 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=4  chart-l3
+  Domains : drug_monitoring, nursing_action, clinical_interpretation, formula_calculation
+  Front   :
+  On the mannitol chart, the osmol gap is used to monitor for mannitol toxicity.
+  It is calculated as _______ minus _______. A gap above _______ indicates
+  dangerous mannitol accumulation. Rhabdomyolysis is a unique indication for
+  mannitol because it _______.
+
+  [MEDIUM] blanks=4  chart-l2
+  Domains : clinical_trial, drug_mechanism
+  Front   :
+  On the diuretic chart, spironolactone is an aldosterone receptor antagonist.
+  The RALES trial showed it reduces _______ mortality by _______% in patients
+  with _______. The most dangerous side effect in renal failure is _______.
+
+  [MEDIUM] blanks=3  chart-l3
+  Domains : drug_monitoring, nursing_action
+  Front   :
+  On the diuretic chart, metolazone is given _______ minutes BEFORE furosemide
+  for sequential nephron blockade. It differs from other thiazides by also
+  blocking the _______ in addition to the DCT. The critical monitoring priority
+  after this combination is _______.
+
+  [MEDIUM] blanks=3  chart-l2
+  Domains : clinical_trial, biomarker_kinetics
+  Front   :
+  The loop diuretic protocol chart summarizes the DOSE trial. The recommended
+  initial IV dose strategy for ADHF is _______ × the total daily oral dose. The
+  trial showed this causes a modest _______ rise, which is considered _______.
+
+  [MEDIUM] blanks=2  chart-l1
+  Domains : drug_mechanism, pathophysiology_rationale
+  Front   :
+  On the diuretic electrolyte chart, hypomagnesemia from loop diuretics is
+  clinically important because it causes _______ hypokalemia. This is because
+  magnesium inhibits _______ in the collecting duct.
+
+  [MEDIUM] blanks=2  chart-l1
+  Domains : clinical_trial, drug_dose
+  Front   :
+  On the ADHF dosing chart, a patient on oral furosemide 40 mg BID (80 mg/day)
+  is admitted for ADHF. Per DOSE trial guidance, the recommended initial IV dose
+  is _______ mg daily. The target urine output in the first 6 hours is _______.
+
+  [MEDIUM] blanks=4  chart-l2
+  Domains : drug_monitoring, biomarker_kinetics
+  Front   :
+  On the ADHF monitoring chart, rising creatinine during aggressive diuresis
+  should prompt concern when it rises more than _______ mg/dL/day. However, a
+  mild rise is often _______ rather than true AKI. The key electrolytes to
+  replace during aggressive diuresis are _______ and _______.
+
+  [MEDIUM] blanks=3  chart-l3
+  Domains : drug_mechanism, biomarker_kinetics
+  Front   :
+  The ADHF chart defines Cardiorenal Syndrome Type 1 as _______ causing _______.
+  The mechanism involves not just reduced cardiac output, but also elevated
+  _______ pressure that directly reduces GFR.
+
+CHUNK 47  (15 cards | 1 HIGH  2 MEDIUM  1 LOW  11 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=8  chart-l2
+  Domains : formula_calculation
+  Front   :
+  On the derived parameters chart, SVR formula is (_______ − _______) ÷ _______
+  × 80, and PVR formula is (_______ − _______) ÷ _______ × 80. Normal SVR is
+  _______ and normal PVR is _______.
+
+  [MEDIUM] blanks=5  chart-l2
+  Domains : biomarker_kinetics, clinical_interpretation
+  Front   :
+  The PA catheter chart shows PA diastolic pressure (_______ mmHg) closely
+  approximates _______ when PVR is normal and HR &lt; _______. A PA diastolic −
+  PCWP gradient > _______ mmHg suggests elevated _______.
+
+  [MEDIUM] blanks=5  chart-l2
+  Domains : biomarker_kinetics, clinical_interpretation
+  Front   :
+  On the fluid responsiveness chart, passive leg raise is performed by elevating
+  legs to _______ degrees, producing ~_______ mL autotransfusion. A _______ %
+  increase in _______ confirms response. PLR is valid even with _______
+  breathing.
+
+  [LOW   ] blanks=6  chart-l2
+  Domains : clinical_interpretation, formula_calculation
+  Front   :
+  The hemo parameters chart shows SVR is calculated as: SVR = (_______ −
+  _______) ÷ _______ × 80. Normal range is _______ dynes·s/cm⁵. An SVR below
+  _______ indicates pathologic _______.
+
+CHUNK 48  (15 cards | 1 HIGH  2 MEDIUM  1 LOW  11 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=5  chart-l3
+  Domains : clinical_interpretation, reversal_antidote, formula_calculation
+  Front   :
+  The osmol gap chart shows calculated osmolality = 2×[Na] + BUN/_______ +
+  glucose/_______. An osmol gap > _______ combined with a high-AG metabolic
+  acidosis suggests _______. The antidote for both methanol and ethylene glycol
+  toxicity is _______.
+
+  [MEDIUM] blanks=3  chart-l2
+  Domains : clinical_trial, biomarker_kinetics
+  Front   :
+  The acid-base chart shows respiratory acidosis (chronic) compensates by
+  raising HCO3 by _______ mEq/L per 10 mmHg rise in PaCO2 — compared to only
+  _______ mEq/L per 10 mmHg in acute respiratory acidosis. This renal
+  compensation takes _______ days to fully develop.
+
+  [MEDIUM] blanks=2  chart-l3
+  Domains : biomarker_kinetics, clinical_interpretation
+  Front   :
+  On the ABG chart, Step 5 assesses oxygenation via A-a gradient = PAO2 − PaO2.
+  An elevated A-a gradient (> _______ mmHg) indicates parenchymal dysfunction. A
+  NORMAL A-a gradient with low PaO2 indicates _______ as the cause of hypoxemia.
+
+  [LOW   ] blanks=4  chart-l2
+  Domains : clinical_interpretation, formula_calculation
+  Front   :
+  On the compensation chart, delta-delta ratio = (AG − _______) ÷ (_______ −
+  HCO3). A ratio > _______ indicates a concurrent _______ in addition to the
+  high-AG metabolic acidosis.
+
+CHUNK 49  (15 cards | 2 HIGH  3 MEDIUM  0 LOW  10 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=3  chart-l2
+  Domains : clinical_trial, clinical_interpretation, formula_calculation
+  Front   :
+  The renal differentiation chart shows FeNa &lt; _______ % indicates pre-renal
+  AKI. FeNa is calculated as _______. In patients receiving diuretics, FeNa is
+  unreliable — instead use FeUrea &lt; _______ % to identify pre-renal AKI.
+
+  [HIGH  ] blanks=4  chart-l2
+  Domains : biomarker_kinetics, diagnosis_criteria, clinical_interpretation, formula_calculation
+  Front   :
+  The DIC diagnosis chart uses the ISTH scoring system. Platelets &lt; _______ K
+  = 2 points. D-dimer strongly elevated = _______ points. PT prolonged > _______
+  seconds = 2 points. A score ≥ _______ confirms overt DIC.
+
+  [MEDIUM] blanks=3  chart-l1
+  Domains : drug_mechanism, nursing_action
+  Front   :
+  On the critical labs chart, the critical HIGH potassium value requiring
+  immediate cardiac intervention is > _______ mEq/L. The first medication given
+  for K+ > 6.5 with EKG changes is _______, which works by _______.
+
+  [MEDIUM] blanks=4  chart-l1
+  Domains : drug_mechanism, drug_monitoring
+  Front   :
+  On the coagulation panel chart, PT/INR reflects the _______ coagulation
+  pathway and is prolonged by _______. aPTT reflects the _______ pathway and is
+  used to monitor _______ therapy.
+
+  [MEDIUM] blanks=5  chart-l2
+  Domains : biomarker_kinetics, clinical_interpretation
+  Front   :
+  The markers chart shows BNP > _______ pg/mL suggests heart failure. NT-proBNP
+  > _______ pg/mL (age-adjusted) indicates significant HF. Procalcitonin (PCT)
+  is most useful for _______ antibiotic therapy when PCT drops to &lt; _______
+  ng/mL or falls > _______ % from peak.
+
+CHUNK 50  (15 cards | 0 HIGH  2 MEDIUM  0 LOW  13 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [MEDIUM] blanks=5  chart-l2
+  Domains : clinical_trial, next_step_workup
+  Front   :
+  On the SBT protocol chart, a standard spontaneous breathing trial uses
+  pressure support of _______ cmH₂O for _______ minutes. SBT FAILURE is declared
+  if RR exceeds _______ or SpO₂ drops below _______ %. After successful SBT, the
+  next step is _______.
+
+  [MEDIUM] blanks=3  chart-l2
+  Domains : biomarker_kinetics, clinical_interpretation
+  Front   :
+  On the peak pressure troubleshooting chart, elevated PEAK pressure with NORMAL
+  plateau pressure indicates increased _______. Elevated BOTH peak AND plateau
+  indicates decreased _______. Plateau pressure is only valid in a _______
+  ventilated patient.
+
+CHUNK 51  (15 cards | 0 HIGH  4 MEDIUM  0 LOW  11 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [MEDIUM] blanks=4  chart-l1
+  Domains : diagnosis_criteria, formula_calculation
+  Front   :
+  On the oxygenation formulas chart, P/F ratio = PaO₂ ÷ FiO₂. A P/F ratio &lt;
+  _______ defines hypoxemic respiratory failure. The Berlin criteria classify
+  mild ARDS as P/F _______ to _______ mmHg with PEEP ≥ _______ cmH₂O.
+
+  [MEDIUM] blanks=4  chart-l3
+  Domains : biomarker_kinetics, clinical_interpretation
+  Front   :
+  On the oxygenation chart, the A-a gradient = PAO₂ − PaO₂, where PAO₂ =
+  _______. A normal A-a gradient in a young adult is &lt; _______ mmHg. An
+  elevated A-a gradient with a normal PaCO₂ indicates _______, while a normal
+  A-a gradient with elevated PaCO₂ indicates _______.
+
+  [MEDIUM] blanks=5  chart-l2
+  Domains : diagnosis_criteria, nursing_action
+  Front   :
+  On the qSOFA chart, the three bedside criteria are RR ≥ _______, _______, and
+  SBP ≤ _______ mmHg. A qSOFA score ≥ _______ outside the ICU identifies high
+  risk for poor outcome. APACHE II includes _______ physiologic variables plus
+  age and chronic health points.
+
+  [MEDIUM] blanks=5  chart-l3
+  Domains : clinical_trial, nursing_action
+  Front   :
+  The PICS chart shows Post-Intensive Care Syndrome affects _______ % of ICU
+  survivors. The three impairment domains are _______, _______, and _______. The
+  intervention shown to reduce PTSD risk by up to 60% in some trials is _______.
+
+CHUNK 52  (18 cards | 5 HIGH  5 MEDIUM  0 LOW  8 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=5  chart-l2  ★ MULTI-SUBJECT
+  Domains : reversal_antidote
+  Front   :
+  The antidote chart shows APAP toxicity is treated with _______ (NAC). The
+  Rumack-Matthew nomogram treatment threshold is _______ mcg/mL at _______ hours
+  post-ingestion. The standard IV NAC protocol runs for _______ hours total,
+  starting with _______ mg/kg over 60 min.
+
+  [HIGH  ] blanks=7  chart-l3  ★ MULTI-SUBJECT
+  Domains : clinical_trial, clinical_interpretation
+  Front   :
+  The stress dose steroids chart shows the SSC _______ recommends routine
+  cortisol testing before initiating steroids. A random cortisol &lt; _______
+  mcg/dL or cosyntropin stimulation delta &lt; _______ mcg/dL suggests relative
+  adrenal insufficiency. The stress dose regimen is hydrocortisone _______ mg
+  every _______ hours or _______ mg/day continuous. Steroids should be weaned
+  with _______.
+
+  [HIGH  ] blanks=6  chart-l1  ★ MULTI-SUBJECT
+  Domains : clinical_trial, drug_mechanism
+  Front   :
+  The vasopressin chart shows it is dosed at _______ units/min as a FIXED dose —
+  it is NOT _______. Its V1 receptor causes _______ in skin, muscle, and
+  splanchnic vessels. The VASST trial showed _______ vs norepinephrine alone in
+  septic shock. The maximum dose limit is _______ units/min to avoid _______.
+
+  [HIGH  ] blanks=6  chart-l2
+  Domains : clinical_trial, drug_monitoring, nursing_action, clinical_interpretation, reversal_antidote
+  Front   :
+  The terlipressin chart shows it is used for _______ syndrome (HRS-AKI). The
+  CONFIRM trial showed HRS reversal in _______ vs _______% with placebo.
+  Terlipressin was FDA approved in _______. Its key contraindications include
+  _______, and the nursing monitoring priority is _______.
+
+  [HIGH  ] blanks=7  chart-l3
+  Domains : drug_monitoring, nursing_action
+  Front   :
+  On the vasopressin/methylene blue chart, methylene blue treats _______
+  syndrome by inhibiting _______ and _______, reducing cGMP and increasing
+  _______. Dose is _______ mg/kg IV. The critical nursing monitoring pitfall is
+  _______, and the absolute contraindication is _______.
+
+  [MEDIUM] blanks=5  chart-l1
+  Domains : biomarker_kinetics, reversal_antidote
+  Front   :
+  On the antidote chart, opioid toxicity is reversed with _______ at _______ mg
+  IV every 2–3 minutes. Because its half-life is only _______ minutes, a
+  continuous infusion of _______ of the effective reversal dose per hour is
+  often needed to prevent _______.
+
+  [MEDIUM] blanks=5  chart-l1
+  Domains : drug_mechanism, drug_monitoring
+  Front   :
+  The pulmonary vasodilators chart shows inhaled NO works by entering pulmonary
+  vascular SMCs and increasing _______, causing selective pulmonary vasodilation
+  without _______. Dose range is _______ ppm. A critical monitoring parameter is
+  _______ (check every 4–8 hours), and abrupt discontinuation causes _______.
+
+  [MEDIUM] blanks=5  chart-l1
+  Domains : drug_monitoring, diagnosis_criteria
+  Front   :
+  On the thrombolytics chart, massive PE is defined as acute PE plus _______.
+  The standard alteplase dose is _______ mg IV over _______ hours. Heparin
+  should be _______ during infusion and restarted WITHOUT a bolus when aPTT &lt;
+  _______.
+
+  [MEDIUM] blanks=4  chart-l3
+  Domains : drug_dose, reversal_antidote
+  Front   :
+  On the antidote chart, organophosphate toxicity requires _______ (titrated to
+  _______, not heart rate) PLUS _______ to reactivate acetylcholinesterase.
+  Pralidoxime (2-PAM) must be given _______ to be effective.
+
+  [MEDIUM] blanks=5  chart-l1
+  Domains : clinical_trial, drug_dose
+  Front   :
+  The APROCCHSS trial (NEJM 2018) added _______ mcg/day of _______ to
+  hydrocortisone 200 mg/day and DID show mortality benefit (_______ vs
+  _______%). The SSC trigger for steroids in septic shock is NE or Epi ≥ _______
+  mcg/kg/min.
+
+CHUNK 53  (17 cards | 4 HIGH  4 MEDIUM  0 LOW  9 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=7  chart-l1
+  Domains : drug_mechanism, pathophysiology_rationale
+  Front   :
+  On the receptor map chart, α1 receptors are located on _______ smooth muscle
+  cells and cause _______. Pure α1 agonist _______ causes a reflex _______
+  because it has no _______ activity. β2 receptors in bronchial smooth muscle
+  cause _______, and β2 stimulation also shifts potassium _______.
+
+  [HIGH  ] blanks=4  chart-l3  ★ MULTI-SUBJECT
+  Domains : clinical_trial, drug_dose, drug_mechanism
+  Front   :
+  The receptor chart shows dopamine receptors (DA1) cause renal _______, and
+  'renal dose dopamine' (1–3 mcg/kg/min) is _______ recommended by evidence.
+  Muscarinic (mAChR) blockade by _______ treats organophosphate toxicity by
+  drying secretions. The muscarinic M2 receptor at the SA node mediates _______
+  when stimulated.
+
+  [HIGH  ] blanks=6  chart-l3  ★ MULTI-SUBJECT
+  Domains : drug_mechanism, drug_monitoring, reversal_antidote
+  Front   :
+  On the coagulation reversal chart, warfarin reversal for INR > 6 with
+  life-threatening bleeding uses _______ units/kg of 4F-PCC PLUS _______.
+  Protamine reverses UFH at _______ mg per _______ units of heparin. Tranexamic
+  acid (TXA) is given in trauma within _______ hours and works by inhibiting
+  _______.
+
+  [HIGH  ] blanks=6  chart-l2
+  Domains : clinical_trial, drug_dose, drug_monitoring
+  Front   :
+  On the renal dose adjustment chart, morphine is problematic in AKI because its
+  active metabolite _______ accumulates, causing _______. The preferred opioid
+  in AKI/CKD is _______. In CrCl &lt; 30 mL/min, LMWH (enoxaparin) should be
+  _______ and replaced with _______ monitored by _______.
+
+  [MEDIUM] blanks=6  chart-l1
+  Domains : drug_mechanism, drug_monitoring
+  Front   :
+  The antibiotic mechanisms chart shows beta-lactams inhibit _______ (PBPs),
+  blocking _______. Cefepime (4th generation) covers gram-negatives including
+  _______. Vancomycin instead inhibits _______ and is monitored by _______
+  target of _______.
+
+  [MEDIUM] blanks=6  chart-l2
+  Domains : drug_mechanism, pathophysiology_rationale
+  Front   :
+  The antibiotic chart shows aminoglycosides inhibit the _______ ribosomal
+  subunit. The preferred dosing strategy is _______ (once-daily) because
+  aminoglycosides show _______ dependent killing. Linezolid covers _______ and
+  _______, but causes _______ syndrome risk when combined with serotonergic
+  drugs.
+
+  [MEDIUM] blanks=4  chart-l2
+  Domains : drug_mechanism, pathophysiology_rationale
+  Front   :
+  The CYP2C19 chart shows clopidogrel is a _______ requiring CYP2C19 activation.
+  PPIs inhibit CYP2C19 — the safest PPI to use with clopidogrel is _______
+  because it is the weakest CYP2C19 inhibitor. Patients who are CYP2D6 poor
+  metabolizers cannot effectively convert _______ to morphine, resulting in
+  _______.
+
+  [MEDIUM] blanks=5  chart-l1
+  Domains : drug_mechanism, drug_monitoring
+  Front   :
+  The coagulation chart shows the extrinsic pathway is measured by _______ (INR)
+  and the intrinsic pathway by _______. UFH works by binding _______, which then
+  inhibits factors _______ and _______.
+
+CHUNK 54  (16 cards | 9 HIGH  5 MEDIUM  0 LOW  2 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [HIGH  ] blanks=6  chart-l1  ★ MULTI-SUBJECT
+  Domains : drug_mechanism
+  Front   :
+  On the sedation comparison chart, propofol works by _______ and has a unique
+  toxicity at doses > _______ mg/kg/hr for > 48 hours called _______ syndrome,
+  which presents with _______, rhabdomyolysis, and _______. Propofol has _______
+  analgesic effect.
+
+  [HIGH  ] blanks=7  chart-l2  ★ MULTI-SUBJECT
+  Domains : drug_mechanism, pathophysiology_rationale
+  Front   :
+  On the sedation chart, dexmedetomidine is unique because it provides sedation
+  WITHOUT _______ depression. It acts on _______ receptors in the _______.
+  Ketamine provides sedation AND analgesia via _______ receptor antagonism and
+  is preferred for intubation in _______ because it is a _______ agent. Ketamine
+  also causes _______ making it useful in asthma.
+
+  [HIGH  ] blanks=6  chart-l3  ★ MULTI-SUBJECT
+  Domains : pathophysiology_rationale
+  Front   :
+  The sedation chart shows midazolam is associated with _______ in ICU compared
+  to propofol and dexmedetomidine. In hepatic failure, the preferred
+  benzodiazepine is _______ because it undergoes _______ without producing
+  active metabolites. Lorazepam IV infusions can cause toxicity from the carrier
+  _______, presenting as _______ gap and metabolic _______.
+
+  [HIGH  ] blanks=7  chart-l3
+  Domains : —
+  Front   :
+  The antifungal selection chart shows mucormycosis requires _______
+  amphotericin B PLUS surgical _______. Cryptococcus meningitis is treated with
+  _______ PLUS _______ for induction × _______ weeks, then _______ for
+  consolidation. The key difference between conventional and liposomal
+  amphotericin B is _______.
+
+  [HIGH  ] blanks=7  chart-l1
+  Domains : clinical_trial, drug_monitoring
+  Front   :
+  The MRSA coverage chart shows vancomycin is monitored by _______ target of
+  _______ (not trough alone). Daptomycin is CONTRAINDICATED for MRSA _______
+  because it is inactivated by _______. The ZEPHyR trial found _______ superior
+  to vancomycin for MRSA VAP with a clinical cure rate of _______ vs _______.
+
+  [HIGH  ] blanks=5  chart-l2  ★ MULTI-SUBJECT
+  Domains : clinical_trial, drug_mechanism
+  Front   :
+  The cardiogenic shock chart shows dobutamine primarily stimulates _______
+  receptors, increasing cardiac output and modestly _______ SVR. Milrinone works
+  by inhibiting _______, which is different from dobutamine. The IABP-SHOCK II
+  trial showed IABP _______ mortality in cardiogenic shock. The hemodynamic
+  target in cardiogenic shock is cardiac index ≥ _______ L/min/m².
+
+  [HIGH  ] blanks=7  chart-l1
+  Domains : drug_mechanism, drug_monitoring, biomarker_kinetics
+  Front   :
+  On the beta-blocker comparison chart, esmolol has an ultra-short half-life of
+  _______ minutes because it is metabolized by _______. For type A aortic
+  dissection, the target heart rate is _______ and SBP &lt; _______ mmHg,
+  achieved with esmolol PLUS _______. The non-selective beta-blocker required
+  for esophageal variceal prophylaxis is _______ because it requires _______
+  receptor blockade.
+
+  [HIGH  ] blanks=7  chart-l3
+  Domains : drug_mechanism
+  Front   :
+  On the beta-blocker chart, labetalol blocks _______ and _______ receptors in a
+  _______ to _______ β:α ratio. It is first-line for hypertensive emergency in
+  _______ (pregnancy complication). Beta-blockers are absolutely contraindicated
+  in _______ (type of shock) and relatively contraindicated in _______ and
+  severe bradycardia.
+
+  [HIGH  ] blanks=4  chart-l1  ★ MULTI-SUBJECT
+  Domains : —
+  Front   :
+  On the vasopressor algorithm chart, vasopressin is added at fixed dose _______
+  units/min when NE reaches _______ mcg/kg/min. Epinephrine as a third-line
+  vasopressor raises _______, making _______ clearance unreliable as a
+  resuscitation endpoint.
+
+  [MEDIUM] blanks=6  chart-l1
+  Domains : drug_mechanism, drug_monitoring
+  Front   :
+  The antifungal chart shows azoles inhibit _______, reducing ergosterol
+  synthesis. Fluconazole covers _______ but NOT _______. Voriconazole is
+  first-line for _______ and is monitored by trough level of _______. The
+  azole-fluconazole drug interaction that doubles INR is with _______.
+
+  [MEDIUM] blanks=5  chart-l2
+  Domains : clinical_trial, drug_mechanism
+  Front   :
+  The echinocandin chart shows this class inhibits _______, disrupting the
+  fungal cell wall. The echinocandin requiring NO dose adjustment in renal OR
+  hepatic failure is _______. Echinocandins are NOT active against _______ and
+  _______. The IDSA guideline recommends echinocandins as first-line for
+  candidemia when the patient is _______.
+
+  [MEDIUM] blanks=5  chart-l3
+  Domains : clinical_trial, biomarker_kinetics
+  Front   :
+  The de-escalation chart shows the recommended duration for HAP/VAP is _______
+  days. Procalcitonin &lt; _______ mcg/mL or ↓ by _______ % from peak is a
+  signal to stop antibiotics. The PRORATA trial showed PCT-guided de-escalation
+  reduced antibiotic exposure from _______ to _______ days without increasing
+  mortality.
+
+  [MEDIUM] blanks=4  chart-l3
+  Domains : drug_monitoring, biomarker_kinetics
+  Front   :
+  On the specific shock types chart, the FIRST treatment for anaphylaxis is
+  _______ given _______ (site and route), not IV antihistamines. Neurogenic
+  shock from spinal cord injury differs from other shock types because the heart
+  rate is _______ (not elevated). The MAP target in acute spinal cord injury is
+  ≥ _______ mmHg to maintain cord perfusion.
+
+  [MEDIUM] blanks=4  chart-l2
+  Domains : clinical_trial, drug_mechanism
+  Front   :
+  The beta-blocker chart shows carvedilol has _______ receptor blocking
+  activity. The MERIT-HF trial showed metoprolol _______ XL reduced mortality in
+  HFrEF by _______%. In thyroid storm, propranolol is preferred over
+  cardioselective beta-blockers because it also inhibits _______ conversion.
+
+CHUNK 55  (15 cards | 0 HIGH  1 MEDIUM  0 LOW  14 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [MEDIUM] blanks=2  chart-l2
+  Domains : clinical_trial, pathophysiology_rationale
+  Front   :
+  On the acute decompensated HF chart, the DOSE trial showed the high-dose
+  furosemide strategy results in _______ without increasing _______.
+
+CHUNK 56  (15 cards | 0 HIGH  4 MEDIUM  1 LOW  10 OK)
+──────────────────────────────────────────────────────────────────────
+
+  [MEDIUM] blanks=2  chart-l1
+  Domains : drug_monitoring, biomarker_kinetics
+  Front   :
+  The nephrotoxicity monitoring chart shows aminoglycoside AKI is triggered when
+  SCr rises _______, with the key prevention strategy being _______.
+
+  [MEDIUM] blanks=3  chart-l1
+  Domains : drug_monitoring, diagnosis_criteria
+  Front   :
+  The RASS targets chart shows general ICU ventilated patients target RASS
+  _______, while patients on NMBAs require RASS _______ with mandatory _______
+  monitoring.
+
+  [MEDIUM] blanks=2  chart-l3
+  Domains : clinical_trial, formula_calculation
+  Front   :
+  The SAT/SBT chart shows a spontaneous breathing trial (SBT) passes when RSBI
+  is _______, where RSBI is calculated as _______.
+
+  [MEDIUM] blanks=2  chart-l3
+  Domains : drug_monitoring, reversal_antidote
+  Front   :
+  The warfarin INR targets chart shows mechanical mitral valve requires INR
+  _______, and major bleeding with warfarin is reversed using _______ as
+  first-line agent.
+
+  [LOW   ] blanks=2  chart-l2
+  Domains : drug_dose, drug_monitoring
+  Front   :
+  On the argatroban monitoring chart, hepatic failure patients require a
+  starting dose of _______ with aPTT target _______, lower than the standard
+  goal.
+
+======================================================================
+SUMMARY
+======================================================================
+Total chart cards : 455
+Flagged (needs review) : 141  (30% of deck)
+  HIGH   (must split)   : 54
+  MEDIUM (likely split) : 78
+  LOW    (review)       : 9
+  OK     (single domain): 314

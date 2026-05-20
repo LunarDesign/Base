@@ -1,0 +1,1877 @@
+=== PAGE 2 ===
+MISSION
+AACN Certification Corporation drives patient health and safety through comprehensive credentialing of acute
+and critical care nurses, advancing practice consistent with standards of excellence.
+VISION
+All nurses caring for acutely and critically ill patients and their families are certified.
+VALUES
+As the Corporation advances its mission and vision to fulfill its purpose and inherent obligation of driving the
+health and safety of patients experiencing acute and critical illness, we are guided by a set of deeply rooted
+values. These values are the foundation upon which we build our relentless pursuit of excellence.
+• Integrity – We demonstrate sound judgment, ethical behavior and accountability in all we do.
+• Inclusion – We cultivate an inclusive culture, where everyone contributes their unique strengths and
+perspectives.
+• Transformation – We drive change and innovation to positively impact the healthcare system and improve
+the lives of patients, families and nurses.
+• Leadership – We advocate and influence to achieve optimal outcomes and healthy work environments.
+• Relationships – We collaborate and advance partnerships, honoring each individual to strengthen the
+collective.
+ETHICS
+AACN and AACN Certification Corporation consider the American Nurses Association (ANA) Code of Ethics for
+Nurses foundational for nursing practice, providing a framework for making ethical decisions and fulfilling
+responsibilities to the public, colleagues and the profession. AACN Certification Corporation’s mission of public
+protection supports a standard of excellence where certified nurses have a responsibility to read about,
+understand and act in a manner congruent with the ANA Code of Ethics for Nurses.
+The following AACN Certification Corporation programs have been accredited by the Accreditation Board for
+Specialty Nursing Certification (ABSNC).
+CCRN® (Adult) CCRN® (Pediatric) CCRN® (Neonatal) PCCN® (Adult) ACNPC-AG®
+CMC® CSC® ACCNS-AG® ACCNS-N® ACCNS-P®
+Our advanced practice certification programs, ACCNS-AG, ACCNS-P, ACCNS-N and ACNPC-AG, are in alignment
+with the Consensus Model for APRN Regulation and other foundational national standards for APRN education,
+accreditation and regulation.
+
+=== PAGE 3 ===
+Certification Organization for the American Association of Critical-Care Nurses
+CCRN EXAM HANDBOOK
+Direct Care Eligibility Pathway
+Acute/Critical Care Certification — Adult, Pediatric, Neonatal
+As healthcare becomes increasingly complex and challenging, certification has emerged as a mark of excellence showing
+patients, employers and the public that a nurse possesses a defined body of knowledge and has met the rigorous
+requirements to achieve specialty and/or subspecialty certification.
+AACN Certification Corporation programs were created to protect healthcare consumers by validating the knowledge of
+nurses who care for and/or influence the care delivered to the acutely and critically ill. We are pleased to provide you with
+this handbook with information about our programs and how to apply for and take the CCRN certification exam - Direct Care
+Eligibility Pathway.
+Today, nurses hold more than 140,000 certifications from AACN Certification Corporation.
+Specialty Certifications
+CCRN® is for the nurse providing care to or influencing the care of acutely/critically ill adult, pediatric or neonatal patients.
+Three eligibility pathways are available:
+• Direct Care - for the nurse who provides direct care to acutely/critically ill adult, pediatric or neonatal patients.
+• Knowledge Professional - for the nurse who influences the care delivered to acutely/critically ill adult, pediatric or
+neonatal patients, but does not primarily or exclusively provide direct care.
+• Tele-critical Care - for the nurse working in a tele-critical care setting monitoring/caring for acutely/critically ill
+adult patients from a remote location.
+PCCN® is for the progressive care nurse. Two pathways of eligibility are available:
+• Direct Care - for the nurse providing direct care to acutely ill adult patients.
+• Knowledge Professional - for the nurse who influences the care delivered to acutely ill adult patients, but does
+not primarily or exclusively provide direct care.
+Subspecialty Certifications
+CMC® is for the certified nurse providing direct care to acutely/critically ill adult cardiac patients.
+CSC® is for the certified nurse providing direct care to acutely/critically ill adult patients during the first 48 hours after
+cardiac surgery.
+Advanced Practice Certifications
+ACNPC-AG® is for the nurse educated at the graduate level as an adult-gerontology acute care nurse practitioner (AGACNP).
+The ACCNS credentials are for nurses educated at the graduate level as clinical nurse specialists to provide care across the
+continuum from wellness through acute care:
+ACCNS-AG® is for the clinical nurse specialist educated to care for adult-gerontology patients.
+ACCNS-P® is for the clinical nurse specialist educated to care for pediatric patients.
+ACCNS-N® is for the clinical nurse specialist educated to care for neonatal patients.
+With implementation of the Consensus Model in 2015, ACNPC and CCNS are available as renewal options only:
+ACNPC® is for the acute care nurse practitioner educated to provide care to adult patients.
+CCNS® is for the acute/critical care clinical care specialist educated to provide care to adult, pediatric or neonatal patients.
+AACN Certification Corporation’s APRN certifications are recognized for licensure in all U.S. states and territories.
+We continually seek to provide quality certification programs that meet the changing needs of nurses and patients. Please
+visit www.aacn.org/certification, or call 800-899-2226 for more information about the above certifications.
+Thank you for your commitment to patients and their families and to becoming certified.
+CCRN Exam Handbook - Direct Care | December 2025 i
+
+=== PAGE 4 ===
+Please direct inquiries to:
+AACN Certification Corporation, 27071 Aliso Creek Road, Aliso Viejo, CA 92656
+800-899-2226 • Fax: 949-362-2020 • certification@aacn.org
+Please include your AACN customer number with all correspondence to AACN Certification Corporation.
+CCRN Exam Handbook - Direct Care | December 2025 ii
+
+=== PAGE 5 ===
+Contents
+Which CCRN Eligibility Pathway is Right for You? ........................................................................1
+Certification Program ............................................................................................................................2
+Exam Eligibility .......................................................................................................................................3
+Application Fees .....................................................................................................................................4
+Application Process ................................................................................................................................5
+Certification Renewal .........................................................................................................................6-7
+AACN Synergy Model for Patient Care ...............................................................................................8-9
+Test Plans
+• Adult .........................................................................................................................................10-13
+• Pediatric ...................................................................................................................................16-19
+• Neonatal ...................................................................................................................................22-25
+Sample Questions
+• Adult .........................................................................................................................................14-15
+• Pediatric ...................................................................................................................................20-21
+• Neonatal ........................................................................................................................................26
+Exam Bibliography ..........................................................................................................................27-30
+Exam Preparation Tools .......................................................................................................................31
+Forms
+CCRN Exam Application - Direct Care ...................................................................................32-33
+CCRN Exam Honor Statement - Direct Care ........................................................................................34
+The following information can be found in the Certification Exam Policy Handbook online at www.aacn.org/certhandbooks:
+• AACN Certification Programs • Duplicate Score Reports
+• Name and Address Changes • Recognition of Certification
+• Confidentiality of Exam Application Status • Use of Credentials
+• Testing Options • Denial of Certification
+• Exam Scheduling and Cancellation • Revocation of Certification
+• Exam Day Experience • Review and Appeal of Certification Eligibility
+CCRN Exam Handbook - Direct Care | December 2025 iii
+
+=== PAGE 6 ===
+Which CCRN Eligibility Pathway is Right for You?
+Direct Care Knowledge Professional Tele-critical Care
+Pathway Pathway Pathway
+You provide direct care to acutely/ You apply knowledge that influences You monitor and care for acutely/
+critically ill (adult, pediatric or the care delivered to acutely/ critically ill (adult) patients by
+neonatal) patients, regardless of critically ill (adult, pediatric or camera from a centralized or remote
+their geographic location. neonatal) patients, but do not tele-critical care setting that is
+primarily or exclusively provide networked to the bedside.
+ELIGIBILITY
+direct care.
+• A current, unencumbered U.S. ELIGIBILITY
+RN or APRN license is required. ELIGIBILITY • A current, unencumbered U.S.
+• A current, unencumbered U.S. RN or APRN license is required.
+• Candidates must complete one
+RN or APRN license is required.
+of the following clinical practice • Candidates must complete one
+hour requirement options: • Candidates must meet the of the following clinical practice
+following practice requirement. hour requirement options:
+Two-Year Option: Practice as an
+RN or APRN for 1,750 hours Practice as an RN or APRN for Two-Year Option: Practice as
+in direct care of acutely/critically 1,040 hours during the previous an RN or APRN for 1,750 hours
+ill patients during the previous two years, with 260 of those in the care of acutely/critically
+two years, with 875 of those hours accrued in the most recent ill patients in a tele-critical care
+hours accrued in the most recent year preceding application. setting or in a combination of
+year preceding application. tele-critical care and direct care
+Eligible practice hours include
+OR those in which the nurse during the previous two years,
+with 875 of those hours accrued
+Five-Year Option: Practice as an applies knowledge in a way
+in the most recent year preceding
+RN or APRN during the previous that influences patients, nurses
+application.
+five years with a minimum of and/or organizations to have
+2,000 hours in direct care of a positive impact on the care OR
+acutely/critically ill patients, with delivered to acutely/critically ill Five-Year Option: Practice
+144 of those hours accrued in patients and families. as an RN or APRN during the
+the most recent year preceding previous 5 years with a minimum
+application. For more details, refer to the CCRN of 2,000 hours in the care of
+Exam Handbook - Knowledge acutely/critically ill patients in a
+For more details, explore this CCRN Professional Eligibility Pathway at tele-critical care setting or in a
+Exam Handbook - Direct Care www.aacn.org/certhandbooks. combination of tele-critical care
+Eligibility Pathway. and direct care, with 144 of those
+hours accrued in the most recent
+year preceding application.
+For more details, refer to the CCRN
+Exam Handbook - Tele-critical Care
+Eligibility Pathway at www.aacn.
+org/certhandbooks.
+The majority of practice hours for CCRN eligibility must focus on critically ill patients.
+CCRN Exam Handbook - Direct Care | December 2025 1
+
+=== PAGE 7 ===
+CCRN Certification Program
+CCRN® Registered Service Mark CCRN Exam Content
+CCRN is a registered service mark and denotes The CCRN exams are 3-hour tests consisting of 150
+certification in acute/critical care nursing as granted multiple-choice items. Of the 150 items, 125 are scored
+by AACN Certification Corporation. Registered nurses and 25 are used to gather statistical data on item
+who have not achieved CCRN certification, whose CCRN performance for future exams.
+certification has lapsed or who have chosen Inactive
+status are not authorized to use the CCRN credential. The CCRN exams focus on the adult, pediatric or neonatal
+patient population. Eighty percent (80%) of each exam
+Misuse of the credential is viewed by AACN Certification focuses on Clinical Judgment and the remaining 20%
+Corporation as misleading to the public and may result in covers Professional Caring and Ethical Practice.
+denial or revocation of certification.
+AACN Certification Corporation is transitioning to the
+Although a common misconception, CCRN is not an use of generic names only for medications in exams and
+acronym for “critical care registered nurse.” This would practice exam products. During the transition, exam
+imply that nurses are registered as critical care nurses, candidates may continue to see items that include both
+which is not accurate. generic and trade names.
+Purpose and Rationale CCRN Test Plans
+CCRN certification is a specialty certification for nurses The content of the CCRN exams is described in the test
+who provide care to or influence the care of acutely/ plans included in this handbook. Candidates are tested
+critically ill adult, pediatric or neonatal patients. on a variety of patient care problems that are organized
+under major categories. Please note the percentage of
+The CCRN exam is based on a study of practice, also the CCRN exam devoted to each category.
+known as a job analysis. The job analysis, conducted
+at least every five years, validates the knowledge, skills Passing Point/Cut Score
+and experience required for safe and effective practice
+A criterion-referenced standard setting process,
+as an RN or APRN who provides care to or influences the
+known as the modified Angoff, is used to establish the
+care delivered to acutely/critically ill patients in one of
+passing point/cut score for the exam. Each candidate’s
+the following patient populations: adult, pediatric or
+performance on the exam is measured against a
+neonatal.
+predetermined standard.
+The test plan, which provides an outline of exam content,
+The passing point/cut score for the exam is established
+is developed by an expert CCRN panel based on the
+using a panel of subject matter experts, a Score
+results of the study of practice. The organizing framework
+Evaluation Committee (SEC), who carefully reviews each
+for all AACN Certification Corporation exams is the AACN
+exam question to determine the basic level of knowledge
+Synergy Model for Patient CareTM.
+or skill that is expected. The passing point/cut score is
+based on the panel’s established difficulty ratings for
+Clinical practice requirements have been validated by
+each exam question.
+subject matter experts. The required hours of clinical
+practice correspond to the third stage of competence in
+Under the guidance of a psychometrician, the panel
+Benner’s Stages of Clinical Competence. CCRN certification
+develops and recommends the passing point/cut score,
+denotes to the public those practitioners who possess
+which is reviewed and approved by AACN Certification
+a distinct and clearly defined body of knowledge called
+Corporation. The passing point/cut score for the exam
+acute/critical care nursing.
+is established to identify individuals with an acceptable
+level of knowledge and skill. All individuals who pass the
+exam, regardless of their score, have demonstrated an
+acceptable level of knowledge.
+CCRN Exam Handbook - Direct Care | December 2025 2
+
+=== PAGE 8 ===
+CCRN Exam - Direct Care Eligibility Pathway
+Licensure Orientation hours spent shadowing/working with
+another nurse who is the one with the patient assignment
+Current, unencumbered U.S.1 RN or APRN licensure is
+cannot be counted toward clinical hours for CCRN
+required.
+eligibility; however, orientation hours during which you
+• An unencumbered license, as defined by AACN Cert are the assigned nurse providing direct care to acutely/
+Corp, is not currently being subjected to formal critically ill patients may be counted.
+discipline by the board of nursing in the state(s) in
+which you are practicing and has no provisions or Clinical practice hours must be completed in a
+conditions that limit your nursing practice.2 U.S.-based1 or Canada-based facility or in a facility
+determined to be comparable to the U.S. standard of
+• Your state Board's definition of unencumbered may
+acute/critical care nursing practice as evidenced by
+be different from AACN Cert Corp's definition.
+Magnet® designation or Joint Commission International
+• Provisions or conditions may include, but are not
+accreditation.
+limited to, direct supervision of practice, drug
+administration limitations and/or practice area
+Nurses serving as manager, educator (in-service or
+exclusions.
+academic), APRN or preceptor may apply hours spent
+• Documentation of all provisions and conditions supervising nursing students or nurses at the bedside.
+from the board or its designee must be reviewed
+• Nurses in these roles must be actively involved in
+prior to approval for testing.
+direct patient care; for example, demonstrating
+• Candidates and CCRN-certified nurses must notify how to measure pulmonary artery pressures or
+AACN Certification Corporation within 30 days if supervising a new employee or student nurse
+any provisions or conditions are placed on their performing a procedure.
+RN or APRN license(s).
+Practice Verification
+Practice
+The name and contact information of a professional
+Candidates must meet one of the following clinical associate must be given for verification of eligibility
+practice requirement options: related to clinical practice hours. If you are selected for
+audit, this associate will need to verify in writing that you
+• Practice as an RN or APRN for 1,750 hours in direct
+have met the clinical hour requirements.
+care of acutely/critically ill patients during the
+previous 2 years, with 875 of those hours accrued in • A professional associate is defined as your clinical
+the most recent year preceding application. supervisor or a colleague (RN or physician) with
+whom you work.
+OR
+• Practice as an RN or APRN during the previous
+AACN Certification Corporation may adopt additional
+5 years with a minimum of 2,000 hours in direct care
+eligibility requirements at its sole discretion. Any
+of acutely/critically ill patients, with 144 of those
+such requirements will be designed to establish, for
+hours accrued in the most recent year preceding
+the purposes of CCRN certification, the adequacy of a
+application.
+candidate’s knowledge in care of the acutely/critically ill.
+Eligible hours are those spent caring for the patient
+population (adult, pediatric or neonatal) in alignment
+with the exam for which you are applying. A majority of
+the total practice hours and those within the year prior
+to application for CCRN exam eligibility must focus on
+critically ill patients.
+1 Includes District of Columbia and U.S. territories of Guam, Virgin Islands, American Samoa and Northern Mariana Islands
+2 If a restriction (temporary or permanent) is placed on an RN or APRN license for an incident that occurred prior to obtaining the license,
+AACN Certification Corporation will evaluate such an occurrence on a case-by-case basis to determine if exam eligibility requirements are met.
+CCRN Exam Handbook - Direct Care | December 2025 3
+
+=== PAGE 9 ===
+Application Fees
+CCRN Fees Member Nonmember
+Computer-Based Exam $255 $370
+Retest $180 $285
+Renewal by Exam $180 $285
+Payable in U.S. funds. Fees are subject to change without notice. A $15 fee will be charged for a returned check.
+Computer-based testing discounts are available for groups of 10 or more candidates submitting their AACN
+certification exam applications in the same envelope. Employers may pre-purchase exam vouchers at a further
+discounted rate.
+For details about the Group Discount and Organization Discount Programs, visit www.aacn.org/certdiscounts,
+email certification@aacn.org or call 800-899-2226.
+CCRN Exam Handbook - Direct Care | December 2025 4
+
+=== PAGE 10 ===
+AACN Certification Corporation recommends that you be ready to test before applying for the CCRN exam.
+Online Application Process Paper Application Process
+4Register online for computer-based testing at 4Paper applications are required for those applying
+www.aacn.org/certification > Get Certified with a group, for paper-and-pencil exams and for
+testing outside the U.S.
+4Before you get started, have available the following:
+• RN or APRN license number and expiration date 4Complete the application on pages 32 and 33 and
+honor statement on page 34
+• Name, address, phone and email address of your
+clinical supervisor or a professional colleague • Fill in all requested information, including that
+(RN or physician) who can verify your practice for your RN or APRN license
+eligibility 4Include application fee
+• Credit card (Visa, MasterCard, Discover or • Credit card, check or money order
+American Express)
+4Allow 2 to 4 weeks for processing
+4Same day processing
+Use your legal name on the application.
+This name must match photo identification used for exam entry
+and will be the name printed on your certificate.
+▼
+1. Receive confirmation email
+• After you successfully apply for the exam, you will receive a confirmation email from AACN with information
+about how to schedule your exam appointment. The email will include the eligibility period during which
+you must take the exam — normally a 90-day window, but currently a 180-day window.
+• If you do not receive your confirmation email after applying for an exam, please contact AACN Customer
+Care at 800-899-2226 or certcorp@aacn.org.
+2. Schedule your exam
+• In your confirmation email from AACN, you will find a link to schedule your exam appointment. In your
+AACN customer dashboard, you will also find a “Schedule Exam” link. Both links will take you to the AACN
+Scheduling page.
+• Before selecting an exam date, you will need to choose your preferred computer-based testing option — at a
+PSI Testing Center or via Live Remote Proctoring from your computer in a quiet, private location. For details,
+refer to the Certification Exam Policy Handbook online at www.aacn.org/certhandbooks.
+• If you are taking a paper-and-pencil exam or testing outside the U.S., AACN and PSI will coordinate with you
+to schedule your exam appointment.
+3. Sit for the exam
+• Upon completion of computer-based exams, results will show on-screen and a detailed score report will be
+emailed to you within 24 hours.
+• Results of paper-and-pencil exams are received by mail 6 to 8 weeks following testing.
+• Successful candidates will be mailed their wall certificate approximately 4-6 weeks after testing. Certificants are
+also able to self-print a certificate through their AACN Dashboard; log into AACN.org and select Certification.
+More information will be provided in your congratulations email.
+Please ensure that AACN has your current contact information on record.
+Updates may be made online at www.aacn.org/myaccount or emailed to info@aacn.org.
+For name changes, please call AACN Customer Care at 800-899-2226.
+CCRN Exam Handbook - Direct Care | December 2025 5
+
+=== PAGE 11 ===
+CCRN Renewal - Direct Care Pathway
+Purpose and Limitations of Renewal Renewal Eligibility Pathways
+Options Three renewal eligibility pathways are available to CCRN
+The purpose of certification renewal is to promote certificants.
+continued competence. The renewal process helps
+to maintain an up-to-date knowledge base through CCRN - Direct Care Pathway
+continuing education and practice hours, or practice
+If you primarily or exclusively provide direct care to
+hours and passing the certification exam.
+acutely/critically ill patients (population matching
+certification held - adult, pediatric or neonatal) in
+Following are the limitations to the components of the
+specialty areas such as intensive care units, cardiac
+renewal options:
+care units, combined ICU/CCUs, trauma units or critical
+• CE/CERP limitations include content quality and care transport/flight, CCRN renewal via the Direct Care
+relevance to practice as well as an individual’s Eligibility Pathway may be an option.
+ability to self-select CE/CERPs most pertinent to the
+individual’s practice and educational needs. For more details, refer to the CCRN Renewal Handbook -
+Direct Care Eligibility Pathway online at www.aacn.org/
+• Limitations of practice hours include the quality
+certhandbooks.
+of the practice environment and limitations on
+learning opportunities.
+CCRN - Knowledge Professional Pathway
+• One limitation of the exam is not assessing new
+If you apply knowledge in a way that influences patients,
+competencies, as exam competencies were
+nurses and/or organizations to have a positive impact
+validated through initial certification.
+on the care delivered to acutely/critically ill patients
+(population matching certification held - adult, pediatric
+Requiring two components for renewal rather than
+or neonatal), but do not primarily or exclusively provide
+one decreases the limitations and furthers the goal of
+direct care, CCRN renewal via the Knowledge Professional
+continued competence.
+Eligibility Pathway may be an option.
+Renewal Period
+For more details, refer to the CCRN Renewal Handbook
+CCRN certification is granted for a period of 3 years. Your - Knowledge Professional Eligibility Pathway online at
+certification period begins the first day of the month in www.aacn.org/certhandbooks.
+which the CCRN certification exam is passed and ends
+3 years later; for example, February 1, 2023 through CCRN - Tele-critical Care Pathway
+January 31, 2026.
+If you focus on monitoring and caring for acutely/critically
+ill adult patients by camera from a centralized or remote
+You have up to 90 days beyond your certification
+tele-critical care setting that is networked to the bedside,
+expiration date to renew; however, practice hours and
+CCRN renewal via the Tele-critical Care Eligibility Pathway
+CERP's must have been completed during the 3-year
+may be an option.
+period of your certification date. CERPs or practice
+hours cannot be accumulated during the 90-day grace
+For more details, refer to the CCRN Renewal Handbook
+period.
+- Tele-critical Care Eligibility Pathway online at www.
+aacn.org/certhandbooks.
+Renewal notifications will be emailed to you starting
+4 months before your scheduled CCRN renewal date. continued
+You are responsible for renewing your certification
+even if you do not receive renewal notification. Refer
+to www.aacn.org/certification > Renew Certification for
+current information.
+1 Includes District of Columbia and U.S. territories of Guam, Virgin Islands, American Samoa and Northern Mariana Islands
+CCRN Exam Handbook - Direct Care | December 2025 6
+
+=== PAGE 12 ===
+CCRN Renewal - Direct Care Pathway (continued)
+Renewal Eligibility Options
+You may seek CCRN certification renewal via Renewal
+by Synergy CERPs or Renewal by Exam, or you may
+choose Inactive, Retired or Alumnus status. Online
+Renewal is available to all active certificants as early
+as 4 months prior to their scheduled renewal date. Visit
+www.aacn.org/certification > Renew Certification.
+Option 1 - Renewal by Synergy CERPs
+• Meet eligibility requirements for CCRN renewal and
+complete the Continuing Education Recognition
+Point (CERP) Program, which requires 100 CERPs in
+various categories (A, B & C).
+• You must retain evidence of your achievement of
+the required CERPs. Up to 3 years following your
+scheduled renewal date, you may be selected for
+audit.
+Option 2 - Renewal by Exam
+• Meet the eligibility requirements for CCRN renewal
+and successfully apply for and schedule your exam.
+• The CCRN exam must be completed before your
+scheduled renewal date. You may not take the exam
+early, then attempt to renew by CERPs if you do not
+pass.
+• This option is unavailable in the last month of the
+renewal period.
+Option 3 - Inactive Status
+• Inactive status is available to CCRN-certified
+nurses who do not meet the renewal eligibility
+requirements but do not wish to lose their
+certification status. Inactive status provides
+additional time, up to 3 years from the scheduled
+renewal date, to meet the renewal eligibility
+requirements.
+CCRN Exam Handbook - Direct Care | December 2025 7
+
+=== PAGE 13 ===
+AACN Synergy Model for Patient Care
+Synergy is an evolving phenomenon that occurs when individuals work together in mutually enhancing ways toward
+a common goal. AACN Certification Corporation is committed to ensuring that certified nursing practice is based on
+the needs of patients. Integration of the AACN Synergy Model for Patient Care into AACN Certification Corporation’s
+certification programs puts emphasis on the patient and says to the world that patients come first.
+The Synergy Model creates a comprehensive look at the patient. It puts the patient in the center of nursing practice.
+The model identifies nursing’s unique contributions to patient care and uses language to describe the professional
+nurse’s role. It provides nursing with a venue that clearly states what we do for patients and allows us to start linking
+ourselves to, and defining ourselves within, the context of the patient and patient outcomes.
+Patient Characteristics
+The Synergy Model encourages nurses to view patients in a holistic manner rather than the “body systems” medical
+model. Each patient and family is unique, with a varying capacity for health and vulnerability to illness. Each patient,
+regardless of the clinical setting, brings a set of unique characteristics to the care situation. Depending on where they
+are on the healthcare continuum, patients may display varying levels of the following characteristics:
+Capacity to return to a restorative level of functioning using compensatory/coping mechanisms; the ability to
+Resiliency
+bounce back quickly after an insult
+Vulnerability Susceptibility to actual or potential stressors that may adversely affect patient outcomes
+Stability Ability to maintain a steady-state equilibrium
+Complexity Intricate entanglement of two or more systems (e.g., body, family, therapies)
+Extent of resources (e.g., technical, fiscal, personal, psychological and social) the patient/family/community
+Resource Availability
+bring to the situation
+Participation in Care Extent to which patient/family engages in aspects of care
+Participation in
+Extent to which patient/family engages in decision-making
+Decision-Making
+Predictability A characteristic that allows one to expect a certain course of events or course of illness
+FOR EXAMPLE:
+A healthy, uninsured, 40-year-old woman undergoing a pre-employment physical could be described as an individual
+who is (a) stable (b) not complex (c) very predictable (d) resilient (e) not vulnerable (f) able to participate in decision-
+making and care, but (g) has inadequate resource availability.
+On the other hand: a critically ill, insured infant with multisystem organ failure can be described as an individual who
+is (a) unstable (b) highly complex (c) unpredictable (d) highly resilient (e) vulnerable (f) unable to become involved in
+decision-making and care, but (g) has adequate resource availability.
+continued
+CCRN Exam Handbook - Direct Care | December 2025 8
+
+=== PAGE 14 ===
+AACN Synergy Model for Patient Care (continued)
+Nurse Characteristics
+Nursing care reflects an integration of knowledge, skills and experience necessary to meet the needs of patients and
+families. Thus, nurse characteristics are derived from patient needs and include:
+Clinical reasoning, which includes clinical decision-making, critical thinking and a global grasp of the situation,
+Clinical Judgment coupled with nursing skills acquired through a process of integrating education, experiential knowledge and
+evidence-based guidelines.
+Working on another’s behalf and representing the concerns of the patient/family and nursing staff; serving as
+Advocacy/
+a moral agent in identifying and helping to resolve ethical and clinical concerns within and outside the clinical
+Moral Agency
+setting.
+Nursing activities that create a compassionate, supportive and therapeutic environment for patients and staff,
+with the aim of promoting comfort and healing and preventing unnecessary suffering. These caring behaviors
+Caring Practices
+include but are not limited to vigilance, engagement and responsiveness of caregivers. Caregivers include
+family and healthcare personnel.
+Working with others (e.g., patients, families, healthcare providers) in a way that promotes/encourages each
+Collaboration person’s contributions toward achieving optimal/realistic patient/family goals. Collaboration involves intra- and
+inter-disciplinary work with colleagues and community.
+Body of knowledge and tools that allow the nurse to manage whatever environmental and system resources
+Systems Thinking
+that exist for the patient/family and staff, within or across healthcare systems and non-healthcare systems.
+The sensitivity to recognize, appreciate and incorporate differences into the provision of care. Differences may
+Response to Diversity include, but are not limited to, individuality, cultural, spiritual, gender, race, ethnicity, lifestyle, socioeconomic,
+age and values.
+Facilitation of The ability to facilitate learning for patients/families, nursing staff, other members of the healthcare team and
+Learning community. Includes both formal and informal facilitation of learning.
+The ongoing process of questioning and evaluating practice and providing informed practice. Creating changes
+Clinical Inquiry
+through evidence-based practice, research utilization and experiential knowledge.
+Nurses become competent within each continuum at a level that best meets the fluctuating needs of their population
+of patients. More compromised patients have more severe or complex needs, requiring nurses to have advanced
+knowledge and skills in an associated continuum.
+FOR EXAMPLE:
+If the patient was stable but unpredictable, minimally resilient and vulnerable, primary competencies of the nurse would
+be centered on clinical judgment and caring practices (which includes vigilance). If the patient was vulnerable, unable
+to participate in decision-making and care, and had inadequate resource availability, the primary competencies of the
+nurse would focus on advocacy and moral agency, collaboration and systems thinking.
+Although all eight competencies are essential for contemporary nursing practice, each assumes more or less
+importance depending on a patient’s characteristics. Synergy results when a patient’s needs and characteristics are
+matched with the nurse’s competencies.
+Based on the most recent AACN Certification Corporation study of nursing practice, the test plans for our certification
+exams reflect the Synergy Model as well as findings related to nursing care of the patient population studied, e.g., adult,
+pediatric and neonatal.
+For more information about the AACN Synergy Model for Patient Care visit www.aacn.org.
+CCRN Exam Handbook - Direct Care | December 2025 9
+
+=== PAGE 15 ===
+Adult CCRN Test Plan
+Applies to exams taken on and after November 12, 2025.
+I. CLINICAL JUDGMENT (80%) C. Endocrine, Hematology/Immunology, GI, Renal/
+GU, Integumentary (21%)
+A. Cardiovascular (13%)
+1. Endocrine
+1. Acute coronary syndrome
+a. Adrenal insufficiency
+2. Aortic aneurysm, dissection, rupture (i.e.
+thoracic, abdominal) b. Diabetes insipidus (DI)
+3. Cardiac infection and inflammatory diseases c. Diabetes mellitus, types 1 and 2
+4. Cardiac surgery d. Diabetic ketoacidosis (DKA)
+5. Cardiac tamponade e. Hyperglycemia
+6. Cardiac trauma f. Hyperosmolar hyperglycemic state (HHS)
+7. Cardiac/vascular catheterization g. Syndrome of inappropriate of antidiuretic
+hormone secretion (SIADH)
+8. Cardiogenic shock
+h. Thyroid disorders
+9. Cardiomyopathy
+2. Hematology and Immunology
+10. Dysrhythmias
+a. Anemia
+11. Heart failure
+b. Autoimmune disorders (e.g., lupus,
+12. Hypertensive crisis
+myasthenia gravis, Guillain-Barré
+13. Myocardial conduction system defects (e.g.,
+syndrome)
+prolonged QT interval, Wolff-Parkinson-White)
+c. Coagulopathies (e.g., ITP, DIC, HIT)
+14. Structural heart defects (acquired and
+d. Myelosuppression (e.g., thrombocytopenia,
+congenital, including valvular disease)
+neutropenia)
+15. Vascular disorders (e.g., arterial/venous
+e. Oncologic complications (e.g., tumor lysis
+stenosis)
+syndrome, neutropenia)
+16. Vascular interventions (e.g., stents, fem-pop
+f. Transfusion reactions (e.g., TRALI, TACO)
+bypass, carotid endarterectomy)
+3. Gastrointestinal
+B. Respiratory (12%) a. Abdominal compartment syndrome
+1. Acute pulmonary edema b. Acute abdominal trauma
+2. Acute pulmonary embolus c. Acute GI hemorrhage
+3. Acute respiratory distress syndrome (ARDS) d. Bowel infarction, obstruction, perforation
+(e.g., mesenteric ischemia, adhesions)
+4. Acute respiratory failure
+e. GI surgeries (e.g., Whipple, esophagectomy,
+5. Acute respiratory infection (e.g., pneumonia)
+resections)
+6. Chronic conditions (e.g., COPD, asthma,
+f. Hepatic failure/coma (e.g., portal
+bronchitis, emphysema)
+hypertension, cirrhosis, esophageal varices,
+7. Mechanical ventilation complications
+fulminant hepatitis, biliary atresia)
+8. Pleural space abnormalities
+g. Liver disease
+(e.g., pneumothorax, hemothorax, empyema,
+h. Malnutrition and malabsorption
+pleural effusions)
+i. Pancreatitis
+9. Pulmonary hemorrhage
+j. Peritonitis
+10. Pulmonary hypertension
+4. Renal and Genitourinary
+11. Status asthmaticus
+a. Acute kidney injury (AKI), acute tubular
+12. Thoracic and airway trauma (e.g., fractured rib,
+necrosis (ATN)
+lung contusion, tracheal perforation)
+b. Chronic kidney disease (CKD)
+13. Thoracic surgery
+c. Infections (e.g., kidney, urosepsis)
+continued
+CCRN Exam Handbook - Direct Care | December 2025 10
+
+=== PAGE 16 ===
+Adult CCRN Test Plan (continued)
+Endocrine, Hematology/Immunology, GI, Renal/ h. Self-harm
+GU, Integumentary (cont.) i. Substance use disorder
+5. Integumentary j. Suicidal ideation and/or behaviors
+a. Cellulitis
+b. IV infiltration E. Multisystem (16%)
+c. Necrotizing fasciitis 1. Acid-base imbalance
+d. Pressure injury 2. Anoxic injury
+e. Skin failure (e.g., perfusion injuries) 3. Burns
+f. Wounds 4. Comorbidity in patients with transplant history
+5. Palliative care
+D. Musculoskeletal, Neurological, Behavioral/ 6. End-of-life
+Psychosocial (18%)
+7. Failure to thrive
+1. Musculoskeletal 8. Fluid and electrolyte imbalances
+a. Compartment syndrome 9. Healthcare-associated infections
+b. Fractures 10. Infectious diseases
+c. Muscular deconditioning 11. Life-threatening maternal/fetal complications
+d. Musculoskeletal trauma (e.g., eclampsia, HELLP syndrome, maternal/
+2. Neurological fetal transfusion, placental abruption, placenta
+previa)
+a. Acute spinal cord injury
+12. Multi-organ dysfunction syndrome (MODS)
+b. Brain death
+13. Obesity related complications
+c. Encephalopathy
+14. Pain
+d. Stroke (e.g., hemorrhagic, ischemic)
+15. Rhabdomyolysis
+e. Hydrocephalus
+16. Sepsis
+f. Neurogenic shock
+17. Shock states (e.g., distributive, obstructive)
+g. Neurologic infectious disease (e.g., viral,
+bacterial, fungal) 18. Sleep disruption (including sensory overload)
+h. Neurological storming 19. Submersion injuries (near-drowning)
+i. Neuromuscular disorders (e.g., ALS, 20. Systemic inflammatory response syndrome
+neuromyopathies) (SIRS)
+j. Neurosurgery 21. Thermoregulation
+k. Neurovascular abnormalities 22. Toxic ingestion/inhalations/exposure
+l. Seizure disorders
+II. PROFESSIONAL CARING & ETHICAL PRACTICE (20%)
+m. Space-occupying lesions (e.g., brain tumors,
+cysts) A. Advocacy/Moral Agency
+n. Spinal surgeries B. Caring Practices
+o. Traumatic brain injury (e.g., epidural,
+C. Clinical Inquiry
+subdural, concussion, non-accidental
+D. Collaboration
+trauma)
+3. Behavioral and Psychosocial E. Facilitation of Learning
+a. Agitation F. Response to Diversity
+b. Anti-social behaviors, aggression, violence
+G. Systems Thinking
+c. Delirium
+The sum of these percentages may not equal 100 due to
+d. Medical non-adherence
+rounding.
+e. Mood disorders, depression, anxiety
+f. Post-intensive care syndrome (PICS) Order of content does not necessarily reflect importance.
+g. Post-traumatic stress disorder (PTSD)
+CCRN Exam Handbook - Direct Care | December 2025 11
+
+=== PAGE 17 ===
+Adult CCRN Test Plan
+Testable Nursing Actions
+CLINICAL JUDGMENT Respiratory
+General • Recognize indications for and manage patients with/
+requiring:
+• Conduct pain assessments
+○ airway management
+• Evaluate patient’s response to interventions
+○ bronchoscopy
+• Assess, evaluate & prioritize data collections based
+○ chest tubes
+on patient characteristics related to the immediate
+condition and anticipated needs ○ mechanical ventilation
+• Manage device alarms based on change in patient ○ noninvasive positive pressure ventilation
+condition (e.g., BiPAP, CPAP, high-flow nasal cannula)
+• Manage patient fluid and electrolyte balance ○ oxygen therapy delivery devices
+• Provide patient and family-centered care ○ prevention of complications related to
+mechanical ventilation and NIPPV
+• Recognize signs and symptoms of emergencies,
+initiate interventions, and seek assistance as needed ○ prone positioning
+• Recognize indications for and manage patients with/ ○ rapid sequence intubation (RSI)
+requiring: ○ respiratory monitoring devices (e.g., SPO2,
+○ capnography (ETCO2) SVO2, ETCO2)
+○ complementary alternative medicine and/or ○ therapeutic gases (e.g., oxygen, nitric oxide,
+non-pharmacologic interventions heliox, CO2)
+○ intrahospital transport ○ thoracentesis
+○ medications (e.g., safe administration, ○ tracheostomy
+monitoring, polypharmacy)
+Hematology and Immunology
+○ pre- and post-operative care
+○ procedural care • Recognize indications for and manage patients with/
+requiring:
+○ sedation
+○ bleeding and clotting disorders
+○ vascular access
+○ blood dyscrasias (e.g., anemia)
+Cardiovascular ○ transfusion of blood products, exchange
+transfusions, massive transfusions
+• Identify, interpret and respond to cardiac rhythms
+• Monitor hemodynamic status and recognize signs and
+Neurological
+symptoms of hemodynamic instability
+• Recognize indications for and manage patients with/
+• Recognize early signs of decreased cardiac output
+requiring:
+• Recognize indications for and manage patients with/
+○ continuous EEG monitoring
+requiring:
+○ neuroendovascular interventions (e.g., coiling,
+○ cardiac catheterization
+thrombectomy)
+○ endovascular procedures
+○ neurologic surgical monitoring devices and
+○ mechanical circulatory support devices drains (e.g., ICP, ventricular drain)
+○ non-invasive and invasive hemodynamic ○ neurosurgical procedures (e.g., craniotomy,
+monitoring craniectomy, clipping)
+○ pericardiocentesis ○ seizure precautions
+○ temporary pacing ○ spinal precautions
+○ swallow evaluation
+continued
+CCRN Exam Handbook - Direct Care | December 2025 12
+
+=== PAGE 18 ===
+Adult CCRN Test Plan
+Testable Nursing Actions (continued)
+Integumentary Behavioral and Psychosocial
+• Recognize indications for and manage patients with/ • conduct behavioral therapeutic interventions
+requiring: • respond to behavioral emergencies (e.g., nonviolent
+○ pressure injury prevention crisis intervention, de-escalation techniques)
+○ therapeutic devices (e.g., wound VACs, pressure • utilize behavioral assessment tools (e.g., delirium,
+reduction surfaces, ostomy device, fecal alcohol withdrawal, mini-mental status)
+management devices, IV infiltrate treatment)
+Gastrointestinal
+• Address barriers to nutritional/fluid adequacy (e.g.,
+chewing/swallowing difficulties, alterations in
+hunger and thirst, inability to self-feed)
+• Recognize indications for and manage patients with/
+requiring:
+○ EGD
+○ enteral and parenteral nutrition
+○ enteral tubes
+○ feeding and supplementation
+○ gastrointestinal drains
+Renal and Genitourinary
+• Identify nephrotoxic agents
+• Recognize indications for and manage patients
+requiring renal therapeutic intervention
+(e.g., hemodialysis, CRRT, peritoneal dialysis)
+Musculoskeletal
+• Recognize indications for and manage patients with/
+requiring:
+○ compartment syndrome
+○ early mobility
+Multisystem
+• Early sepsis identification
+• Monitor and implement strategies to prevent hospital
+acquired infections
+• Recognize and manage signs and symptoms of toxin/
+drug exposure
+• Risk factor recognition and management of
+malignant hyperthermia
+• Recognize indications for and manage patients with/
+requiring:
+○ end-of-life and palliative care
+○ extracorporeal membrane oxygenation (ECMO)
+○ intra-abdominal pressure monitoring
+○ organ donation
+○ targeted temperature management
+○ temperature monitoring and regulation devices
+CCRN Exam Handbook - Direct Care | December 2025 13
+
+=== PAGE 19 ===
+Adult CCRN Sample Questions
+The purpose of the sample questions is to familiarize candidates with the style and format of the certification exam items.
+1. A patient with advanced heart failure secondary 3. A patient with a four-year history of type I
+to ischemic cardiomyopathy is admitted with diabetes is admitted with influenza. The patient
+increasing orthopnea, bilateral crackles, dyspnea, is lethargic, responds only to name, and follows
+and 3+ pitting edema in the lower bilateral simple commands. Skin is dry with poor turgor
+extremities. The echocardiogram shows an and dry oral mucous membranes. Which condition
+ejection fraction of 20%. The nurse anticipates is the MOST LIKELY cause of the patient's
+which medication combination would be MOST presentation?
+beneficial to improve cardiac remodeling and
+A. hyponatremia
+reduce symptoms of fluid overload?
+B. hypovolemia
+A. carvedilol and lisinopril
+C. hypoglycemia
+B. captopril and spironolactone
+D. ketosis
+C. cdigoxin and diltiazem
+D. flecainide and hydralazine
+4. A patient with acute respiratory distress syndrome
+(ARDS) is receiving mechanical ventilation
+2. An elderly patient with a history of diabetes with increasing oxygen requirements. The
+and hepatic insufficiency is recovering from nurse notes decreasing breath sounds in both
+hip replacement surgery. Twelve hours lower lobes and diminished chest expansion.
+postoperatively, the nurse notes: Which pathophysiologic change is MOST likely
+contributing to these findings?
+BP 88/54
+A. loss of surfactant and interstitial fluid
+HR 118 accumulation
+RR 24 B. decreased pulmonary vascular resistance and
+T 101.8° F (38.7° C) hypoxemia
+C. increased pulmonary compliance and hypoxemia
+Surgical site: erythema, swelling, and urulent
+D. mucosal edema and mucus plugging
+drainage WBC 18,500/mm3
+Cultures grow Staphylococcus species.
+Which intervention should the nurse anticipate as
+the highest PRIORITY?
+A. Administer antipyretics and monitor temperature
+trends.
+B. Intiate broad-spectrum IV antibiotics while
+monitoring hemodynamics.
+C. Prepare for urgent surgical debridement and
+possible return to the operating room.
+D. Initiate agressive wound dressing changes at the
+bedside. continued
+CCRN Exam Handbook - Direct Care | December 2025 14
+
+=== PAGE 20 ===
+Adult CCRN Sample Questions (continued)
+5. A patient with a history of angina underwent
+surgical repair of an AAA. The patient is
+receiving a sodium nitroprusside drip for severe
+postoperative hypertension. Twelve hours later,
+the patient reports new-onset back pain. Current
+assessment findings are:
+BP 80/60
+HR 120
+UO 20 mL/hr
++1 left dorsalis pedis pulse
++1 right dorsalis pedis pulse
+After notifying the provider, which intervention
+should the nurse anticipate as the IMMEDIATE
+intervention?
+A. Prepare for insertion of an intra-aortic balloon
+pump.
+B. Administer isotonic fluid at 200 mL/hr and prepare
+for Doppler studies.
+C. Obtain a computed tomography scan and prepare
+for pericardiocentesis.
+D. Discontue the nitroprusside infusion and prepare
+for surgical intervention.
+Answers
+1. B
+2. C
+3. B
+4. A
+5. D
+CCRN Exam Handbook - Direct Care | December 2025 15
+
+=== PAGE 21 ===
+Pediatric CCRN Test Plan
+Applies to exams taken on and after November 19, 2025.
+I. CLINICAL JUDGMENT (80%) 2. Hematology and Immunology
+A. Cardiovascular (11%) a. Anemia
+b. Bone marrow transplant
+1. Cardiac infection and inflammatory diseases
+c. Coagulopathies (e.g., ITP, DIC, HIT)
+2. Cardiac malformations
+d. Immune deficiencies
+3. Cardiac surgery
+e. Myelosuppression (e.g., thrombocytopenia,
+4. Cardiac transplant
+neutropenia)
+5. Cardiac/vascular catheterization
+f. Oncologic complications (e.g., tumor lysis
+6. Cardiogenic shock
+syndrome, neutropenia)
+7. Cardiomyopathies
+g. Sickle cell crisis
+8. Dysrhythmias
+h. Transfusion reactions (e.g., TRALI, TACO)
+9. Heart failure
+3. Gastrointestinal
+10. Hepertensive crisis
+a. Abdominal compartment syndrome
+11. Myocardial conduction system defects (e.g.,
+b. Acute abdominal trauma
+prolonged QT interval, Wolff-Parkinson-White)
+c. Acute GI hemorrhage
+12. Vascular occlusions
+d. Bowel infarction/obstruction/perforation
+(e.g., mesenteric ischemia, adhesions)
+B. Respiratory (13%)
+e. GI abnormalities
+1. Acute pulmonary embolus
+f. GI surgeries (e.g., Whipple, esophagectomy,
+2. Acute respiratory distress syndrome (ARDS)
+resections)
+3. Acute respiratory failure
+g. Hepatic disease and failure/coma
+4. Acute respiratory infection
+h. Liver transplant
+5. Chronic respiratory failure
+i. Malnutrition and malabsorption
+6. Chrnoic pulmonary conditions
+j. Peritonitis
+7. Airway malformations
+4. Renal and Genitourinary
+8. Pulmonary hypertension
+a. Acute kidney injury (AKI)
+9. Status asthmaticus
+b. Chronic kidney disease (CKD)
+10. Thoracic and airway trauma (e.g., fractured rib,
+c. Hemolytic uremic syndrome (HUS)
+lung contusion, tracheal perforation)
+d. Kidney transplant
+11. Thoracic surgery
+e. Life-threatening electrolyte imbalances
+5. Integumentary
+C. Endocrine, Hematology/Immunology, GI, Renal/
+a. IV infiltration/extravasation
+GU, Integumentary (25%)
+b. Pressure injury
+1. Endocrine
+c. Skin failure (e.g., hypoperfusion)
+a. Diabetes mellitus
+d. Wounds
+b. Diabetic ketoacidosis (DKA)
+c. Hyperglycemia
+d. Hypoglycemia
+e. Diabetes insipidus (DI), syndrome of
+inappropriate antidiuretic hormone
+secretion (SIADH), cerebral salt wasting
+(CSW) continued
+CCRN Exam Handbook - Direct Care | December 2025 16
+
+=== PAGE 22 ===
+Pediatric CCRN Test Plan (continued)
+D. Musculoskeletal, Neurological, Behavioral/ II. PROFESSIONAL CARING & ETHICAL PRACTICE (20%)
+Psychosocial (15%)
+A. Advocacy/Moral Agency
+1. Musculoskeletal
+B. Caring Practices
+a. Compartment syndrome
+C. Clinical Inquiry
+b. Musculoskeletal trauma
+D. Collaboration
+c. Rhabdomyolysis
+2. Neurological E. Facilitation of Learning
+a. Acute spinal cord injury F. Response to Diversity
+b. Brain death G. Systems Thinking
+c. Congenital neurological abnormalities
+d. Delirium The sum of these percentages may not equal 100 due to
+e. Encephalopathy rounding.
+f. Intracranial hemorrhage
+Order of content does not necessarily reflect importance.
+g. Stroke
+h. Hydrocephalus
+i. Neurologic infectious disease
+j. Neuromuscular disorders
+k. Neurosurgery
+l. Seizure disorders
+m. Space-occupying lesions
+n. Spinal fusion
+o. Traumatic brain injury
+3. Behavioral and Psychosocial
+a. Abuse/neglect/maltreatment
+b. Medical non-adherence
+c. Mood disorders, depression, anxiety
+d. Post-intensive care syndrome (PICS)
+e. Suicidal ideation and/or behaviors
+E. Multisystem (17%)
+1. Acid-base imbalance
+2. Burns, thermal injury/exposure
+3. End-of-life
+4. Palliative care
+5. Healthcare-acquired conditions (HAC)
+6. Multi-organ dysfunction syndrome (MODS)
+7. Tissue and organ donation
+8. Pain: acute and chronic
+9. Systemic inflammatory response syndrome
+(SIRS)
+10. Sepsis
+11. Shock states (e.g., distributive, hypovolemic,
+obstructive)
+12. Submersion injuries (near-drowning)
+13. Toxic ingestion/inhalation/exposure
+CCRN Exam Handbook - Direct Care | December 2025 17
+
+=== PAGE 23 ===
+Pediatric CCRN Test Plan
+Testable Nursing Actions
+CLINICAL JUDGMENT Cardiovascular
+General • Identify, interpret and respond to cardiac rhythms
+• Monitor hemodynamic status and recognize signs
+• Identify signs and symptoms of clinical deterioration,
+and symptoms of hemodynamic instability
+initiate nursing interventions, and seek assistance as
+needed • Recognize indications for and manage patients with/
+requiring:
+• Conduct a comprehensive physical and psychosocial
+assessment ○ 12-lead ECG
+• Evaluate diagnostic test results and anticipate ○ cardioversion (pharmacologic, non-
+interventions pharmacologic, electrical)
+• Interpret laboratory and blood gas results and
+○ defibrillation
+anticipate interventions
+○ invasive hemodynamic monitoring (e.g., arterial
+• Provide family-centered care
+catheter, central venous pressure monitoring)
+• Conduct developmentally appropriate pain
+assessment ○ near infrared spectroscopy (NIRS)
+• Manage tissue and organ donors ○ temporary pacing
+• Manage monitor alarms based on protocols and ○ ventricular assist device (VAD)
+changes in patient condition
+• Prevention and management of healthcare acquired
+Respiratory
+conditions/events
+• Assess and prevent complications related to
+• Recognize indications for and manage patients with/
+mechanical ventilation
+requiring:
+• Recognize indications for and manage patients with/
+○ complementary alternative medicine and/or
+requiring:
+non-pharmacologic interventions
+○ artificial airways (e.g., endotracheal tube,
+○ intra-procedural and post-procedural care tracheostomy, LMA)
+○ medications (e.g., safe administration, ○ non-invasive ventilation (e.g., BiPAP, CPAP,
+monitoring, polypharmacy, sedation) high-flow nasal cannula)
+○ fluid and electrolyte replacement ○ invasive ventilation (e.g., conventional
+mechanical ventilation)
+○ palliative care
+○ non-conventional mechanical ventilation (e.g.,
+○ end-of-life care high-frequency, jet)
+○ pre- and post-operative care ○ chest tubes
+○ procedural sedation ○ prone positioning
+○ rapid sequence itubation (RSI)
+○ temperature monitoring and regulation devices
+○ therapeutic gases (e.g., oxygen, nitric oxide,
+○ bone fracture prevention and/or treatment
+heliox, CO2)
+○ vascular access
+Hematology and Immunology
+• Recognize indications for and manage patients with/
+requiring:
+○ plasmapheresis, exchange transfusion, or
+leukocyte depletion
+○ transfusion of blood and blood products
+continued
+CCRN Exam Handbook - Direct Care | December 2025 18
+
+=== PAGE 24 ===
+Pediatric CCRN Test Plan
+Testable Nursing Actions (continued)
+Neurological Behavioral and Psychosocial
+• Recognize indications for and manage patients with/ • Conduct behavioral assessment (e.g., delirium,
+requiring: withdrawal)
+○ neuroprotective protocols • Manage patients requiring behavioral and mental
+○ neurologic monitoring devices and drains (e.g., health interventions
+ICP, ventricular drain) • Respond to behavioral emergencies (e.g., nonviolent
+○ seizure precautions crisis intervention, de-escalation techniques)
+○ spinal precautions • Recognize indications for and manage patients
+requiring restraints
+○ brain death assessment
+Integumentary
+• Prevent and manage surgical site infection
+• Manage patients requiring wound prevention and/or
+treatment
+Gastrointestinal
+• Recognize indications for and manage patients with/
+requiring:
+○ intra-abdominal pressure monitoring
+○ inadequate nutrition and fluid intake
+○ enteral and parenteral nutrition
+○ enteral tubes
+○ gastrointestinal drains
+○ necrotizing enterocolitis (NEC)
+Renal and Genitourinary
+• Recognize indications for and manage patients
+requiring renal therapeutic intervention (e.g.,
+hemodialysis, CRRT, peritoneal dialysis)
+Multisystem
+• Early and late sepsis identification and treatment
+• Monitor and implement strategies to prevent hospital
+acquired infections
+• Recognize indications for and manage patients
+requiring progressive mobility
+• Manage patients requiring extracorporeal membrane
+oxygenation (ECMO)
+CCRN Exam Handbook - Direct Care | December 2025 19
+
+=== PAGE 25 ===
+Pediatric CCRN Sample Questions
+The purpose of the sample questions is to familiarize candidates with the style and format of the certification exam items.
+1. A toddler with a history of unrepaired Tetralogy of 3. A child is admitted with colitis develops increased
+Fallot (TOF) is undergoing IV insertion. During the respiratory distress, progressive abdominal
+procedure, the child begins to cry and becomes distention, and delayed capillary refill greater than
+cyanotic and diaphoretic. Vital signs are: 4 seconds, eight hours after admission. The nurse
+should suspect
+BP 82/54
+A. splenic rupture.
+HR 160
+B. intussusception.
+RR 38
+C. malrotation with volvulus.
+SpO2 72%
+D. bowel perforation.
+Which intervention is the most appropriate
+IMMEDIATE nursing action? 4. An infant admitted with encephalitis becomes
+increasingly lethargic, exhibits irregular
+A. prepare for a red blood cell transfusion respirations with brief periods of apnea, and has a
+B. apply a face mask with supllemental oxygen weak cry. Vital signs are:
+C. place the child in a knee-chest position BP 82/48
+D. administer a premedication for IV insertion HR 158
+RR 22, irregular
+2. An adolescent with a history of recurrent T 102.6° F (38.6° C)
+admissions for chronic status asthmaticus is
+SpO2 93% on room air
+being prepared for discharge. During discharge
+teaching, the nurse determines that the patient has
+Which assessment should the nurse perform
+not been compliant with prescribed medications,
+FIRST?
+stating they make them feel "too different" from
+their peers. Which nursing action is the most
+A. Evaluate pupillary size and reactivity.
+appropriate NEXT step?
+B. Assess Glasgow Coma Scale and document level of
+A. Explore the patient’s feelings about peer
+consciousness.
+acceptance and collaboratively plan strategies to
+improve adherence. C. Check capillary blood glucose level.
+B. Review the risks of nonadherence and D. Assess airway patency and prepare for possible
+collaboratively develop a written action plan. ventilatory support.
+C. Encourage the patient to demonstrate proper
+inhaler technique and reinforce daily usage.
+D. Contact the provider to review the regimen and
+discuss possible medication adjustments.
+continued
+CCRN Exam Handbook - Direct Care | December 2025 20
+
+=== PAGE 26 ===
+Pediatric CCRN Sample Questions (continued)
+5. A 15-year-old is admitted with hypovolemic shock
+following three days of severe vomiting and poor
+oral intake. The patient is pale, anxious, and has
+cool, clammy skin. Vital signs are:
+BP 85/54
+HR 128
+RR 26
+SpO2 91% on room air
+Which action should the nurse perform FIRST?
+A. Administer oxygen via nonrebreather mask.
+B. Prepare for endotracheal intubation.
+C. Anticipate placement of a central venous catheter.
+D. Prepare for rapid infusion of isotonic fluids.
+Answers
+1. C
+2. A
+3. D
+4. D
+5. A
+CCRN Exam Handbook - Direct Care | December 2025 21
+
+=== PAGE 27 ===
+Neonatal CCRN Test Plan
+Applies to exams taken on and after November 12, 2025.
+I. CLINICAL JUDGMENT (80%) 2. Hematology and Immunology
+A. Cardiovascular (10%) a. Blood cell disorders (e.g., anemias,
+polycythemia, sickle cell disease,
+1. Acquired cardiac conditions
+leukopenia)
+2. Alteration in the transition to extrauterine life
+b. Coagulopathies (e.g., DIC,
+(e.g., PDA, PFO, PPHN)
+thrombocytopenias, hemorrhagic disease
+3. Cardiac tamponade
+of the newborn, factor deficiencies)
+4. Congenital heart defects
+c. Hemolytic disease of the newborn (e.g., Rh
+5. Dysrhythmias incompatibilities, ABO incompatibilities)
+6. Heart failure (e.g., high output, congestive, 3. Gastrointestinal
+secondary)
+a. Abnormalities - congenital or acquired (e.g.,
+7. Hemodynamic instability omphalocele, gastroschisis, malrotation/
+8. Surgery volvulus, imperforate anus, Hirschsprung
+disease, intussusception, pyloric stenosis,
+B. Respiratory (15%) atresias)
+b. Gastroesophageal reflux
+1. Acute respiratory distress and/or failure
+c. Hepatic failure (e.g., portal hypertension,
+2. Alteration in the transition to extrauterine life
+biliary atresia, cholestasis)
+(e.g., surfactant deficiency, secondary apnea)
+d. Necrotizing enterocolitis (NEC)
+3. Apnea of prematurity
+e. Nutritional conditions
+4. Aspiration (e.g., meconium, secretions, milk,
+gastric contents) i. Intolerance (e.g., feeding, protein
+absorption, milk allergy)
+5. Chronic conditions (e.g., CLD/BPD, PIE)
+ii. Malabsorption
+6. Congenital anomalies (e.g., CDH, TEF-EA,
+choanal atresia, tracheal malacia/stenosis/ iii. Surgery
+atresia, CPAM, chylothorax) 4. Renal and Genitourinary
+7. Infection (bacterial, viral, and fungal) a. Conditions - congenital and acquired (e.g.,
+8. Pleural space abnormalities (e.g., hypospadias, polycystic kidney disease,
+pneumothorax, hemothorax, empyema, hydronephrosis, bladder exstrophy,
+pleural effusions) posterior urethral valves, ambiguous
+genitalia, AKI, CKD)
+9. Pulmonary hemorrhage
+b. Infections
+10. Pulmonary hypertension (e.g., PPHN,
+structural failure) c. Surgery
+11. Respiratory distress syndrome (RDS) 5. Integumentary
+12. Surgery a. Complications related to neonatal skin (e.g.,
+injury, transepidermal water loss, contact
+13. Transient tachypnea of the newborn (TTN)
+dermatitis)
+b. Congenital abnormalities
+C. Endocrine, Hematology/Immunology, GI, Renal/
+(e.g., epidermolysis bullosa, skin tags,
+GU, Integumentary (20%)
+hemangiomas)
+1. Endocrine
+c. Diaper dermatitis
+a. Adrenal disorders
+d. Infection (bacterial, viral, and fungal)
+b. Calcium homeostatis disorders
+e. IV infiltration/extravasation
+c. Glucose homeostasis (hypo- and
+f. Skin conditions associated with gestational
+hyperglycemia)
+age
+d. Metabolism disorders (e.g., glucose,
+g. Wounds (non-surgical and surgical)
+protein, fat)
+continued
+e. Thyroid disorders
+CCRN Exam Handbook - Direct Care | December 2025 22
+
+=== PAGE 28 ===
+Neonatal CCRN Test Plan (continued)
+D. Musculoskeletal, Neurological, Behavioral/ 8. Hyperbilirubinemia
+Psychosocial (13%) 9. Infant of a diabetic mother (IDM)
+1. Musculoskeletal 10. Life-threatening maternal/fetal complications
+a. Acquired conditions (e.g., osteopenia, (e.g., eclampsia, HELLP syndrome, maternal-
+fractures, brachial plexus injury, infection) fetal transfusion, placental abruption, placenta
+previa)
+b. Congenital conditions (e.g., craniofacial,
+limb, muscle, spine, osteogenesis 11. Multi-organ failure
+imperfecta) 12. Sensory impairment (e.g., retinopathy of
+2. Neurological prematurity, glaucoma, congenital hearing
+impairment)
+a. Congenital abnormalities (e.g., AV
+malformation, myelomeningocele, 13. Sepsis (early and late onset)
+encephalocele, hydrocephalus) 14. Sequences (e.g., VACTERL, Pierre Robin)
+b. Hemorrhage (e.g., extracranial, intracranial, 15. Shock states (e.g., hypovolemic, septic,
+intraventricular) cardiogenic, obstructive)
+c. Infection (bacterial, viral, and fungal) 16. Terminal conditions (e.g., end-of-life, palliative
+d. Ischemic insult (e.g., stroke, periventricular care, death and dying)
+leukomalacia, HIE) 17. Thermoregulation
+e. Seizures 18. Toxin/drug exposure (e.g., withdrawal from
+f. State dysregulation (e.g., stress, pain, maternal or iatrogenic substances, fetal alcohol
+agitation) spectrum syndrome)
+g. Surgery
+3. Behavioral and Psychosocial II. PROFESSIONAL CARING & ETHICAL PRACTICE (20%)
+a. Alterations in family systems (e.g., A. Advocacy/Moral Agency
+engagement, resource limitations, caregiver
+B. Caring Practices
+confidence, PTSD, postpartum mood
+C. Clinical Inquiry
+disorder)
+b. Abuse/neglect/maltreatment D. Collaboration
+c. Families in crisis (e.g., grief, lack of coping, E. Facilitation of Learning
+violent behavioral escalation, obstruction of
+F. Response to Diversity
+care)
+G. Systems Thinking
+d. Culture/communication/language
+E. Multisystem (20%) The sum of these percentages may not equal 100 due to
+rounding.
+1. Acid-base and fluid/electrolyte imbalance
+2. Birth trauma Order of content does not necessarily reflect importance.
+3. Conditions requiring advanced therapy (e.g.,
+ECMO, CRRT, dialysis, therapeutic hypothermia)
+4. Delay in growth and/or developmental
+milestones
+5. Genetic conditions
+a. Metabolic
+b. Syndromes (e.g., Turner, Noonan, Beckwith-
+Wiedemann, Prader-Willi, Angelman,
+CHARGE)
+c. Trisomies (13, 18, 21)
+6. Healthcare-acquired conditions (e.g., CAUTI,
+CLABSI, VAE, HAPI, PIVIE, MDRO)
+7. Hydrops fetalis
+CCRN Exam Handbook - Direct Care | December 2025 23
+
+=== PAGE 29 ===
+Neonatal CCRN Test Plan
+Testable Nursing Actions
+CLINICAL JUDGMENT Respiratory
+• Interpret blood gas results
+General
+• Manage medications and monitor patients requiring
+• Anticipate and recognize signs and systems of
+rapid sequence intubation (RSI)
+evolving patient condition
+• Prevent complications related to respiratory support
+• Assess and monitor based on patient's gestational
+• Recognize indications for and manage patients with/
+age
+requiring:
+• Identify and monitor normal and abnormal
+○ alternative airways (e.g., endotracheal tube,
+diagnostic test results (e.g., labs, radiology,
+laryngeal mask airway (LMA))
+pathology)
+○ assisted ventilation (traditional and high
+• Implement interventions to keep the neonates
+freqency)
+safe (e.g., transport, security, safe sleep, safe infant
+handling, infection prevention) ○ chest tubes
+• Manage equipment and/or devices relevant to ○ congenital respiratory/pulmonary
+patient care abnormalities
+• Manage patients receiving enteral/oral and ○ non-invasive positive pressure ventilation
+parenteral medications based on gestational age and (e.g., CPAP, NIPPV, high-flow nasal cannula)
+weight ○ respiratory monitoring devices (e.g., SP02, SV02,
+• Provide age-appropriate developmental care ETC02)
+• Provide care for families considering equity, diversity, ○ therapeutic gases (e.g., oxygen, nitric oxide,
+and inclusion heliox, CO2)
+• Provide pre- intra- and post-operative/procedural ○ thoracentesis
+care ○ tracheostomy
+• Recognize indications for advanced therapies and
+Hematology and Immunology
+follow protocols
+• Recognize signs and systems of emergencies, initiate • Recognize indications for and manage patients with/
+interventions, and seek assistance as needed requiring:
+• Recognize the impact of genetics on postnatal care ○ bleeding disorders and other blood
+pathophysiology
+Cardiovascular ○ blood conservation techniques
+• Identify, interpret and monitor cardiac rhythms ○ congenital hematology/immunology
+abnormalities
+• Recognize normal fetal circulation and transition to
+extrauterine life ○ transfusion of blood products
+• Recognize signs and symptoms of hemodynamic
+instability Neurological
+• Recognize indications for and manage patients with/ • Implement strategies for neurologic protection/
+requiring: promotion
+○ congenital cardiovascular abnormalities • Recognize indications for and manage patients with/
+requiring:
+○ hemodynamic monitoring (non-invasive and
+invasive) ○ congenital neurological abnormailities
+○ neurologic monitoring devices and drains (e.g.,
+○ patent ductus arteriosus (PDA)
+ICP, ventricular drain)
+○ pharmacologic and mechanic cardioversion
+○ pain (non-pharmacologic and pharmacologic)
+○ vascular access (e.g., PIVS, UVC, UAC, Midline, ○ sedation (e.g., procedural, intermittent,
+PICC, tunneled, non-tunneled) continuous)
+○ therapeutic hypothermia
+continued
+CCRN Exam Handbook - Direct Care | December 2025 24
+
+=== PAGE 30 ===
+Neonatal CCRN Test Plan
+Testable Nursing Actions (continued)
+Integumentary Multisystem
+• Recognize indications for, and manage patients with/ • Follow protocol for newborn screening (e.g., car seat
+requiring: testing, metabolic, hearing and congenital heart
+○ altered skin integrity based on gestational age disease)
+• Recognize the impact of developmental physiology
+○ congenital integumentary abnormalities
+on postnatal care
+○ infiltration/extravasation
+• Promote thermoregulation based on gestational age
+○ preventative and therapeutic intervention (e.g., • Recognize indications for and manage patients with/
+neonatal skin care, humidity, bathing, adhesives) requiring:
+○ therapeutic devices (e.g., wound VACs, pressure ○ birth trauma
+reduction surfaces, ostomy device)
+○ early and late onset sepsis
+○ acid-base and fluid/electrolyte management
+Gastrointestinal
+○ palliative and end of life care
+• Recognize indications for and manage patients with/
+○ toxin/drug exposure (e.g., withdrawal from
+requiring:
+maternal or iatrogenic substances, fetal alcohol
+○ congenital GI abnormalities
+spectrum syndrome)
+○ enteral and parenteral nutrition
+○ enteral tubes (gastic and post-pyloric) Behavioral and Psychosocial
+○ feeding diffulties and disorders • Faciliate progressive family involvement in care
+○ lactation support • Recognize indications of stress and provide support
+to family
+○ necrotizing enterocolities (NEC)
+• Respond to behavioral emergencies (e.g., nonviolent
+○ peritoneal drains
+crisis intervention, de-escalation techniques)
+○ transition to oral feedings • Provide care for diverse families (e.g., cultural,
+spiritual, LGBTQ+ community)
+Renal and Genitourinary • Recognize the impacts of social determinants of
+health
+• Recognize indications for and manage patients with/
+requiring: • Facilitate trauma informed care for families
+○ congenital renal and genitourinary
+abnormalities
+○ fluid/electrolyte management
+○ diagnostic procedures (e.g., renal biopsy,
+ultrasound)
+CCRN Exam Handbook - Direct Care | December 2025 25
+
+=== PAGE 31 ===
+Neonatal CCRN Sample Questions
+The purpose of the sample questions is to familiarize candidates with the style and format of the certification exam items.
+1. A 23-week gestational age infant is reintubated 3. An infant of a diabetic mother who charts in the
+at two weeks of life due to worsening 95th percentile on a growth curve is born, and at
+respiratory distress after five days on CPAP. An delivery appears plethoric, lethargic, and with a
+echocardiogram reveals a moderate-sized patent requirement of CPAP. The nurse suspects the most
+ductus arteriosus (PDA). Vital signs are: likely cause for the infant's condition is
+A. respiratory distress syndrome.
+HR 178
+BP 52/28 B. hypoglycemia.
+RR 68 C. transient tachypnea of the newborn.
+SpO2 86% on 70% FiO2 D. polycythemia.
+What is the MOST LIKELY cause of the infant's 4. A newborn presents with a fluid-filled sac
+respiratory failure? protruding from the lumbar region. There is no
+movement in the lower extremities. The infant is
+A. sepsis spontaneously breathing. Vital signs are:
+B. penumothorax HR 150
+C. acute pulmonary edema RR 60
+D. pneumonitis T 97.7° F (36.5° C)
+SpO2 94%
+2. After delivery, a full-term infant was placed on a
+radiant warmer. The infant has received thermal Which nursing action should be implemented
+management and airway clearing. The Apgar score FIRST?
+is 3 at one minute, and apnea is noted. Vital signs
+are: A. Cover the sac loosely and leave it exposed to air.
+B. Position the infant to prevent injury to the sac.
+HR 50
+RR Absent C. Administer prophylactic antibiotics immediately.
+SpO2 70% on supplemental oxygen D. Swaddle the infant supine to maintain warmth.
+Which NEXT step should the nurse take? 5. A two-month-old infant, delivered at home,
+presents lethargic and jaundiced with poor oral
+A. positive pressure ventilation intake since birth. Weight is below the second
+percentile for age. Which newborn screening test
+B. naloxone administration
+would the nurse expect to detect this condition
+C. immediate intubation before symptoms appear?
+D. cardiac compression initiation A. metabolic screening
+B. Coombs' blood test
+C. pre- and post-ductal pulse oximetry screening
+D. preprandial glucose
+Answers
+1. C
+2. A
+3. D
+4. B
+5. A
+CCRN Exam Handbook - Direct Care | December 2025 26
+
+=== PAGE 32 ===
+CCRN Exam Bibliography
+References Used for Item Validation
+Adult Hardin SR, Kaplow R. Synergy for Clinical Excellence:
+The AACN Synergy Model for Patient Care. 2nd ed. Boston,
+AACN Synergy Model for Patient Care. American
+MA: Jones & Bartlett; 2017.
+Association of Critical-Care Nurses website. www.aacn.
+org/nursing-excellence/aacn-standards/synergy-model.
+Hartjes TM, ed. Core Curriculum for High Acuity,
+Progressive, and Critical Care Nursing. 8th ed. St. Louis,
+American Association of Critical-Care Nurses. AACN
+MO: Elsevier; 2023.
+Standards for Establishing and Sustaining Healthy Work
+Environments: A Journey to Excellence. 2nd ed. Aliso Viejo,
+Helming MAB, Shields DA, Avino KM, Rosa WE. Dossey and
+CA: AACN; 2016. www.aacn.org/~/media/aacn-website/
+Keegan’s Holistic Nursing: A Handbook for Practice. 8th ed.
+nursing-excellence/standards/hwestandards.pdf.
+Boston, MA: Jones & Bartlett Learning; 2020.
+American Diabetes Association. 2025 Standards of Care in
+Hickey JV, Strayer AL. The Clinical Practice of Neurological
+Diabetes. Vol. 48, American Diabetes Association; 2025.
+and Neurosurgical Nursing. 8th ed. Philadelphia, PA:
+Lippincott Williams & Wilkins; 2020.
+American Heart Association. 2020 AHA Guidelines for
+Cardiopulmonary Resuscitation (CPR) and Emergency
+Ignatavicius DD, Rebar CR, Heimgartner NM. Medical-
+Cardiovascular Care (ECC). Circulation, Vol. 142, Suppl. 2.
+Surgical Nursing: Concepts for Clinical Judgment and
+2020.
+Collaborative Care. 11th ed. St. Louis, MO: Elsevier; 2023.
+American Nurses Association. Code of Ethics for Nurses.
+Infusion Nurses Society. Infusion Therapy Standards of
+2025 ed. American Nurses Association; 2025.
+Practice. 9th ed. Infusion Nurses Society; 2024.
+Baird MS. Manual of Critical Care Nursing:
+Jacobson C, Marzin K, Weber C. Cardiovascular
+Interprofessional and Collaborative Management.
+Nursing Practice: Cardiac Arrhythmias and 12 Lead ECG
+8th ed. St. Louis, MO: Elsevier; 2022.
+Interpretation. 3rd ed. Cardiovascular Nursing Education
+Associates; 2021.
+Brodie D. Extracorporeal Life Support: The ELSO Red Book.
+6th ed. Extracorporeal Life Support Organization, 2022.
+Johnson KL. AACN Procedure Manual for Progressive and
+Critical Care. 8th ed. St. Louis, MO: Elsevier; 2023.
+Bryant R, Nix D. Acute and Chronic Wounds:
+Intraprofessionals from Novice to Expert. 6th ed. St. Louis,
+Makic MB, Morata LT. Sole’s Introduction to Critical Care
+MO: Elsevier; 2024.
+Nursing. 9th ed. St. Louis, MO: Saunders/Elsevier; 2024.
+Cain C, Miller J. AACN Scope and Standards for Progressive
+McQuillan KA, Makic MBF. Trauma Nursing: From
+and Critical Care Nursing Practice. Aliso Viejo, CA: AACN
+Resuscitation through Rehabilitation. 5th ed. St. Louis,
+Critical Care; 2019.
+MO: Saunders/Elsevier; 2019.
+Delgado SA. AACN Essentials of Critical Care Nursing. 5th
+Miller J, Wells S. AACN Scope and Standards for
+ed. New York, NY: McGraw-Hill; 2023.
+Progressive Care Nursing Practice. Aliso Viejo, CA: AACN
+Critical Care; 2025.
+Delgado SA. AACN Essentials of Progressive Care Nursing.
+5th ed. New York, NY: McGraw-Hill; 2023.
+Morton PG, Thurman P. Critical Care Nursing: A Holistic
+Approach. 12th ed. Philadelphia, PA: Lippincott Williams
+Emergency Nurses Association. Sheehy’s Manual of
+& Wilkins; 2023.
+Emergency Care. 8th ed. St. Louis, MO: Mosby/Elsevier;
+2023.
+National Academies of Sciences, Engineering, and
+Medicine’s Consensus Study Report: The Future of Nursing
+Ferri F. Ferri’s Clinical Advisor. Elsevier; 2025.
+2020-2030: Charting a Path to Achieve Health Equity.
+National Academies Press; 2021.
+Hardin SR, Kaplow R. Cardiac Surgery Essentials for
+Critical Care Nursing. 4th ed. Burlington, MA: Jones &
+continued
+Bartlett; 2025.
+CCRN Exam Handbook - Direct Care | December 2025 27
+
+=== PAGE 33 ===
+CCRN Exam Bibliography (continued)
+Pagana KD, Pagana TJ, Pagana TN. Mosby’s Diagnostic Bolick BN, Reuter-Rice K, Madden MA, Severin PN.
+and Laboratory Test Reference. 17th ed. St. Louis, MO: Pediatric Acure Care: A Guide to Interprofessional Practice.
+Mosby/Elsevier; 2024. 2nd ed. Elsevier; 2020.
+Perpetua EM, Keegan P. Cardiac Nursing. 7th ed. Bryant R, Nix D. Acute and Chronic Wounds:
+Philadelphia, PA: Lippincott Williams & Wilkins; 2021. Intrarofessionals from Novice to Expert. 6th ed. St. Louis,
+MO: Elsevier; 2024.
+Skidmore-Roth L. Mosby’s 2026 Nursing Drug Reference.
+39th ed. St. Louis, MO: Mosby/Elsevier; 2025. Delgado SA. AACN Essentials of Critical Care Nursing.
+5th ed. New York, NY: McGraw-Hill; 2023.
+Stahl M, Miller J. AACN Competency Framework for
+Progressive and Critical Care. Aliso Viejo, CA: AACN Critical Emergency Nurses Association. Sheehy’s Manual of
+Care; 2022. Emergency Care. 8th ed. St. Louis, MO: Mosby/Elsevier;
+2023.
+Troiano N, Baird SM, Cypher R. High-Risk & Critical Care
+Obstetrics. 5th ed. Philadelphia, PA: Lippincott Williams & Fuhrman BP, Zimmerman JJ. Pediatric Critical Care.
+Wilkins; 2025. 6th ed. Philadelphia, PA: Elsevier; 2021.
+Urden LD, Stacy KM, Lough ME, Sanchez K. Critical Care Gardner SL, Carter BS, Enzman-Hines MI, Niermeyer S.
+Nursing: Diagnosis and Management. 10th ed. St. Louis, Merenstein & Gardner’s Handbook of Neonatal Intensive
+MO: Mosby/Elsevier; 2025. Care. 9th ed. St. Louis, MO: Elsevier; 2020.
+Vincent JL, Moore F, Bellomo R, Marini J. Textbook of Hardin SR, Kaplow R. Synergy for Clinical Excellence:
+Critical Care. 8th ed. St. Louis, MO: Mosby/Elsevier; 2024. The AACN Synergy Model for Patient Care. 2nd ed. Boston,
+MA: Jones & Bartlett; 2017.
+Pediatric
+Helming MAB, Shields DA, Avino KM, Rosa WE. Dossey and
+AACN Synergy Model for Patient Care. American
+Keegan’s Holistic Nursing: A Handbook for Practice. 8th ed.
+Association of Critical-Care Nurses website. www.aacn.
+Boston, MA: Jones & Bartlett Learning; 2020.
+org/nursing-excellence/aacn-standards/synergy-model.
+Hockenberry MJ, Duffy EA, Gibbs K. Wong’s Nursing Care
+American Association of Critical-Care Nurses. AACN
+of Infants and Children. 12th ed. St. Louis, MO: Elsevier;
+Standards for Establishing and Sustaining Healthy Work
+2025.
+Environments: A Journey to Excellence. 2nd ed. Aliso Viejo,
+CA: AACN; 2016. www.aacn.org/~/media/aacn-website/
+Hockenberry MJ, Gibbs K, Duffy EA. Wong’s Essentials of
+nursing-excellence/standards/hwestandards.pdf.
+Pediatric Nursing. 12th ed. St. Louis, MO: Elsevier; 2025.
+American Heart Association. 2020 AHA Guidelines for
+Infusion Nurses Society. Infusion Therapy Standards of
+Cardiopulmonary Resuscitation (CPR) and Emergency
+Practice. 9th ed., Infusion Nurses Society, 2024.
+Cardiovascular Care (ECC). Circulation, vol. 142, suppl. 2,
+2020.
+Miller J, Wells S. AACN Scope and Standards for
+Progressive Care Nursing Practice. Aliso Viejo, CA: AACN
+American Nurses Association. Code of Ethics for Nurses.
+Critical Care; 2025.
+2025 ed. American Nurses Association; 2025.
+Morton PG, Thurman, P. Critical Care Nursing: A Holistic
+American Nurses Association. Pediatric Nursing: Scope
+Approach. 12th ed. Philadelphia, PA: Lippincott Williams
+and Standards of Practice. 2nd ed. American Nurses
+& Wilkins; 2023.
+Association; 2016
+National Academies of Sciences, Engineering, and
+Anderson CC, Kapoor S, Mark TE. The Harriet Lane
+Medicine’s Consensus Study Report: The Future of Nursing
+Handbook: The Johns Hopkins Hospital. 23rd ed. Elsevier;
+2020-2030: Charting a Path to Achieve Health Equity.
+2023.
+National Academies Press; 2021.
+continued
+CCRN Exam Handbook - Direct Care | December 2025 28
+
+=== PAGE 34 ===
+CCRN Exam Bibliography (continued)
+Pagana KD, Pagana TJ, Pagana TN. Mosby’s Diagnostic Baird MS. Manual of Critical Care Nursing:
+and Laboratory Test Reference. 17th ed. St. Louis, MO: Interprofessional and Collaborative Management.
+Mosby/Elsevier; 2024. 8th ed. St. Louis, MO: Elsevier; 2022.
+Ricci S, Kyle T, Carman S. Maternity and Pediatric Nursing. Eichenwald EC, Hansen AR, Martin CR, Stark AR. Cloherty
+5th ed. Philadelphia, PA: Lippincott Williams & Wilkins; and Stark’s Manual of Neonatal Care. 9th ed. Philadelphia,
+2024. PA: Lippincott Williams & Wilkins; 2022.
+Skidmore-Roth L. Mosby’s 2026 Nursing Drug Reference. Fanaroff AA, Fanaroff JM, Klaus & Fanaroff’s Care of the
+39th ed. St. Louis, MO: Mosby/Elsevier; 2025. High-Risk Neonate. 8th ed. St. Louis, MO: Elsevier; 2025.
+Slota MC. AACN Core Curriculum for Pediatric High Acuity, Gardner SL, Carter BS, Enzman-Hines MI, Niermeyer S.
+Progressive, and Critical Care Nursing. 4th ed. New York, Merenstein & Gardner’s Handbook of Neonatal Intensive
+NY: Springer; 2025. Care. 9th ed. St. Louis, MO: Elsevier; 2020.
+Stahl, M, Miller, J. AACN Competency Framework for Gomella TL, Eyal F, Bany-Mohammed F. Gomella’s
+Progressive and Critical Care. Aliso Viejo, CA: AACN Critical Neonatology Management, Procedures, On-Call Problems,
+Care; 2022. Diseases, and Drugs. 8th ed. New York, NY: McGraw Hill/
+Medical; 2020.
+Urden LD, Stacy KM, Lough ME, Sanchez K. Critical Care
+Nursing: Diagnosis and Management. 10th ed. St. Louis, Hardin SR, Kaplow R. Synergy for Clinical Excellence:
+MO: Mosby/Elsevier; 2025. The AACN Synergy Model for Patient Care. 2nd ed. Boston,
+MA: Jones & Bartlett; 2017.
+Verklan MT, Walden M, Forest S. Core Curriculum for
+Neonatal Intensive Care Nursing. 6th ed. St. Louis, MO: Helming MAB, Shields DA, Avino KM, Rosa WE. Dossey and
+Elsevier; 2020. Keegan’s Holistic Nursing: A Handbook for Practice. 8th ed.
+Boston, MA: Jones & Bartlett Learning; 2020.
+Walsh, BK. Neonatal and Pediatric Respiratory Care.
+6th ed. St. Louis, MO: Saunders/Elsevier; 2023.
+Hockenberry MJ, Duffy EA, Gibbs K. Wong’s Nursing Care
+of Infants and Children. 12th ed. St. Louis, MO: Elsevier;
+Neonatal 2025.
+AACN Synergy Model for Patient Care. American
+Association of Critical-Care Nurses website. www.aacn. Hockenberry MJ, Gibbs K, Duffy EA. Wong’s Essentials of
+org/nursing-excellence/aacn-standards/synergy-model. Pediatric Nursing. 12th ed. St. Louis, MO: Elsevier; 2025.
+American Association of Critical-Care Nurses. AACN Infusion Nurses Society. Infusion Therapy Standards of
+Standards for Establishing and Sustaining Healthy Work Practice. 9th ed., Infusion Nurses Society, 2024.
+Environments: A Journey to Excellence. 2nd ed. Aliso Viejo,
+CA: AACN; 2016. www.aacn.org/~/media/aacn-website/ Kenner C, Altimier L, Boykova MV. Comprehensive
+nursing-excellence/standards/hwestandards.pdf. Neonatal Nursing Care. 6th ed. New York, NY: Springer;
+2020.
+American Heart Association. 2020 AHA Guidelines for
+Cardiopulmonary Resuscitation (CPR) and Emergency Martin RJ, Fanaroff AA. Fanaroff and Martin’s Neonatal-
+Cardiovascular Care (ECC). Circulation, vol. 142, suppl. 2, Perinatal Medicine: Diseases of the Fetus and Infant. 12th
+2020. ed. St. Louis, MO: Elsevier; 2024.
+American Nurses Association. Code of Ethics for Nurses. National Academies of Sciences, Engineering, and
+2025 ed. American Nurses Association; 2025. Medicine’s Consensus Study Report: The Future of Nursing
+2020-2030: Charting a Path to Achieve Health Equity.
+American Nurses Association. Neonatal Nursing: Scope National Academies Press; 2021.
+and Standards of Practice. 3rd ed. American Nurses
+continued
+Association; 2021.
+CCRN Exam Handbook - Direct Care | December 2025 29
+
+=== PAGE 35 ===
+CCRN Exam Bibliography (continued)
+Pagana KD, Pagana TJ, Pagana TN. Mosby’s Diagnostic
+and Laboratory Test Reference. 17th ed. St. Louis, MO:
+Mosby/Elsevier; 2024.
+Ricci S, Kyle T, Carman S. Maternity and Pediatric Nursing.
+5th ed. Philadelphia, PA: Lippincott Williams & Wilkins;
+2024.
+Sawyer T, Gleason C. Avery’s Diseases of the Newborn.
+11th ed. St. Louis, MO: Elsevier; 2024.
+Skidmore-Roth L. Mosby’s 2026 Nursing Drug Reference.
+39th ed. St. Louis, MO: Mosby/Elsevier; 2025.
+Verklan MT, Walden M, Forest S. Core Curriculum for
+Neonatal Intensive Care Nursing. 6th ed. St. Louis, MO:
+Elsevier; 2020.
+Walsh, BK. Neonatal and Pediatric Respiratory Care. 6th
+ed. St. Louis, MO: Saunders/Elsevier; 2023.
+CCRN Exam Handbook - Direct Care | December 2025 30
+
+=== PAGE 36 ===
+Exam Preparation Tools
+CCRN Exam Handbook - Direct Care | December 2025 31
+
+=== PAGE 37 ===
+Submit an ONLINE application at www.aacn.org/certification > Get Certified.
+STAPLE CHECK HERE
+CCRN Exam Application - Direct Care Pathway
+1. REGISTRATION INFORMATION PLEASE PRINT CLEARLY. PROCESSING WILL BE DELAYED IF INCOMPLETE OR NOT LEGIBLE.
+LEGAL NAME AS IT APPEARS ON YOUR GOVERNMENT-ISSUED ID CARD IS REQUIRED FOR EXAM.
+AACN CUSTOMER: RN/APRN LICENSE:
+Number Exp. Date Number State Exp. Date
+LEGAL NAME:
+Last First MI Maiden
+HOME ADDRESS:
+City State Zip
+EMAIL: HOME PHONE:
+EMPLOYER NAME: BUSINESS PHONE:
+EMPLOYER ADDRESS:
+City State Zip
+2. AACN MEMBERSHIP
+I would also like to join/renew/extend my AACN membership at this time and select member pricing for my exam fees:
+(check one box only)
+ 1-year AACN membership…………………………………….......................$78
+ 2-year AACN membership…………………………………….......................$148
+ 3-year AACN membership………………………….…………......................$200
+AACN membership includes nonrefundable $12 and $15 one-year subscriptions to Critical Care Nurse® and the American Journal of Critical Care®,
+respectively. AACN dues are not deductible as charitable contributions for tax purposes, but may be deducted as a business expense in keeping
+with Internal Revenue Service regulations.
+Member exam fee ($255) + 1-year Membership ($78) = Savings of $37 over Nonmember fee Membership Fee
+$__________
+3. EXAM FOR WHICH YOU ARE APPLYING +
+ CCRN Adult  CCRN Pediatric  CCRN Neonatal (check one box only) Exam Fee:
+Initial Exam Fee Retest Fee $__________
+CCRN =
+AACN Member Nonmember AACN Member Nonmember
+Total Payment:
+Check one box only  $255  $370  $180  $285
+$__________
+ Check this box if you’ve attached a request and supporting documentation for special testing accommodations.
+4. PAYMENT INFORMATION - application must be accompanied by payment
+ Check or money order attached – payable to AACN Certification Corporation. U.S. funds only.
+Bill my credit card:  Visa  MasterCard  American Express  Discover Card
+Credit Card # Exp. Date (mm/yy) /
+Name on Card _________________________________________ Signature ____________________________________________
+Amount Billed $_____________ Address of Payor (if different than applicant) _____________________________________________
+ Please do not include my name on lists sold to other organizations.
+Please complete pages 2 & 3 of application.
+This application form may be photocopied and is also available online at www.aacn.org/certification.
+00APCCHW CCRN Exam Handbook - Direct Care | December 2025 32
+
+=== PAGE 38 ===
+Submit an ONLINE application at www.aacn.org/certification > Get Certified.
+2 of 3
+CCRN Exam Application - Direct Care Pathway
+NAME: AACN CUSTOMER #:
+Last First MI
+5. DEMOGRAPHIC INFORMATION
+Check one box in each category. Information used for statistical purposes and may be used in eligibility determination.
+Primary Area Employed  Subacute Care (28)  Technician (21)  Home Health (13)
+ Acute Hemodialysis Unit (21)  Surgical ICU (07)  Unit Coordinator (22)  Long-Term Acute Care Hosp. (16)
+ Burn Unit (13)  TeleICU (37)  Other - specify below  Military/Government Hospital (04)
+ Cardiac Rehabilitation (26)  Telemetry (20)  Non-Academic Teaching Hosp. (14)
+ Cardiac Surgery/OR (36)  Trauma Unit (11) _____________________________ (99)  Registry (10)
+ Cardiovascular/Surgical ICU (09)  Other – specify below  Self-Employed (09)
+ Catheterization Lab (22) Highest Nursing Degree  State Hospital (06)
+ Combined Adult/Ped. ICU (23) _____________________________ (99)  Associate’s Degree  Travel Nurse (15)
+ Combined ICU/CCU (01)  Bachelor’s Degree  University Med. Ctr. (03)
+ Coronary Care Unit (03) Primary Position Held  Diploma  Other – specify below
+ Corporate Industry (24)  Academic Faculty (07)  Doctorate
+ Crit. Care Transport/Flight (17)  Acute Care Nurse Practitioner (09)  Master’s Degree _____________________________ (99)
+ Direct Observation Unit (39)  Bedside/Staff Nurse (01)
+ Emergency Dept. (12)  Case Manager (39) Ethnicity
+ General Med./Surg. Floor (18)  Charge Nurse (45)  African American (02) Number of Beds in Institution:
+ Home Care (25)  Clinic Nurse (40)  Asian (05)
+ Intensive Care Unit (02)  Clinical Coordinator (44)  Hispanic (03) _______________________________
+ Interventional Cardiology (31)  Clinical Director (04)  Native American (04)
+ Long-Term Acute Care (27)  Clinical Nurse Specialist (08)  Pacific Islander (06) Years of Experience in Nursing:
+ Medical Cardiology (34)  Corporate/Industry (11)  White/Non-Hispanic (01)
+ Medical ICU (04)  Hospital Administrator (38)  Other – specify below _______________________________
+ Medical Surgical ICU (35)  Internist (37)
+ Neonatal ICU (06)  Legal Nurse Consultant (47) _____________________________ (99) Years of Experience in Acute/Critical
+ Neuro./Neurosurgical ICU (10)  Manager (03) Care Nursing:
+ Oncology Unit (19)  Nurse Anesthetist (02) Primary Type of Facility in Which
+ Operating Room (15)  Nurse Educator (46) Employed _______________________________
+ Outpatient Clinic (29)  Nurse Midwife (13)  College/University (08)
+ Pediatric ICU (05)  Nurse Practitioner (05)  Community Hospital (Nonprofit) (01) Date of Birth: (mm/dd/yy):
+ Private Practice (32)  Outcomes Manager (42)  Community Hospital (Profit) (02)
+ Progressive Care Unit (16)  Physician (16)  Corporate/Industry (11) _______________________________
+ Recovery Room/PACU (14)  Physician Assistant (17)  County Hospital (07)
+ Respiratory ICU (08)  Researcher (18)  Federal Hospital (05) Gender:
+ Stepdown Unit (30)  Respiratory Therapist (19)  HMO/Managed Care (12)  Male  Female  Non-binary
+6. HONOR STATEMENT
+Complete the Honor Statement on page 34.
+7. SUBMIT APPLICATION
+Attach Honor Statement to this application and submit with payment to:
+AACN Certification Corporation
+27071 Aliso Creek Road
+Aliso Viejo, CA 92656-3399
+or fax to: 949-362-2020
+DO NOT mail AND fax your application - please choose only ONE method.
+NOTE: Allow 2 to 4 weeks from the date received by AACN Certification Corporation for application processing.
+Questions? Please visit www.aacn.org/certification, email certification@aacn.org or call us at 800-899-2226.
+Please complete page 3 of application (honor statement).
+CCRN Exam Handbook - Direct Care | December 2025 33
+
+=== PAGE 39 ===
+Submit an ONLINE application at www.aacn.org/certification > Get Certified.
+3 of 3
+CCRN Exam Honor Statement - Direct Care Pathway
+PROCESSING WILL BE DELAYED IF INCOMPLETE OR NOT LEGIBLE.
+NAME: AACN CUSTOMER #:
+Last First MI
+I hereby apply for the CCRN certification exam. Submission of this application indicates I have read and understand the exam
+policies and eligibility requirements as documented in the CCRN Exam Handbook - Direct Care Eligibility Pathway and the
+Certification Exam Policy Handbook.
+LICENSURE: I possess a current, unencumbered U.S. RN or APRN license. My _________________________________ (state)
+nursing license _________________________________ (number) is due to expire ______________________________ (date).
+An unencumbered license is not currently being subjected to formal discipline by the board of nursing in the state(s) in which
+I am practicing and has no provisions or conditions that limit my nursing practice in any way. I understand that I must notify
+AACN Certification Corporation within 30 days if any provisions or conditions are placed against my RN or APRN license(s) in
+the future.
+PRACTICE: I have fulfilled one of the following clinical practice requirement options:
+• Practice as an RN or APRN for 1,750 hours in direct care of acutely/critically ill patients during the past 2 years, with 875
+of those hours accrued in the most recent year preceding application.
+OR
+• Practice as an RN or APRN during the previous 5 years with a minimum of 2,000 hours in direct care of acutely/critically
+ill patients, with 144 of those hours accrued in the most recent year preceding application.
+These clinical hours were in direct care of the following acutely/critically ill patient population:
+ Adult  Pediatric  Neonatal (check one box only)
+A majority of the total practice hours and those within the year prior to application for exam eligibility were focused on
+critically ill patients.
+Hours were completed in a U.S.-based or Canada-based facility or in a facility determined to be comparable to the U.S.
+standard of acute/critical care nursing practice as evidenced by Magnet® designation or Joint Commission International
+accreditation.
+PRACTICE VERIFICATION: Following is the contact information for my clinical supervisor or a professional colleague (RN or
+physician) who can verify that I have met the clinical hour eligibility requirements:
+Verifier’s Name: Facility Name:
+Last First
+Verifier’s Phone Number: Verifier’s Email Address:
+You may not list yourself or a relative as your verifier.
+AUDIT: I understand that my certification eligibility is subject to audit, and failure to respond to or pass an audit will result in
+revocation of certification. If selected for audit, I understand that switching to renewal by exam, selecting Inactive or another
+status, or completing CERPs/CE Points is not an option.
+ETHICS: I understand the importance of ethical standards and agree to act in a manner congruent with the ANA Code of Ethics
+for Nurses.
+NONDISCLOSURE OF EXAM CONTENT: Submission of this application indicates my agreement to keep the contents of the
+exam confidential and not disclose or discuss specific exam content with anyone except AACN Certification Corporation. Per
+AACN Certification Corporation policy, sharing of exam content is cause for revocation of certification.
+RETAKE POLICY:
+I understand that I may apply for and take the same certification exam up to four times in a rolling 12-month period, and
+that after 12 months signing a new honor statement is required.
+To the best of my knowledge, the information contained in this application is accurate and submitted in good faith. My
+signature below indicates I have read this honor statement and meet the eligibility requirements as outlined.
+Applicant’s Signature: Date:
+This application form may be photocopied and is also available online at www.aacn.org/certification.
+CCRN Exam Handbook - Direct Care | December 2025 34
+
+=== PAGE 40 ===
+CCRN Exam Handbook - Direct Care | December 2025 35

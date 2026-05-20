@@ -1,0 +1,66 @@
+NID	Action	Front (truncated)	Old visible Back count	New visible Back count	Prior 250-rule action	New 300-rule action	Changed by 300-rule?	Clinical risk?	Flag type	Flag reason	AACN relevance	Notes
+MODS & TRAUMA SUBDECK (30 notes)
+1778251562717	NO ACTION	(not fetched — no action)	223	223	NO ACTION	NO ACTION	No	Low			MODS & Trauma	Under both 250 and 300 limits
+1778251562719	NO ACTION	(not fetched — no action)	227	227	NO ACTION	NO ACTION	No	Low			MODS & Trauma	Under both 250 and 300 limits
+1778251562721	NO ACTION	(not fetched — no action)	240	240	NO ACTION	NO ACTION	No	Low			MODS & Trauma	Under both 250 and 300 limits
+1778251562723	NO ACTION	(not fetched — no action)	177	177	NO ACTION	NO ACTION	No	Low			MODS & Trauma	Under both 250 and 300 limits
+1778251562725	NO ACTION	(not fetched — no action)	300	300	REWRITE	NO ACTION	Yes	Low			MODS & Trauma	Changed 250→300 rule; exactly at new limit
+1778251562727	NO ACTION	(not fetched — no action)	287	287	REWRITE	NO ACTION	Yes	Low			MODS & Trauma	Changed 250→300 rule
+1778251562729	SAFE REWRITE — EXECUTED	What is the trauma initial assessment and secondary assessment?	346	287	REWRITE	SAFE REWRITE	No	Low			MODS & Trauma — Primary Assessment	Compressed 346→287; all 9 ABCDE/FGHI letters preserved; newlines → pipe format
+1778251562731	NO ACTION	(not fetched — no action)	271	271	REWRITE	NO ACTION	Yes	Low			MODS & Trauma	Changed 250→300 rule
+1778251562733	NO ACTION	(not fetched — no action)	238	238	NO ACTION	NO ACTION	No	Low			MODS & Trauma	Under both 250 and 300 limits
+1778251562735	NO ACTION	(not fetched — no action)	282	282	REWRITE	NO ACTION	Yes	Low			MODS & Trauma	Changed 250→300 rule
+1778251562737	NO ACTION	(not fetched — no action)	290	290	REWRITE	NO ACTION	Yes	Low			MODS & Trauma	Changed 250→300 rule
+1778251562739	NO ACTION	(not fetched — no action)	221	221	NO ACTION	NO ACTION	No	Low			MODS & Trauma	Under both 250 and 300 limits
+1778251562741	NO ACTION	(not fetched — no action)	289	289	REWRITE	NO ACTION	Yes	Low			MODS & Trauma	Changed 250→300 rule
+1778251562743	NO ACTION	(not fetched — no action)	270	270	REWRITE	NO ACTION	Yes	Low			MODS & Trauma	Changed 250→300 rule
+1778251562745	NO ACTION	(not fetched — no action)	297	297	REWRITE	NO ACTION	Yes	Low			MODS & Trauma	Changed 250→300 rule
+1778381918063	SAFE SPLIT — SUSPENDED	Trauma primary survey ABCDE: A = ___, B = ___, C = ___...	2253	N/A (suspended)	SPLIT	SAFE SPLIT	No	Low			MODS & Trauma — Primary Survey	3 daughters: 1779278789594/595/596; card 1778381918064 suspended
+1778381918066	SAFE SPLIT — SUSPENDED	Hemorrhagic shock Class I: blood loss ___ mL, HR ___, BP ___...	1953	N/A (suspended)	SPLIT	SAFE SPLIT	No	Low			MODS & Trauma — Hemorrhagic Shock	3 daughters: 1779278789597/598/599; card 1778381918067 suspended
+1778381918069	SOURCE-UPDATED SPLIT — SUSPENDED	Compartment syndrome: intracompartmental pressure >___ mmHg OR delta pressure...	2263	N/A (suspended)	SPLIT	SOURCE-UPDATED SPLIT	No	High	SOURCE-UPDATED SPLIT	Original: delta pressure <30 mmHg + fasciotomy within 4-6h. Updated: delta pressure formula REMOVED (not in Juarez/Burns/Delgado); "4-6 hours" → "emergent" per Juarez p.810. Source: Juarez p.810 confirms >30 mmHg and "emergent fasciotomy" only.	MODS & Trauma — Compartment Syndrome	3 daughters: 1779280281582/583/584; card 1778381918070 suspended; source update matters: exam scope limited to absolute threshold + emergent fasciotomy per Juarez
+1778381918072	SAFE SPLIT — SUSPENDED	Rhabdomyolysis: defined as ___, diagnosed by CK >___ U/L...	2027	N/A (suspended)	SPLIT	SAFE SPLIT	No	Medium			MODS & Trauma — Rhabdomyolysis	3 daughters: 1779278789600/601/602; TierClass tier-high preserved; card 1778381918073 suspended
+1778436692068	SAFE SPLIT — SUSPENDED	Hemorrhagic Shock DCR Sequence [Pos 1/2] — first priority before IV fluids...	1688	N/A (suspended)	SPLIT	SAFE SPLIT	No	Low			MODS & Trauma — DCR	2 daughters: 1779278789603/604; card 1778436692069 suspended
+1778436692071	SAFE SPLIT — SUSPENDED	[Synthesis] DCR complete sequence: Step 1 ___, Step 2 SBP ___, Step 3 MTP...	1851	N/A (suspended)	SPLIT	SAFE SPLIT	No	Medium			MODS & Trauma — DCR	3 daughters: 1779278789605/606/607; TXA 3h window preserved verbatim; card 1778436692072 suspended
+1778437755998	SAFE SPLIT — SUSPENDED	[Synthesis] Hemorrhagic shock classes — adjacent-class navigation: Class I ≤___ mL...	1374	N/A (suspended)	SPLIT	SAFE SPLIT	No	Low			MODS & Trauma — Hemorrhagic Shock	2 daughters: 1779278789608/609; card 1778437755999 suspended
+1778808560018	NO ACTION (chart exempt)	N/A	N/A	N/A	NO ACTION	NO ACTION	No	Low			Chart-exempt	Model: CCRN Chart: hemorrhagic_shock
+1778808560021	NO ACTION (chart exempt)	N/A	N/A	N/A	NO ACTION	NO ACTION	No	Low			Chart-exempt	Model: CCRN Chart: hemorrhagic_shock
+1778808560024	NO ACTION (chart exempt)	N/A	N/A	N/A	NO ACTION	NO ACTION	No	Low			Chart-exempt	Model: CCRN Chart: hemorrhagic_shock
+1778808560027	NO ACTION (chart exempt)	N/A	N/A	N/A	NO ACTION	NO ACTION	No	Low			Chart-exempt	Model: CCRN Chart: damage_control; PhaseBadge &amp; anomaly preserved exactly
+1778808560030	NO ACTION (chart exempt)	N/A	N/A	N/A	NO ACTION	NO ACTION	No	Low			Chart-exempt	Model: CCRN Chart: damage_control
+1778808560033	NO ACTION (chart exempt)	N/A	N/A	N/A	NO ACTION	NO ACTION	No	Low			Chart-exempt	Model: CCRN Chart: damage_control
+1779014149196	NO ACTION (chart exempt)	N/A	N/A	N/A	NO ACTION	NO ACTION	No	Low			Chart-exempt	Model: CCRN Chart: hemorrhagic_shock
+1779014149198	NO ACTION (chart exempt)	N/A	N/A	N/A	NO ACTION	NO ACTION	No	Low			Chart-exempt	Model: CCRN Chart: hemorrhagic_shock
+MODS & TRAUMA — DAUGHTER CARDS CREATED (16 total)
+1779278789594	DAUGHTER — CREATED	Trauma primary survey: what do A, B, and C assess?...	—	294	—	—	—	Low			MODS & Trauma — Primary Survey	Parent: 1778381918063; chunk-18; tier-critical
+1779278789595	DAUGHTER — CREATED	Trauma primary survey: what do D and E assess? What is the Trauma Triad of Death?	—	287	—	—	—	Low			MODS & Trauma — Primary Survey	Parent: 1778381918063; chunk-18; tier-critical
+1779278789596	DAUGHTER — CREATED	In trauma, why must hemorrhage control occur BEFORE IV fluid resuscitation?	—	230	—	—	—	Low			MODS & Trauma — Primary Survey	Parent: 1778381918063; chunk-18; tier-critical
+1779278789597	DAUGHTER — CREATED	Hemorrhagic shock: define Classes I, III, and IV by blood loss and hemodynamic findings.	—	200	—	—	—	Low			MODS & Trauma — Hemorrhagic Shock	Parent: 1778381918066; chunk-18; tier-critical
+1779278789598	DAUGHTER — CREATED	Why does BP remain normal through Class II hemorrhagic shock?	—	284	—	—	—	Low			MODS & Trauma — Hemorrhagic Shock	Parent: 1778381918066; chunk-18; tier-critical
+1779278789599	DAUGHTER — CREATED	Permissive hypotension in hemorrhagic shock: target, rationale, and exceptions.	—	271	—	—	—	Low			MODS & Trauma — Hemorrhagic Shock	Parent: 1778381918066; chunk-18; tier-critical
+1779278789600	DAUGHTER — CREATED	Rhabdomyolysis: how is it defined and what CK thresholds indicate significant vs severe AKI risk?	—	208	—	—	—	Low			MODS & Trauma — Rhabdomyolysis	Parent: 1778381918072; chunk-18; tier-high
+1779278789601	DAUGHTER — CREATED	Rhabdomyolysis: what is the clinical triad and what are the two AKI mechanisms?	—	272	—	—	—	Low			MODS & Trauma — Rhabdomyolysis	Parent: 1778381918072; chunk-18; tier-high
+1779278789602	DAUGHTER — CREATED	Rhabdomyolysis management: urine output target and rationale, IVF rate, urgent electrolyte.	—	270	—	—	—	Low			MODS & Trauma — Rhabdomyolysis	Parent: 1778381918072; chunk-18; tier-high
+1779278789603	DAUGHTER — CREATED	DCR Step 1: what is the first priority in hemorrhagic trauma, and why must it precede IV fluids?	—	279	—	—	—	Low			MODS & Trauma — DCR	Parent: 1778436692068; chunk-24; tier-critical
+1779278789604	DAUGHTER — CREATED	DCR Step 2: permissive hypotension — target, rationale, and exceptions.	—	277	—	—	—	Low			MODS & Trauma — DCR	Parent: 1778436692068; chunk-24; tier-critical
+1779278789605	DAUGHTER — CREATED	[DCR synthesis] Steps 1-2: what are they and the rationale for each?	—	284	—	—	—	Low			MODS & Trauma — DCR	Parent: 1778436692071; chunk-24; tier-critical
+1779278789606	DAUGHTER — CREATED	[DCR synthesis] Step 3: MTP ratio, TXA dose/timing/mechanism, and why TXA after 3h is harmful.	—	290	—	—	—	Low			MODS & Trauma — DCR	Parent: 1778436692071; chunk-24; tier-critical
+1779278789607	DAUGHTER — CREATED	[DCR synthesis] Step 4 and fluid choice: definitive intervention and why minimize crystalloid?	—	260	—	—	—	Low			MODS & Trauma — DCR	Parent: 1778436692071; chunk-24; tier-critical
+1779278789608	DAUGHTER — CREATED	[Hemorrhagic shock] Classes I and II: blood loss volumes, HR thresholds, earliest distinguishing sign?	—	292	—	—	—	Low			MODS & Trauma — Hemorrhagic Shock	Parent: 1778437755998; chunk-25; tier-critical
+1779278789609	DAUGHTER — CREATED	[Hemorrhagic shock] Class II/III and III/IV transitions: vital sign change that defines each threshold?	—	276	—	—	—	Low			MODS & Trauma — Hemorrhagic Shock	Parent: 1778437755998; chunk-25; tier-critical
+BURNS & TOXICOLOGY SUBDECK (12 notes)
+1779280281582	SOURCE-UPDATED DAUGHTER — CREATED	Compartment syndrome: pressure threshold for emergent fasciotomy? Earliest/most sensitive finding?	—	299	—	—	—	Low	SOURCE-UPDATED SPLIT	Delta pressure formula removed; emergent per Juarez p.810	MODS & Trauma — Compartment Syndrome	Parent: 1778381918069; chunk-18; tier-critical; SOURCE: Juarez p.810
+1779280281583	SOURCE-UPDATED DAUGHTER — CREATED	ICU-specific causes of compartment syndrome? Prevention for each?	—	300	—	—	—	Low	SOURCE-UPDATED SPLIT	Constricting casts per Juarez p.810 language	MODS & Trauma — Compartment Syndrome	Parent: 1778381918069; chunk-18; tier-critical
+1779280281584	SOURCE-UPDATED DAUGHTER — CREATED	How does delayed fasciotomy lead to rhabdomyolysis? Most common nursing error?	—	292	—	—	—	Low	SOURCE-UPDATED SPLIT	4-6h timing removed; escalation emphasis retained from card	MODS & Trauma — Compartment Syndrome	Parent: 1778381918069; chunk-18; tier-critical
+BURNS & TOXICOLOGY SUBDECK (12 notes)
+1778251562747	NO ACTION	(not fetched — no action)	154	154	NO ACTION	NO ACTION	No	Low			Burns & Toxicology	Under both 250 and 300 limits
+1778251562749	NO ACTION	(not fetched — no action)	265	265	REWRITE	NO ACTION	Yes	Low			Burns & Toxicology	Changed 250→300 rule
+1778251562751	NO ACTION	(not fetched — no action)	255	255	REWRITE	NO ACTION	Yes	Low			Burns & Toxicology	Changed 250→300 rule
+1778251562753	NO ACTION	(not fetched — no action)	293	293	REWRITE	NO ACTION	Yes	Low			Burns & Toxicology	Changed 250→300 rule
+1778251562755	NO ACTION	(not fetched — no action)	299	299	REWRITE	NO ACTION	Yes	Low			Burns & Toxicology	Changed 250→300 rule
+1778251562757	NO ACTION	(not fetched — no action)	275	275	REWRITE	NO ACTION	Yes	Low			Burns & Toxicology	Changed 250→300 rule
+1778251562759	NO ACTION	(not fetched — no action)	293	293	REWRITE	NO ACTION	Yes	Low			Burns & Toxicology	Changed 250→300 rule
+1778251562761	NO ACTION	(not fetched — no action)	277	277	REWRITE	NO ACTION	Yes	Low			Burns & Toxicology	Changed 250→300 rule
+1778251562763	SAFE REWRITE — EXECUTED	TCA overdose classic ECG finding is ___, treated with ___.	301	296	REWRITE	SAFE REWRITE	No	Low			Burns & Toxicology	"high risk VF" → "VF risk" (5 chars saved); all clinical content preserved
+1778808560036	NO ACTION (chart exempt)	N/A	N/A	N/A	NO ACTION	NO ACTION	No	Low			Chart-exempt	Model: CCRN Chart: parkland_formula; PhaseBadge &amp; anomaly preserved exactly
+1778808560039	NO ACTION (chart exempt)	N/A	N/A	N/A	NO ACTION	NO ACTION	No	Low			Chart-exempt	Model: CCRN Chart: parkland_formula
+1778808560042	NO ACTION (chart exempt)	N/A	N/A	N/A	NO ACTION	NO ACTION	No	Low			Chart-exempt	Model: CCRN Chart: parkland_formula

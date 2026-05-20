@@ -1,0 +1,193 @@
+● Compact summary
+  ⎿  This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation.
+
+     Summary:
+     1. Primary Request and Intent:
+
+     The session had five sequential tasks:
+
+     **Task 1 — D1 verification**: Complete the interrupted database verification that chunks 55-56 had correct tier/badge fields after the D1 fix. The previous session's PowerShell verification command failed due to nested quote
+     syntax.
+
+     **Task 2 — D5 (approved, LOW priority)**: Update `PROJECT_CONTEXT.md` to reflect chunk 33-56 reality (1,443 cards, full chunk history, updated validator rules, updated MID table) while preserving the chunk 32 state as a
+     clearly-labeled historical section.
+
+     **Task 3 — D2 (approved, LOW priority)**: "start with D5 then proceed to D2" — Restore canonical tier-review/tier-high/tier-critical assignments for chunks 47-54. The audit had estimated ~40 L1 cards wrong; actual inspection
+     revealed 89 of 120 notes had wrong tier assignments across all three levels.
+
+     **Task 4 — "What is chunk 57?"**: User query about next content. Answer: no pre-planned chunk 57 exists; all 47 DIDs exhausted; CHART_BACKLOG.md fully implemented.
+
+     **Task 5 — Fix Overloaded Chart Cards**: User provided a detailed task specification document (`Fix Overloaded "Chart Card" Anki Cards Without Breaking Chart Architecture.md`) requesting a targeted audit and fix of chart cards that
+      test multiple independent learning targets per card. User clarified scope: **"target fix for type B cards"** — only genuinely multi-concept cards, not formula/value completion cards.
+
+     ---
+
+     2. Key Technical Concepts:
+
+     - **Anki .apkg structure**: ZIP containing `collection.anki2` (SQLite). Notes table has `flds` blob (fields separated by chr(31)): Front, Back, TierClass, PhaseBadge. Tags stored as space-separated string in `tags` column.
+     - **Tier/ltag canonical mapping**: `chart-l1 → tier-review`, `chart-l2 → tier-high`, `chart-l3 → tier-critical`
+     - **Type A vs Type B overload classification**:
+       - Type A: multiple blanks fill one formula, one mnemonic, or one tightly linked clinical concept (e.g., "SVR = (MAP − CVP) / CO × 80" — all blanks serve one formula)
+       - Type B: blanks test 2+ genuinely independent clinical targets (e.g., drug name + dose + mechanism of a separate toxidrome = completely separate learning objectives)
+     - **D2 root cause**: Tier assignments in chunks 47-54 were arbitrary (not just L1 using tier-high — all three levels were randomized). 89 of 120 notes wrong.
+     - **apkg patch approach**: Extract `collection.anki2`, update `flds` blob at field position 2 (TierClass), set `mod = int(time.time())` and `usn = -1`, repack as zip.
+     - **Source file fix approach**: Regex finds ltag lines (`'chart-l[123]'`), looks backward up to 15 lines for nearest tier line, replaces with canonical value.
+     - **Card splitting architecture**: New split cards need new NID, new GUID (MD5 of front+back), same MID (chart model), same DID (subdeck). New `cards` table rows also needed.
+     - **MID next available**: `1_800_005_130` (after chunk 56's range 1_800_005_125-1_800_005_129)
+     - **Chunks 28-29**: No Python source files exist — only in apkg. All other chunks 30-56 have `.py` source files.
+     - **VARI_ENABLED = True**: Anti-visual-memorization JS active in all chart templates.
+     - **CardValidator F9**: Added optional `tier=None` parameter; validates against `{'tier-review', 'tier-high', 'tier-moderate', 'tier-critical'}`.
+
+     ---
+
+     3. Files and Code Sections:
+
+     **`C:\Users\lunar\Desktop\Cards\CCRN_Cards_Project\Cards\PROJECT_CONTEXT.md`** — Major update
+     - Added "Current State (as of Chunk 56)" at top: 1,443 cards, 47 subdecks, all DID entries exhausted, 29 chart chunks
+     - Renamed old section to "Historical State (Chunk 32 Snapshot)"
+     - Updated Chart Note Type IDs table:
+       ```
+       | 1800005010–1800005129 | Chunks 33–56 (5 types each, MID_BASE +5 per chunk) |
+       | 1800005130+ | Next available — use for Chunk 57+ |
+       ```
+     - Added two PhaseBadge format variants (D3 note): chunks 28-51 use `Ph{N} · 🟡 T{N}`, chunks 52-56 use `Ph{N} 🟡 T{N}`
+     - Added F9 rule: "TierClass must be canonical CSS class — pass as optional 5th arg to validate()"
+     - Added VARI context variation note
+     - Extended Chunk History table with chunks 33-56 (all content descriptions)
+     - Updated Build Pipeline — canonical CARDS tuple comments and updated validate() call:
+       ```python
+       issues = validator.validate(f'cNN_{i}', front, back, badge, tier)
+       ```
+       - `mid_base = 1_800_005_130  # next available after chunk 56`
+     - Updated D2 deviation note from "pending fix" to "D2 fixed (2026-05-16)"
+
+     **`chunk47_charts.py` through `chunk54_charts.py`** (all 8 files) — Tier assignments corrected by `fix_d2_sources.py`:
+     - Pattern: found `'chart-l[123]'` line, looked backward for `'tier-(review|high|moderate|critical),'` line, replaced with canonical value
+     - Total: 89 corrections (chunk47:12, chunk48:13, chunk49:13, chunk50:11, chunk51:13, chunk52:9, chunk53:9, chunk54:9)
+
+     **`CCRN_PCCN_Mastery_v7_final_56.apkg`** — Patched in-place by `patch_d2.py`:
+     - 89 notes in chunks 47-54 had TierClass (flds position 2) corrected
+     - Verification confirmed: all 150 notes in chunks 47-56 pass tier/ltag consistency; total 1,443 notes/cards intact
+
+     **`docs/audits/chunks-29-56-consistency-rule-adherence-audit.md`** — Updated:
+     - D2 severity revised: "89 of 120 notes wrong across all L1/L2/L3 levels" (not just ~40 L1)
+     - D2 status: FIXED 2026-05-16
+     - D5 status implied updated via PROJECT_CONTEXT.md completion
+
+     **`extract_typeb.py`** (currently exists in project directory) — Extracts full front+back content for all cards with 5+ blanks:
+     ```python
+     # For each chunk 30-56, parses CARDS list, finds cards with count('_______') >= 5,
+     # outputs: CHUNK N  CARD[i]  blanks=N  ltag=chart-lN
+     # FRONT: [full text]  BACK: [full text]
+     ```
+     - Found 83 cards with 5+ blanks across all chunks
+
+     **`typeb_cards.txt`** (currently exists in project directory) — Full content of all 83 five-plus-blank cards, used for Type A/B classification
+
+     ---
+
+     4. Errors and Fixes:
+
+     - **D1 verification UnicodeEncodeError**: `cp1252` Windows terminal can't encode 🟡 emoji when printing badge content. Fixed by encoding badge output as ASCII with `errors='replace'` before printing.
+     - **audit_blanks.py UnicodeEncodeError**: Same issue when trying to print front text containing subscript characters (H₂O etc.). Fixed by writing output to UTF-8 buffer via `sys.stdout.buffer.write(output.encode('utf-8',
+     errors='replace'))`.
+     - **Explore agent hallucination**: First agent for the chart card audit invented "chart-l4" tags (which don't exist), reported wrong card counts (23 for chunk 33 when actual is 18), claimed 90%+ of cards were KEEP with no
+     multi-blank cards — all fabricated without actually reading the files. Abandoned agent approach, did direct file reading with Python scripts.
+     - **File read failure on curly-quote filename**: `Fix Overloaded "Chart Card" Anki Cards Without Breaking Chart Architecture.md` uses Unicode smart quotes `"` (U+201C/U+201D), not straight quotes. Read tool failed. Fixed by using
+     Bash/Python to iterate directory listing and open by exact bytes.
+
+     ---
+
+     5. Problem Solving:
+
+     **D1 verification completed**: Used `verify_d1_fix.py` (write to file, run Python) instead of inline PowerShell. Confirmed correct tier/badge values in chunks 55-56.
+
+     **D5 solved**: PROJECT_CONTEXT.md fully updated with additive-preservation strategy — new current state at top, old state demoted to labeled historical section.
+
+     **D2 discovered to be worse than audited**: The audit said "~40 L1 cards." Actual inspection showed all three tier levels were arbitrary in chunks 47-54 (89/120 wrong). Two-pronged fix: source files corrected by regex fixer, apkg
+     patched directly. Verified all 150 notes in chunks 47-56 pass consistency check.
+
+     **Type A vs Type B classification in progress**: Written `extract_typeb.py` to get full content of 83 five-plus-blank cards. Reading through `typeb_cards.txt` to classify. Approximately 60% through — chunks 30-52 mostly reviewed.
+     Classification ongoing before any edits are made.
+
+     ---
+
+     6. All User Messages:
+
+     - **[Session resume]** — Implicit resume from compacted context; task was to complete D1 verification
+     - **"start with D5 then proceed to D2"** — Explicit ordering of the two approved LOW-priority tasks
+     - **"what is chunk 57?"** — Query about next planned content
+     - **[File path reference]** `"C:\Users\lunar\Desktop\Cards\CCRN_Cards_Project\Cards\Fix Overloaded "Chart Card" Anki Cards Without Breaking Chart Architecture.md"` — First attempt (interrupted)
+     - **[File path reference again]** Same path repeated — requesting the file be read and the task executed
+     - **"target fix for type B cards"** — Explicit scope decision: only fix genuinely multi-concept overloaded cards, not formula/value completion multi-blank cards
+     - **"CRITICAL: Respond with TEXT ONLY..."** — Current message requesting this summary
+
+     ---
+
+     7. Pending Tasks:
+
+     - **Chart card Type B audit and fix** (in progress):
+       - Classification of all 83 five-plus-blank cards as Type A or Type B is ~60% complete (chunks 30-52 partially reviewed from `typeb_cards.txt`)
+       - Still need: rest of chunk 52 (cards 9-14), all of chunk 53 (15 cards), all of chunk 54 (15 cards), and the 3-4 blank cards from chunks 30-51 that may be Type B
+       - After classification: create the required audit table (per task doc spec)
+       - Then: rewrite identified Type B cards into 2-4 focused single-blank cards
+       - Apply changes to `_56.apkg` (update existing notes, add new notes for splits) and source chunk files
+
+     ---
+
+     8. Current Work:
+
+     Immediately before this summary, was reading `typeb_cards.txt` to classify the 83 five-plus-blank cards as Type A (formula/mnemonic — defensible) or Type B (multi-concept overload — needs splitting).
+
+     Had read approximately 400 lines of the file (through chunk 52, card[11]). Most recent content read was:
+
+     Chunk 52 card[11] (blanks=7): "The stress dose steroids chart shows the SSC _______ recommends routine cortisol testing before initiating steroids. A random cortisol < _______ mcg/dL or cosyntropin stimulation delta < _______
+     mcg/dL suggests relative adrenal insufficiency. The stress dose regimen is hydrocortisone _______ mg every _______ hours or _______ mg/day continuous. Steroids should be weaned with _______."
+
+     Classification progress so far (approximate):
+     - **Clear Type B** identified: chunk30[8,11,14], chunk31[10,11], chunk32[10,11,13,16], chunk36[14], chunk37[2,5], chunk40[3], chunk47[7,11], chunk48[8,13], chunk49[13], chunk50[1,7,8,14], chunk51[4,12,14], chunk52[2,7,9,10,11]
+     - **Type A (keep)**: chunk30[2], chunk31[8], chunk32[5], chunk45[10], chunk47[1,4,10,13], chunk48[7], chunk49[6,8], chunk50[3,4,9,12], chunk51[5,6,10,13], chunk52[0,3,5,6]
+     - **Still unread**: chunk52 cards [12-14], all of chunk53 (15 cards), all of chunk54 (15 cards)
+
+     The `extract_typeb.py` script and `typeb_cards.txt` output file currently exist in the project directory at `C:\Users\lunar\Desktop\Cards\CCRN_Cards_Project\Cards\`.
+
+     ---
+
+     9. Optional Next Step:
+
+     Continue reading `typeb_cards.txt` to complete the Type A/B classification for chunks 52-54 (the remaining unread content), then produce the required audit table and begin rewriting the identified Type B cards.
+
+     The task document specifies: *"Before making edits, create a review table. Use this format: |Card ID / Note ID|Chart Type|Current Problem|Category|Proposed Fix|Risk|"*
+
+     The user's scope decision was: **"target fix for type B cards"** — cards where multiple blanks test genuinely independent clinical learning targets (as opposed to formula components or mnemonic elements that belong together as a
+     single concept).
+
+     After the audit table is complete, proceed with Low and Medium risk rewrites, creating 2-4 focused single-blank replacement cards for each identified Type B card, then apply changes via a patch script to `_56.apkg` and update the
+     corresponding source chunk files.
+
+     If you need specific details from before compaction (like exact code snippets, error messages, or content you generated), read the full transcript at:
+     C:\Users\lunar\.claude\projects\C--Users-lunar-Desktop-Cards-CCRN-Cards-Project-Cards\49ceee65-19a5-49a5-a242-36f2be5c4006.jsonl
+     Continue the conversation from where it left off without asking the user any further questions. Resume directly — do not acknowledge the summary, do not recap what was happening, do not preface with "I'll continue" or similar. Pick
+      up the last task as if the break never happened.
+  ⎿  Referenced file typeb_cards.txt
+  ⎿  Read extract_typeb.py (89 lines)
+  ⎿  Referenced file ..\..\..\..\.claude\projects\C--Users-lunar-Desktop-Cards-CCRN-Cards-Project-Cards\49ceee65-19a5-49a5-a242-36f2be5c4006\tool-results\bilgb1y19.txt
+  ⎿  Referenced file PROJECT_CONTEXT.md
+  ⎿  Read docs\audits\chunks-29-56-consistency-rule-adherence-audit.md (236 lines)
+  ⎿  Plan file referenced (~\.claude\plans\structured-sparking-glade.md)
+  ⎿  Skills restored (fewer-permission-prompts)
+
+● Read(C:\Users\lunar\Desktop\Cards\CCRN_Cards_Project\Cards\typeb_cards.txt · lines 400-699)
+  ⎿  Read 300 lines
+
+● Read(C:\Users\lunar\Desktop\Cards\CCRN_Cards_Project\Cards\typeb_cards.txt · lines 697-896)
+  ⎿  Read 25 lines
+
+                                                                                                                                                                                                          10:35 AM claude-sonnet-4-6
+● Now I have the complete picture through chunk 54. Let me read the earlier portion of the file for the Type B cards from chunks 30-51.
+
+● Read(C:\Users\lunar\Desktop\Cards\CCRN_Cards_Project\Cards\typeb_cards.txt · lines 0-199)
+  ⎿  Read 200 lines
+
+● Read(C:\Users\lunar\Desktop\Cards\CCRN_Cards_Project\Cards\typeb_cards.txt · lines 199-398)
+  ⎿  Read 200 lines

@@ -1,0 +1,256 @@
+﻿=== BURNS/DELGADO — Compartment Syndrome pages ===
+
+--- PAGE 438 ---
+COmmON INJuRIES IN THE TRAumA PATIENT 417
+to the risks and benefits of empiric antimicrobial therapy in nutrition is recommended only if the gastrointestinal tract
+patients with contaminated wounds. Dressing changes are can not be used. Accurate nutritional assessment conducted
+frequently performed by the nursing staff thus assessment in collaboration with the nutritionist is essential as trauma
+for signs of infection as well as wound healing is essential. patients are at risk of complications from overfeeding as
+Premedicating and timing of dressing changes around pain well as underfeeding. Diarrhea, inappropriate withholding
+medication administration is another important role of the of tube feedings, and the potential for aspiration are issues
+nurse. Trauma patients may have multiple sources of infec- that need to be addressed (see Chapter 14, Gastrointestinal
+tion, some of which are hospital acquired. The presence of a System).
+central line, urinary catheter, endotracheal (ET) tube, naso-
+gastric tube, chest tube, and intravenous lines all increase the
+Musculoskeletal Trauma
+risk of infection and potentially sepsis.
+Etiology and Pathophysiology
+Nutritional Support Approximately 70% to 85% of multisystem traumas involve
+Nutritional support in the trauma patient is an integral part the musculoskeletal system. Patients in critical or progres-
+of care. Management focuses on the route and timing of sive care settings who have extremity or pelvic fractures often
+nutritional support. Other considerations include composi- have other injuries due to the significant physical impact to
+tion of nutrient formulation, assessment of laboratory tests the body. Motor vehicle trauma, falls, sports injuries, and
+that are indicators of nutrition, and the selection of enteral industrial trauma are all frequent causes of musculoskeletal
+versus parenteral feedings. Trauma patients have increased trauma. Victims of motorcycle crashes often have severe
+metabolic needs due to a hypermetabo
+
+--- PAGE 439 ---
+418 CHAPTER 17. TRAumA
+lack of perfusion and nerve compression in the area. Muscle Pain Control
+compartments are located in the forearm, leg, hand, foot, Pain control is best achieved with an individualized strategy
+thigh, abdomen, and chest. The nurse assesses for signs of of medications and nonpharmacologic therapies. Patients
+compartment syndrome by performing repeated neurovas- respond well when strict attention is paid to pain control
+cular checks. However, neurovascular assessment of the five and their own unique coping style is encouraged. Patients
+Ps (pain, pallor, pulselessness, paresthesia, paralysis) may are expected to move in bed and get out of bed as soon as
+not provide accurate early assessment of rising compartment possible after an injury. Titrated pain medication is generally
+pressures. required to achieve this goal using PCA or a continuous infu-
+Direct assessment of compartment pressures requires sion. Nurses are in a unique position to assess patient anxiet-
+the use of a specialized needle that is inserted directly ies regarding the trauma and to promote adequate sleep and
+into the tissue compartment. The needle/catheter is attached rest. Sleep deprivation from a noisy environment, constant
+to the transducer and the compartment pressures are evalu- worry, and needless pain can exacerbate the patient’s discom-
+ated and monitored. Even open fractures or open abdomi- fort and delay rehabilitation.
+nal cavities may have significantly increased compartment
+pressures (normal pressure 0-8 mm Hg). If the compartment
+pressures are high, a fasciotomy is performed to relieve pres- COMPLICATIONS OF TRAUMATIC INJURY IN SEVERE
+sure. A fasciotomy entails surgically opening the skin and MULTISYSTEM TRAUMA
+fascia to relieve the pressure in a muscle compartment and
+General Concepts
+is the treatment of choice for compartment syndrome. The
+The key to survival for patients with multisystem trauma is
+primary goal of the fasciotomy is to improve perfusion and
+to limit
+
+--- PAGE 430 ---
+SPECIALIZED ASSESSmENT 409
+TABLE 17-2. SECONDARY SURVEY
+Item to Assess Establishes/Identifies Assess Finding Confirm By
+Level of • Severity of head injury • GCS score • < 8, severe head injury • CT scan
+consciousness • 9-12, moderate head injury • Repeat without
+• 13-15, minor head injury paralyzing agents
+Pupils • Type of head injury • Size • mass effect • CT scan
+• Presence of eye injury • Shape • Diffuse brain injury
+• Reactivity • Ophthalmic injury
+Head • Scalp injury • Inspect for lacerations and • Scalp laceration • CT scan
+• Skull injury skull fractures • Depressed skull fracture
+• Palpable defects • Basilar skull fracture
+maxillofacial • Soft tissue injury • Inspect for visible deformity, • Facial fracture • Facial bone x-ray
+• Bone injury malocclusion • Soft tissue injury • CT scan of facial bones
+• Nerve injury • Palpation for crepitation
+• Teeth/mouth injury
+Neck • Laryngeal injury • Visual inspection • Laryngeal deformity • C-spine x-ray or CT
+• C-spine injury • Palpation • Subcutaneous emphysema • Angiography/duplex
+• Vascular injury • Auscultation • Hematoma examination
+• Esophageal injury • Bruit • Esophagoscopy
+• Neurologic deficit • Platysmal penetration • Laryngoscopy
+• Pain, tenderness of C-spine
+Thorax • Thoracic wall injury • Visual inspection • Bruising, deformity, or paradoxical • Chest x-ray
+• Subcutaneous emphysema • Palpation motion • CT scan
+• Pneumo-hemothorax • Auscultation • Chest wall tenderness, crepitation • Angiography
+• Bronchial injury • Diminished breath sounds • Bronchoscopy
+• Pulmonary contusion • muffled heart tones • Tube thoracostomy
+• Thoracic aortic disruption • mediastinal crepitation • Pericardiocentesis
+• Severe back pain • TE ultrasound
+Abdomen/flank • Abdominal wall injury • Visual inspection • Abdominal wall pain/tenderness • DPL/ultrasound
+• Intraperitoneal injury • Palpation • Peritoneal irritation • CT scan
+• Retroperitoneal injury • Auscultation • Visceral injury • Laparotomy
+• Determine path of penetration • Ret
+
+--- PAGE 376 ---
+PATHoLoGIC ConDITIons 355
+Diagnostic Tests overload and consequent compartment syndrome or pulmo-
+nary edema.
+• Serum amylase more than 140 U/L
+• Serum pancreatic isoamylase more than 50% (more 1. In adults, administer intravenous isotonic crystalloid
+sensitive than amylase) fluids at a rate of 5 to 10 mL/kg/h or greater if hypo-
+• Serum lipase more than 160 U/dL tensive with frequent reassessment of fluid needs,
+• Serum triglycerides more than 1000 mg/dL particularly within the first 12 to 24 hours. Caution
+• Urine amylase more than 14 U/h (indicative of is taken when treating patients with cardiovascular
+increased serum amylase) and renal conditions to diminish the risk of fluid
+• Serum calcium less than 8.5 mg/dL overload. Monitor outcomes of fluid replacement
+• Serum sodium less than 135 mEq/L therapy, including blood pressure, heart rate, intake
+• Serum potassium less than 3.5 mEq/L and output, preload indicators (central venous pres-
+• Serum magnesium less than 1.5 mg/dL sure [CVP]), skin turgor, capillary refill, mucous
+• Increased ALT (> 55 U/L), in gallstone pancreatitis membranes, and urine output (goal of greater than
+• C-reactive protein (> 3 mg/L) 0.5 to 1 mL/kg/h). Studies demonstrate that using
+• Glucose more than 120 mg/dL the BUN as a marker of effective hydration is helpful
+in assessing hydration status.
+Imaging Studies 2. Monitor for signs and symptoms of retroperitoneal
+hemorrhage (low hematocrit and hemoglobin lev-
+• Ultrasound abdomen, check for cholelithiasis or cho-
+els). Cullen sign is a bluish discoloration around the
+ledocholithiasis (but may be obscured by bowel gas)
+periumbilical area, and Grey Turner sign is a bluish
+• Computed tomography (CT), pancreatic protocol CT
+discoloration around the flank, indicating blood in
+scan of abdomen
+the peritoneum. Monitor for increasing abdominal
+• Endoscopic ultrasound (EUS)
+girth.
+• ERCP
+3. Monitor electrolytes for imbalances related to pro-
+• MRI/magnetic resonance cholangiopancreatography
+longed v
+
+
+=== COLSON RIDGE — Compartment Syndrome pages ===
+
+--- PAGE 55 ---
+What is the main goal of Traction in Fracture Management?
+Traction in fracture management aims primarily to align and fixate one or more bone fragments, maintain
+good positioning, relax muscle spasms, and relieve pain. It involves a system of weights and pulleys that
+apply a steady force on the injured limb. Because it pulls the bones together, traction ensures they heal in
+correct alignment, and there are no complications, such as deformity.
+What are the clinical features of Rhabdomyolysis?
+Rhabdomyolysis's clinical features include muscle aches and pains, tenderness, and swelling. The
+affected muscle groups may become weak. Patients also had dark urine, the result of myoglobin from
+injured muscles being released into the blood and excreted as urine. Other symptoms include tiredness,
+feeling sick to the stomach, and, in serious cases, drowsiness or confusion caused by electrolyte
+imbalances.
+How do we know when someone has rhabdomyolysis?
+Rhabdomyolysis is diagnosed through a combination of clinical assessment and laboratory tests. Key
+diagnostic markers for rhabdomyolysis include greatly elevated levels of creatine kinase (CK) in the
+blood. As this enzyme is released from damaged muscle cells, it can cause compensatory dilation, leading
+eventually (with prolonged ischemia) to frank necrosis formation. An elevated level thus usually confirms
+the presence of myoglobin in urine. Besides this, additional tests may be required depending on the
+findings of these procedures: serum electrolytes (especially bicarbonate), renal function studies, serum
+calcium, uric acid, and iron-binding capacity.
+How do you treat rhabdomyolysis?
+The cornerstone of treatment for rhabdomyolysis lies in aggressive fluid resuscitation. This will help
+maintain renal perfusion and help the patient produce urine in more than adequate amounts. To this end,
+so-called "dilute" Intravenous fluids are utilized. In severe forms of the disease, such as acute renal
+failure (ARF), other treatments may be 
+
+--- PAGE 71 ---
+Musculoskeletal System Test (8)
+1. What is the primary goal in the initial management of a patient with a suspected long bone fracture?
+a) Administer antibiotics
+b) Apply a splint to immobilize the fracture
+c) Perform surgery immediately
+d) Provide physical therapy
+2. Which imaging modality is most commonly used to diagnose fractures?
+a) MRI
+b) CT scan
+c) X-ray
+d) Ultrasound
+3. Which symptom is most indicative of rhabdomyolysis?
+a) Joint pain
+b) Muscle pain and dark urine
+c) Bone fractures
+d) Numbness in extremities
+4. What is a common complication of open fractures?
+a) Deep vein thrombosis
+b) Infection
+c) Osteoarthritis
+d) Muscle atrophy
+5. Which blood test is most indicative of rhabdomyolysis?
+a) Elevated white blood cell count
+b) Low hemoglobin
+c) Elevated creatine kinase (CK)
+d) Elevated platelet count
+6. What is the primary treatment for rhabdomyolysis to prevent kidney damage?
+a) Administering diuretics
+b) Fluid resuscitation
+c) Providing analgesics
+d) Performing dialysis
+7. Which type of fracture is most likely to require surgical intervention?
+a) Hairline fracture
+b) Simple fracture
+c) Compound fracture
+d) Greenstick fracture
+8. Which condition is characterized by muscle necrosis and the release of intracellular contents into the bloodstream?
+a) Compartment syndrome
+b) Rhabdomyolysis
+c) Osteomyelitis
+d) Tendonitis
+9. What is the primary goal of traction in fracture management?
+a) Provide pain relief
+b) Align bone fragments
+c) Increase blood flow to the area
+d) Strengthen muscles
+10. Which electrolyte imbalance is commonly seen in patients with rhabdomyolysis?
+a) Hypokalemia
+b) Hypernatremia
+c) Hyperkalemia
+d) Hypophosphatemia
+11. Which intervention is essential in the initial management of a patient with a hip fracture?
+a) Immediate surgery
+b) Pain control and immobilization
+
+--- PAGE 72 ---
+c) Physical therapy
+d) Nutritional support
+12. What is the primary purpose of using a cast in fracture management?
+a) Reduce swelling
+b) Immobilize the fracture
+c) Provide compression
+d) Improve circulation
+13. Which symptom might indicate the development of compartment syndrome in a limb injury?
+a) Increased pain unrelieved by medication
+b) Decreased pain over time
+c) Increased range of motion
+d) Decreased sensation
+14. What is the hallmark sign of fat embolism syndrome following a fracture?
+a) Jaundice
+b) Petechial rash
+c) Bradycardia
+d) Hypotension
+15. Which imaging technique is most effective for diagnosing soft tissue injuries associated with fractures?
+a) X-ray
+b) CT scan
+c) MRI
+d) Bone scan
+16. Which enzyme is released into the bloodstream as a result of muscle breakdown in rhabdomyolysis?
+a) Alkaline phosphatase
+b) Lactate dehydrogenase
+c) Creatine kinase
+d) Aspartate aminotransferase
+17. What is the main goal of surgical intervention in orthopedic trauma?
+a) Pain relief
+b) Restore normal anatomy and function
+c) Reduce infection risk
+d) Enhance muscle strength
+18. What is the primary cause of acute compartment syndrome?
+a) Hemorrhage
+b) Edema
+c) Increased pressure within a closed muscle compartment
+d) Infection
+19. Which of the following is a key diagnostic indicator of rhabdomyolysis on urinalysis?
+a) Proteinuria
+b) Glycosuria
+c) Myoglobinuria
+d) Ketonuria
+20. What is the primary complication associated with untreated compartment syndrome?
+a) Chronic pain
+b) Nerve damage and muscle necrosis
+c) Joint stiffness
+d) Osteoporosis

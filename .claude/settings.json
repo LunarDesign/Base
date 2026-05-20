@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__anki__list_decks",
+      "mcp__anki__find_notes",
+      "mcp__anki__notes_info",
+      "mcp__anki__model_names",
+      "mcp__anki__model_field_names",
+      "mcp__anki__model_styling",
+      "mcp__anki__get_due_cards",
+      "mcp__anki__gui_deck_browser"
+    ]
+  }
+}

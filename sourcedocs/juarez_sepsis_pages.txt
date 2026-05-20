@@ -1,0 +1,452 @@
+=== PAGE 325 ===
+Clinical Signs/Symptoms of the Stages of Shock
+Compensatory Stage of Shock (Blood Pressure
+Maintained)
+Tachycardia
+Tachypnea, respiratory alkalosis
+Normal PaO
+2
+Oliguria
+Skin is pale, cool (except in early sepsis)
+Restlessness, anxiety
+Complaints of thirst
+Remember, BP maintained!
+Progressive Stage of Shock (Compensatory
+Mechanisms Failing)
+Hypotension
+Worsening tachycardia, tachypnea, oliguria
+Metabolic acidosis
+Decreased PaO
+2
+Clammy, mottled skin
+Further change in LOC
+The patient may complain of nausea.
+Refractory Stage of Shock
+The patient is not responsive to interventions.
+
+=== PAGE 326 ===
+Severe systemic hypoperfusion, multiple organ dysfunction syndrome
+(MODS)
+The patient may survive shock, but die from failure of one or more organs.
+Pulmonary (ARDS)
+Kidney (acute tubular necrosis)
+Heart (failure, ischemia)
+Hematologic (disseminated intravascular coagulation)
+Neurological (encephalopathy, stroke)
+Liver (failure)
+
+=== PAGE 327 ===
+Types of Shock
+Hypovolemic
+Septic
+Anaphylactic
+Neurogenic (seldom tested on this exam)
+Cardiogenic (covered in the Cardiovascular Concepts chapter)
+Obstructive (covered in the Cardiovascular Concepts and Respiratory
+Concepts chapters)
+Tension pneumothorax
+Massive pulmonary embolism
+Cardiac tamponade
+
+=== PAGE 329 ===
+Hypovolemic Shock
+Critical reduction in the circulating intravascular volume, leading to inadequate
+tissue perfusion
+Most common type of shock
+Internal causes—third-spacing or pooling in the intravascular compartment
+External causes—hemorrhage, GI or renal losses, burns, excessive
+diaphoresis
+Hypovolemia effects on pulse pressure:
+Systolic decreases, diastolic maintains or elevates, NARROW pulse pressure
+Example:
+— Baseline is 130/80
+— Volume loss → 110/80, 100/80, 90/70
+Hemodynamics
+↓ BP
+↓ Pulse pressure
+↓ Right atrial pressure (CVP)
+↓ Cardiac output, O delivery
+2
+↓ Left atrial pressure (PAOP)
+↓ SvO
+2
+↑ Systemic vascular resistance (SVR)
+Everything is decreased except SVR.
+
+=== PAGE 330 ===
+Treatment of Hypovolemic Shock
+Identify the etiology and correct it, if possible.
+Replace volume appropriately, “Fill up the tank!”
+Rapid and vigorous volume loading
+Requires at least 2 large bore IV sites (hemorrhagic); a central line is not
+necessary but may assist fluid replacement.
+Use a fluid warmer if > 2,000 mL of fluids are administered in 1 hour (ALL
+fluids for trauma patients).
+Avoid use of vasopressors.
+Fluid resuscitation: goal is to maintain O delivery (DO )and O uptake (VO )
+2 2 2 2
+into tissue and sustain aerobic metabolism.
+Fluid resuscitate to clinical targets (e.g., decreased tachycardia, increased urine
+output)
+Use isotonic fluid: 0.9 normal saline or lactated Ringer’s.
+Which is better? There are advantages and disadvantages to each (Table 5-
+1).
+Table 5-1. Comparison of Normal Saline and Lactated Ringer’s
+
+=== PAGE 331 ===
+Resuscitation endpoints
+MAP ≥ 65 mmHg
+CVP ~ 6 mmHg (not well-defined)
+Urine OP 0.5 mL/kg/hr
+Heart rate decreased
+Hgb > 7.0 g/dL and coagulation/platelet abnormalities are corrected.
+— Hemoglobin and hematocrit measurements are not accurate during active
+blood loss.
+NOTE
+NO PRESSORS for hypovolemic shock! The SVR is already high due to compensatory
+mechanisms.
+
+=== PAGE 332 ===
+Hemorrhagic Shock
+The severity of hemorrhagic shock is categorized into 4 classes (Table 5-2).
+Table 5-2. Classification of Hemorrhagic Shock
+Class I: treat with crystalloids
+Class II: treat with crystalloids
+Class III: treat with crystalloids + blood
+Class IV: treat with crystalloids + blood
+
+=== PAGE 333 ===
+Treatment of Hemorrhagic (Hypovolemic) Shock
+STOP the bleeding.
+Blood transfusion
+Optimal hemoglobin (Hgb) threshold remains controversial, and Hgb levels
+are NOT reliable during active bleeding.
+7.0 g/dL Hgb is fairly well established in the critically ill.
+Goal may be higher in the presence of:
+— Active bleeding
+— Severe hypoxemia
+— Myocardial ischemia
+— Lactic acidosis
+Packed red blood cells (PRBCs), unlike whole blood, do not have plasma or
+platelets; therefore, the patient will need a replacement of the coagulation
+components of blood with a transfusion of multiple units of PRBCs.
+Fresh frozen plasma
+Platelets
+Cryoprecipitate
+Risks of blood product administration
+Hemolytic and non-hemolytic reactions
+Transfusion-mediated immunomodulation
+Viral infection transmission
+Transfusion-related acute lung injury (TRALI)
+Hypothermia—WARM blood products to prevent this
+— Consequences of hypothermia
+
+=== PAGE 334 ===
+➤ Impairment of red cell deformability
+➤ Platelet dysfunction
+➤ Increase in affinity of hemoglobin to hold onto O
+2
+Coagulopathy: monitor coagulation status, provide plasma and platelets
+Hypocalcemia, hypomagnesemia (citrate in transfused blood binds ionized
+Ca++ and Mg++)
+Banked blood does not have adequate 2,3-DPG. What is the consequence?
+— Shifts the oxyhemoglobin-dissociation curve to the LEFT (see the
+Respiratory Concepts chapter); increases the affinity of hemoglobin to
+hold onto O .
+2
+
+=== PAGE 335 ===
+Massive Transfusion Protocols
+Designed to provide rapid infusion of large quantities of blood products to
+restore oxygen delivery (DO ), oxygen utilization (VO ), and tissue perfusion
+2 2
+(blood pressure)
+Indications include traumatic injuries, ruptured abdominal aortic or thoracic
+aortic aneurysms, liver transplant, OB emergencies.
+Definition: 10 units of RBCs in 24 hours or 5 units in less than 3 hours
+Mortality > 50%
+Need to prevent the triad of death:
+Hypothermia
+Acidosis
+Coagulopathy
+
+=== PAGE 337 ===
+Sepsis and Septic Shock
+Most acute care settings have developed protocols for the treatment of sepsis
+and septic shock to provide timely, evidence-based, life-saving treatment for this
+patient population and to meet the requirements set forth by the Centers for
+Medicare and Medicaid Services (CMS). Whereas older medical studies stressed
+the importance of CVP and ScvO measurements, more recent medical studies
+2
+that discuss sepsis and septic shock place less importance on those
+measurements and instead stress fluid resuscitation, timeliness of obtaining
+blood cultures and serum lactate level measurements, the administration of
+antibiotics, and the initiation of vasopressors if necessary.
+
+=== PAGE 338 ===
+Overview
+There are at least 1.7 million incidences of sepsis in American adults
+annually, with ~ 270,000 deaths per year (as per the CDC, Sept. 2021).
+Sepsis is the #1 cause of death in the non-coronary ICUs.
+As per the CDC, 1 in 3 patients who die in a hospital have sepsis.
+Numbers are expected to increase due to high incidences of sepsis in the
+older adult population.
+The current Adult CCRN test blueprint expects you to understand sepsis and
+septic shock. Systemic inflammatory response syndrome (SIRS) and severe
+sepsis are not included in the latest blueprint (most likely due to the changes
+introduced in the Sepsis-3 definitions, which were published in 2016). Brief
+descriptions of all of these terms are provided in the following sections, but
+exam questions will most likely focus on sepsis and septic shock.
+
+=== PAGE 339 ===
+Systemic Inflammatory Response Syndrome (SIRS)
+SIRS is a systemic inflammatory response to a wide variety of severe
+clinical insults, manifested by 2 or more of the following:
+Temperature ≥ 38°C or < 36°C
+Heart rate > 90 bpm
+Respiratory rate > 20 breaths/minute or PaCO < 32 mmHg
+2
+WBC > 12,000 or < 4,000 or bands > 10% (shift to the left)
+A patient may have SIRS without sepsis (i.e., traumatic injury, pancreatitis,
+burns).
+Studies have shown that SIRS is a poor predictor of sepsis, and thus SIRS
+was eliminated from the Sepsis-3 definitions.
+
+=== PAGE 340 ===
+Sepsis
+Sepsis is a life-threatening organ dysfunction that is caused by an abnormal
+host response to an infection. Initially, the infection may be “suspected,”
+rather than “proven,” based on the clinical examination and the patient’s
+history.
+A “suspected” infection is the presence of one or more of the following:
+Positive culture results from blood, sputum, urine, etc.
+Receiving antibiotic, antifungal, or another anti-infective therapy
+Altered mental status in the elderly
+Possible pneumonia (infiltrate on the chest radiograph)
+Nursing home patient with an indwelling urinary catheter
+Pressure ulcers
+Acute abdomen
+Infected wounds, especially with a history of diabetes
+Immunosuppression
+Sepsis = infection + organ dysfunction
+Organ dysfunction may be identified by assessing the patient’s qSOFA score
+or SOFA score.
+Examples of Organ Dysfunction
+Hypotension
+Acute hypoxemia
+Acute drop in urine output (< 0.5 mL/kg)
+Lactate 2 mmol/L or greater
+Abrupt mental status change
+Platelets below 100,000
+Coagulopathy
+
+=== PAGE 341 ===
+qSOFA (Quick Sepsis Related Organ Failure
+Assessment) Score
+The qSOFA score is included in the Sepsis-3 definitions, but it is not
+currently included in the Adult CCRN test blueprint (although it could be
+added in the future).
+The qSOFA score is a bedside evaluation (without the need for labs) to
+identify patients with suspected organ dysfunction.
+The qSOFA score evaluates 3 criteria, assigning 1 point for each of the
+following:
+Systolic BP ≤ 100 mmHg
+Respiratory rate ≥ 22 breaths per minute
+Glasgow coma scale < 15 (altered mentation)
+A qSOFA score of 2 or 3 indicates a high probability for organ dysfunction.
+
+=== PAGE 342 ===
+Severe Sepsis
+Severe sepsis (as defined prior to the publication of the Sepsis-3 definitions
+in 2016) is sepsis PLUS markers of organ dysfunction.
+Note that severe sepsis is not included in the Sepsis-3 definitions, and it has
+been eliminated from the Adult CCRN test blueprint.
+NOTE
+“Severe sepsis” is included in the
+Sepsis-2 definitions (from 2001) and is still used by the CMS, but it is not
+included in the Sepsis-3 definitions (from 2016) or in the current Adult CCRN test blueprint.
+The Sepsis-3 definition of “sepsis” includes organ dysfunction, whereas the Sepsis-2 definition
+instead calls it a “systemic response (SIRS positive) to an infection.” Due to changing
+nomenclature and “bundles” of care (1-hour,
+3-hour, 6-hour) as defined by various organizations, it is unlikely that “severe sepsis” will be
+mentioned in an exam question. However, just in case you need a quick refresher on the
+differences between the Sepsis-2 definitions and the Sepsis-3 definitions and how they define
+SIRS, sepsis, severe sepsis, and septic shock, refer
+to Table 5-3.
+Table 5-3. Differences Between the Sepsis-2 Definitions and the Sepsis-3
+Definitions
+
+=== PAGE 344 ===
+Septic Shock
+Of all deaths in hospitals annually, more than 40% are the result of septic
+shock.
+Clinically identified by an infection, PLUS:
+Vasopressor requirement to maintain a MAP of ≥ 65 mmHg, despite
+adequate fluid resuscitation
+Serum lactate > 2 mmol/L, despite fluid resuscitation
+
+=== PAGE 345 ===
+Differentiation of Infection, Sepsis, and Septic Shock
+Match the condition in the left-hand column with the clinical signs of patients in
+the right-hand column, each of which has a documented infection.
+A. Infection 1. _____ BP 78/36 before fluids, 102/58 after a 500 mL fluid bolus, BE –5, pH 7.30,
+lactate 3 mmol/L, acute abdomen
+B. Sepsis 2. _____ BP 110/80, BE –1, pH 7.34, lactate 1.5 mmol/L, temperature 39°C, WBC
+15,000, acute abdomen
+C. Septic 3. _____ BP 78/40 before fluids, 88/49 after a 500 mL fluid bolus × 4, BE –5, pH 7.31,
+shock lactate 6 mmol/L, acute abdomen
+The answers are located at the end of the “Sepsis and Septic Shock” section on
+page 124.
+
+=== PAGE 346 ===
+Pathophysiology of Sepsis/Septic Shock
+Sepsis/septic shock is a process of malignant intravascular inflammation.
+Figure 5-4. Pathophysiology of sepsis/septic shock
+Activation of coagulation, inflammatory cytokines, complement, and kinin
+cascades with the release of a variety of endogenous mediators
+Causative organisms include:
+Gram-negative bacteria
+Gram-positive bacteria
+Fungi, viruses, Rickettsia, parasites
+
+=== PAGE 347 ===
+Risk Factors for Sepsis
+Extremes of age
+Chronic health problems
+Invasive procedures and devices
+Surgical wounds
+Genitourinary infections
+Prolonged hospitalizations
+Translocation of GI bacteria (NPO)
+Acquired immunodeficiency syndrome
+Use of cytotoxic and immunosuppressive agents
+Alcoholism
+Malignant neoplasms; bone marrow suppression
+Transplantation procedures
+History of a splenectomy
+
+=== PAGE 348 ===
+Signs/Symptoms of Early Septic Shock
+Tachycardia, bounding pulse
+BP is low, responsive to vasopressors
+Skin is warm, flushed
+Respirations are deep, somewhat fast
+Lactate > 2 mmol/L
+Confusion → mental status change (especially in elderly people)
+Oliguria
+Fever (temperature > 38°C)
+
+=== PAGE 349 ===
+Signs/Symptoms of Progressive (Later) Septic Shock
+Hypotension, may not be responsive to pressors
+Tachycardia, pulse is weak and thready
+Lactate 4 mmol/L or greater
+Skin is cool, pale
+Respirations are rapid or may be slow
+Lethargy, coma
+Anuria
+Hypothermia (temperature < 36°C)
+MYTH
+A patient with sepsis or septic shock always has a fever and an elevated WBC.
+Table 5-4
+shows the hemodynamics of septic shock.
+Table 5-5
+lists the diagnostic test results that indicate septic shock.
+Table 5-4. Hemodynamics of Septic Shock*
+
+=== PAGE 350 ===
+Table 5-5. Diagnostic Test Results That Indicate Septic Shock*
+Only 30–50% of patients who present with sepsis/septic shock have positive
+blood cultures.
+
+=== PAGE 351 ===
+Treatment for Sepsis/Septic Shock
+MYTH
+A patient with sepsis or septic shock always has positive blood cultures.
+Initial fluid challenge should be the administration of 30 mL/kg of
+crystalloid (2.1 L for a 70 kg or 154 pound person) as early as possible to
+achieve the goals listed below:
+MAP ≥ 65 mmHg
+UO ≥ 0.5 mL/kg/hr
+Decrease in tachycardia
+If hypotension persists despite fluid resuscitation, start:
+Vasopressor: pressor of choice is norepinephrine.
+— Norepinephrine (Levophed) is first-line.
+— Epinephrine (drip) is recommended when a second vasopressor agent
+is needed.
+IF the BP does not respond to high-dose initial pressor and fluids, the patient
+may have catecholamine-refractory septic shock, whereby alpha receptors
+in the arterial bed are not responsive to pressors.
+Start a vasopressin drip at 0.03–0.04 units/min, generally not titrated.
+— NOT a first-line agent for hypotension
+— Used to enhance the effectiveness of the initial pressor that was used
+for treating septic shock
+
+=== PAGE 352 ===
+If vasopressin is not effective, consider extreme metabolic acidosis or
+corticosteroid insufficiency related to a critical illness; treatment with
+sodium bicarbonate or steroids may be considered, although neither have
+demonstrated that they can improve mortality rates.
+Obtain two blood cultures as early as possible that are drawn
+simultaneously from two different sites prior to antibiotic administration.
+Begin broad-spectrum antibiotic therapy as early as possible after
+recognizing sepsis/septic shock and after blood cultures are drawn;
+administer within 3 hours of recognition of sepsis/septic shock (preferably
+within 1 hour of recognition, if possible).
+In one study, for every hour that the administration of antibiotics was
+delayed, there was an approximately 12% decrease in the probability of
+survival.
+Obtain serum lactate as early as possible and remeasure within 2–4 hours if
+the first lactate is > 2 mmol/L.
+Identify the source of infection ASAP (which may direct antibiotic and/or
+interventional therapy).
+If the MAP remains below 65 mmHg OR the lactate is 4 mmol/L or greater,
+reassess the fluid status.
+Ask a licensed independent practitioner to complete a focused clinical
+assessment, OR
+Perform an assessment of 2 of the following: measure the CVP; assess the
+patient’s fluid responsiveness with either a passive leg raise or a fluid
+challenge; perform/assess a bedside ECHO; measure the ScvO .
+2
+Inotropic therapy—dobutamine is recommended (by itself or in addition to
+a vasopressor) for patients with cardiac dysfunction, as evidenced by high
+filling pressures and low cardiac output, or clinical signs of hypoperfusion
+after successfully restoring the blood pressure with effective volume
+resuscitation.
+
+=== PAGE 353 ===
+Oxygenation goals for septic shock
+Maintain SpO 95% or greater
+2
+Goal = ScvO ≥ 70% or SvO ≥ 65% (when CVP and MAP goals are met)
+2 2
+If ScvO or SvO goals are not achieved:
+2 2
+— Consider further fluids
+— Dobutamine infusion, max 20 mcg/kg/min
+— Consider a transfusion of PRBCs if the Hgb is 7.0 or less
+
+=== PAGE 354 ===
+Summary of Therapeutic Endpoints for Septic Shock
+MAP ≥ 65 mmHg
+Decreased lactate/improved base deficit
+Normalization of heart rate
+UO ≥ 0.5 mL/kg/hr
+Warm extremities
+Mental status return to baseline
+Source control
+Central venous oxygen saturation (ScvO ) ≥ 70% or SvO ≥ 65% (if CVP or
+2 2
+PA line is available)
+CVP (if available), 8–12 mmHg
+
+=== PAGE 355 ===
+Differentiation of Infection, Sepsis, and Septic Shock Answers
+A. Infection 1. B BP 78/36 before fluids, 102/58 after a 500 mL fluid
+bolus, BE –5, pH 7.30, lactate 3 mmol/L, acute abdomen
+2. A BP 110/80, BE –1, pH 7.34, lactate 1.5 mmol/L,
+B. Sepsis temperature 39°C, WBC 15,000, acute abdomen
+3. C BP 78/40 before fluids, 88/49 after a 500 mL fluid bolus
+× 4, BE –5, pH 7.31, lactate 6 mmol/L, acute abdomen
+C. Septic
+shock

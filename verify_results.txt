@@ -1,0 +1,2 @@
+﻿729_proposed: 287 chars [OK]
+763_proposed: 296 chars [OK]

@@ -1,0 +1,113 @@
+﻿Juarez pages with compartment/fasciotomy/delta: [329, 506, 556, 586, 587, 588, 799, 800, 808, 810, 951, 993, 1037, 1038]
+
+--- Page 329, context around match ---
+Critical reduction in the circulating intravascular volume, leading to inadequate
+tissue perfusion
+Most common type of shock
+Internal causes—third-spacing or pooling in the intravascular compartment
+External causes—hemorrhage, GI or renal losses, burns, excessive
+diaphoresis
+Hypovolemia effects on pulse pressure:
+Systolic decreases, diastolic maintains or elevates, NARROW pulse pressure
+Example:
+— Baseline is 130/80
+— Volume loss → 110/80, 100/80, 90/70
+
+--- Page 506, context around match ---
+Propofol has been demonstrated to reduce ICP by as much as 15 mmHg.
+Why would 0.45 NS or D5W be contraindicated for a patient with ↑ ICP?
+These are hypotonic fluids. Therefore, they would rapidly leave the vascular
+compartment and go intracellular. In the brain, which already has an increase
+in ICP, cell “swelling” would exacerbate the problem.
+Use isotonic fluids.
+Should hyperventilation be used to decrease the ICP?
+No! Hyperventilation will cause an alkalosis (pH will rise). This will result
+in cerebral vasoconstriction, which WILL lower the ICP. The bad news,
+however, is that the vasoconstriction also reduces cerebral blood flow.
+Keep the pH low normal, ~ 7.35.
+
+--- Page 556, context around match ---
+—Darrell Royal
+GASTROINTESTINAL TEST BLUEPRINT
+Gastrointestinal 6% of total test 9 questions*
+→ Abdominal compartment syndrome
+→ Acute abdominal trauma
+→ Acute GI hemorrhage
+→ Bowel infarction, obstruction, perforation (e.g., mesenteric
+ischemia, adhesions)
+→ GI surgeries (e.g., Whipple, esophagectomy, resections)
+→ Hepatic failure/coma (e.g., portal hypertension, cirrhosis,
+esophageal varices, fulminant hepatitis, biliary atresia, drug-
+
+--- Page 586, context around match ---
+Intra-abdominal Hypertension and Abdominal Compartment
+Syndrome
+Etiology
+Massive fluid resuscitation
+Trauma
+Emergent abdominal surgery
+Pathophysiology
+If pressure in the abdominal cavity becomes greater than the pressure in
+
+--- Page 587, context around match ---
+APP 60 mmHg or > is associated with improved survival.
+APP 50 mmHg or < is associated with increased mortality.
+Abdominal compartment syndrome (ACS) is a sustained IAP of > 20
+mmHg, with or without an APP of 60 mmHg, and is associated with
+new organ dysfunction or failure.
+Assessment
+Measure the bladder pressure; it most closely approximates the
+intraperitoneal pressure.
+Place the transducer at the level of the symphysis pubis to get an
+accurate pressure.
+
+--- Page 588, context around match ---
+Discuss with the physician whether gastro/colon prokinetic agents are
+appropriate for the patient.
+For an IAP ≥ 20 mmHg:
+This is considered abdominal compartment syndrome.
+Decompression surgery may be indicated.
+
+--- Page 799, context around match ---
+—Helen Keller
+MUSCULOSKELETAL TEST BLUEPRINT
+Musculoskeletal 2% of total test 3–4 questions*
+→ Compartment syndrome
+→ Fractures (e.g., femur, pelvic)
+→ Functional issues (e.g., immobility, falls, gait disorders)
+→ Osteomyelitis
+→ Rhabdomyolysis
+*The number of questions and percentages in this category may
+vary slightly from test to test.
+MUSCULOSKELETAL TESTABLE NURSING ACTIONS
+
+--- Page 800, context around match ---
+□ Recognize indications for, and manage patients requiring,
+compartment syndrome monitoring
+This exam includes only 3–4 questions on musculoskeletal
+concepts. Therefore, 3–4 hours of studying these topics is generally
+adequate in order to do well.
+
+--- Page 808, context around match ---
+Rhabdomyolysis is a potentially life-threatening syndrome due to the
+massive destruction of skeletal muscle cells.
+The etiologies of rhabdomyolysis include crush injuries, prolonged
+immobility, compartment syndrome, hyperthermia, and delirium tremens
+(DTs).
+Massive muscle injury results in the release of myoglobin, creatine
+kinase (CK), and potassium into the extracellular and intravascular
+spaces due to damaged muscles.
+Kidney injury occurs when creatine kinase and myoglobin obstruct the
+renal tubules.
+Clinical sequelae of rhabdomyolysis:
+
+--- Page 810, context around match ---
+Compartment Syndrome
+Acute compartment syndrome is the development of elevated pressure
+within the muscle fascia, which may lead to decreased blood flow. This
+results in damage to the muscle tissue and nerves within the compartment.
+Causes: a crush injury to or surgery on a limb, a fracture, severe muscle
+hematoma or sprain, a constricting cast or bandage, and/or prolonged
+tourniquet or positioning during surgery that leads to a loss of blood
+supply to a limb
+

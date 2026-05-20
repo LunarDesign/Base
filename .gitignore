@@ -1,0 +1,43 @@
+# ── Copyrighted source documents ────────────────────────────────────────────
+# PDFs and EPUBs are study materials from third-party publishers.
+# Expected local paths are documented in docs/handoffs/CURRENT_SESSION_HANDOFF.md
+sourcedocs/*.pdf
+sourcedocs/*.epub
+
+# Full-chapter EPUB extraction dumps (copyrighted content)
+sourcedocs/epub_extracted/
+
+# ── Large binary Anki exports ────────────────────────────────────────────────
+# Snapshots are checkpoints, not diffs — not useful in version control
+*.apkg
+*.apkg.bak
+
+# ── Python cache ─────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ── Local Claude Code session state ──────────────────────────────────────────
+# settings.json (project MCP permissions) IS committed — see .claude/settings.json
+.claude/settings.local.json
+
+# Playwright MCP session state and cached PDFs
+.playwright-mcp/
+
+# ── Screenshot / image artifacts ─────────────────────────────────────────────
+*.png
+
+# ── OS and editor artifacts ──────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# ── Secrets guard (belt-and-suspenders) ──────────────────────────────────────
+.env
+.env.*
+*_secret*
+*_credentials*
+*_key*

@@ -1,0 +1,145 @@
+● Bash(rm "C:\Users\lunar\Desktop\Cards\CCRN_Cards_Project\Cards\audit_blanks.py")
+  ⎿  Done
+
+● Here's what the audit actually found. This is more significant than the task document implies.
+
+  ---
+  Scope reality: Chunks 28–29 have no source .py files — they predate the Python build era, so the only record is the apkg. Chunks 30–56 have source files and were fully audited.
+
+  Blank count summary across all 27 source chunks:
+
+  ┌─────────────────────────────────────┬───────────────┬──────────────────────────────────────────────────────┐
+  │                 Era                 │    Chunks     │                       Pattern                        │
+  ├─────────────────────────────────────┼───────────────┼──────────────────────────────────────────────────────┤
+  │ 30–34 (Resp/Neuro/Pharm/Trauma)     │ 15 cards each │ ALL cards multi-blank (3–5)                          │
+  ├─────────────────────────────────────┼───────────────┼──────────────────────────────────────────────────────┤
+  │ 35–51 (Endocrine through Reference) │ 15 cards each │ ALL or nearly all multi-blank (2–6)                  │
+  ├─────────────────────────────────────┼───────────────┼──────────────────────────────────────────────────────┤
+  │ 52–54 (Extended Pharm)              │ 15 cards each │ ALL cards multi-blank — worst offenders (5–9 blanks) │
+  ├─────────────────────────────────────┼───────────────┼──────────────────────────────────────────────────────┤
+  │ 55–56 (Patient Models/Monitoring)   │ 15 cards each │ Mixed (mostly 2–3 blanks) — cleanest era             │
+  └─────────────────────────────────────┴───────────────┴──────────────────────────────────────────────────────┘
+
+  The fundamental issue the task doc is calling out: virtually every chart card has multiple blanks. This isn't a few outlier cards — it's the design philosophy of the entire deck.
+
+  ---
+  But the blanks fall into two meaningfully different categories:
+
+  Type A — Formula/value completion (defensible):
+  "SVR = (_______ − _______) ÷ _______ × 80" — 3 blanks, one formula. The interactive chart shows these values; the learner fills in the components they can see. Cognitively this is ONE concept.
+
+  Type B — Multi-concept overload (the actual problem):
+  chunk52 card[2]: "cyanide poisoning treated with _______ at _______ grams IV. This antidote works by _______, causes _______, monitored by _______, also use _______, _______ adjunct" — 7 blanks testing drug + dose + mechanism +
+  monitoring + adjuncts = 4 independent learning targets in one card.
+
+  ---
+  The scale question before any work begins:
+
+  Applying the task doc's rule literally ("one blank per card") to all 795 chart cards would produce approximately 2,500–3,000 cards after splitting (average ~4 blanks/card). That triples the deck.
+
+  A more targeted interpretation — fix only cards with 5+ blanks testing independent concepts (Type B overload) — affects roughly 200–250 cards, mostly in chunks 47–54.
+
+  Which scope did you intend?
+  1. Targeted fix — only the genuinely multi-concept cards (chunks 47–54 worst offenders, ~200 cards)
+  2. Full redesign — convert every multi-blank card to one-blank, across all 795 chart cards (~3x deck size)
+  3. Chunks 52–54 only — the most egregious (5–9 blanks, clearly testing multiple independent things)
+
+  Also: chunks 28–29 have no Python source files — any fixes to those cards would need to go through the apkg directly (patch script), not a source rebuild.
+
+✻ Churned for 5m 13s
+
+❯ target fix for type B cards
+
+● I need to read the full front+back content of the high-blank cards to properly classify Type A vs Type B before writing any splits. Let me extract all cards with 5+ blanks — those are the clearest Type B candidates.
+
+● Write(extract_typeb.py)
+  ⎿  Wrote 88 lines to extract_typeb.py
+      1 """
+      2 Extract full front+back content for cards with 5+ blanks.
+      3 These are the primary Type B (multi-concept overload) candidates.
+      4 """
+      5 import re, os, sys
+      6
+      7 blank = '_______'
+      8 SEP = '\x1f'
+      9 OUT = []
+     … +78 lines (ctrl+o to expand)
+
+● Bash(cd "C:\Users\lunar\Desktop\Cards\CCRN_Cards_Project\Cards" && python extract_typeb.py > typeb_cards.txt 2>&1)
+  ⎿  Waiting…
+
+* Leavening… (1m 41s · ↑ 5.5k tokens)
+
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── fix-chunk32-badge-tier-mismatch ──
+❯ 
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ⏸ plan mode on (shift+tab to cycle) · esc to interrupt
+  ├─────────────────────────────────────┼───────────────┼──────────────────────────────────────────────────────┤
+  │ 30–34 (Resp/Neuro/Pharm/Trauma)     │ 15 cards each │ ALL cards multi-blank (3–5)                          │
+  ├─────────────────────────────────────┼───────────────┼──────────────────────────────────────────────────────┤
+  │ 35–51 (Endocrine through Reference) │ 15 cards each │ ALL or nearly all multi-blank (2–6)                  │
+  ├─────────────────────────────────────┼───────────────┼──────────────────────────────────────────────────────┤
+  │ 52–54 (Extended Pharm)              │ 15 cards each │ ALL cards multi-blank — worst offenders (5–9 blanks) │
+  ├─────────────────────────────────────┼───────────────┼──────────────────────────────────────────────────────┤
+  │ 55–56 (Patient Models/Monitoring)   │ 15 cards each │ Mixed (mostly 2–3 blanks) — cleanest era             │
+  └─────────────────────────────────────┴───────────────┴──────────────────────────────────────────────────────┘
+
+  The fundamental issue the task doc is calling out: virtually every chart card has multiple blanks. This isn't a few outlier cards — it's the design philosophy of the entire deck.
+
+  ---
+  But the blanks fall into two meaningfully different categories:
+
+  Type A — Formula/value completion (defensible):
+  "SVR = (_______ − _______) ÷ _______ × 80" — 3 blanks, one formula. The interactive chart shows these values; the learner fills in the components they can see. Cognitively this is ONE concept.
+
+  Type B — Multi-concept overload (the actual problem):
+  chunk52 card[2]: "cyanide poisoning treated with _______ at _______ grams IV. This antidote works by _______, causes _______, monitored by _______, also use _______, _______ adjunct" — 7 blanks testing drug + dose + mechanism +
+  monitoring + adjuncts = 4 independent learning targets in one card.
+
+  ---
+  The scale question before any work begins:
+
+  Applying the task doc's rule literally ("one blank per card") to all 795 chart cards would produce approximately 2,500–3,000 cards after splitting (average ~4 blanks/card). That triples the deck.
+
+  A more targeted interpretation — fix only cards with 5+ blanks testing independent concepts (Type B overload) — affects roughly 200–250 cards, mostly in chunks 47–54.
+
+  Which scope did you intend?
+  1. Targeted fix — only the genuinely multi-concept cards (chunks 47–54 worst offenders, ~200 cards)
+  2. Full redesign — convert every multi-blank card to one-blank, across all 795 chart cards (~3x deck size)
+  3. Chunks 52–54 only — the most egregious (5–9 blanks, clearly testing multiple independent things)
+
+  Also: chunks 28–29 have no Python source files — any fixes to those cards would need to go through the apkg directly (patch script), not a source rebuild.
+
+✻ Churned for 5m 13s
+
+❯ target fix for type B cards
+
+● I need to read the full front+back content of the high-blank cards to properly classify Type A vs Type B before writing any splits. Let me extract all cards with 5+ blanks — those are the clearest Type B candidates.
+
+● Write(extract_typeb.py)
+  ⎿  Wrote 88 lines to extract_typeb.py
+      1 """
+      2 Extract full front+back content for cards with 5+ blanks.
+      3 These are the primary Type B (multi-concept overload) candidates.
+      4 """
+      5 import re, os, sys
+      6
+      7 blank = '_______'
+      8 SEP = '\x1f'
+      9 OUT = []
+     … +78 lines (ctrl+o to expand)
+
+● Bash(cd "C:\Users\lunar\Desktop\Cards\CCRN_Cards_Project\Cards" && python extract_typeb.py > typeb_cards.txt 2>&1)
+  ⎿  (No output)
+
+● Bash(cd "C:\Users\lunar\Desktop\Cards\CCRN_Cards_Project\Cards" && python extract_typeb.py 2>&1 | tail -1)
+  ⎿  (No output)
+
+● Bash(cd "C:\Users\lunar\Desktop\Cards\CCRN_Cards_Project\Cards" && python -c "
+      import subprocess, sys…)
+  ⎿  STDOUT lines: 83
+     STDERR: Total 5+ blank cards: 83
+
+● Reading 1 file… (ctrl+o to expand)
+  ⎿  typeb_cards.txt
+

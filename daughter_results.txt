@@ -1,0 +1,18 @@
+﻿918063_D1: 294 chars [OK]
+918063_D2: 287 chars [OK]
+918063_D3: 230 chars [OK]
+918066_D1: 200 chars [OK]
+918066_D2: 284 chars [OK]
+918066_D3: 271 chars [OK]
+918072_D1: 208 chars [OK]
+918072_D2: 272 chars [OK]
+918072_D3: 270 chars [OK]
+692068_D1: 279 chars [OK]
+692068_D2: 277 chars [OK]
+692071_D1: 284 chars [OK]
+692071_D2: 290 chars [OK]
+692071_D3: 260 chars [OK]
+755998_D1: 292 chars [OK]
+755998_D2: 276 chars [OK]
+
+ALL OK

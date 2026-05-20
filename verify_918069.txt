@@ -1,0 +1,7 @@
+﻿Label                 Chars  Tier            Status
+--------------------------------------------------------------
+918069_D1               299  tier-critical   OK
+918069_D2               300  tier-critical   OK
+918069_D3               292  tier-critical   OK
+
+ALL 3 daughters OK — safe to add_notes.

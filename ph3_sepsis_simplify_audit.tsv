@@ -1,0 +1,95 @@
+NID	Action	Front (truncated)	Old visible Back count	New visible Back count	Prior 250-rule action	New 300-rule action	Changed by 300-rule?	Clinical risk?	Flag type	Flag reason	AACN relevance	Notes
+1778251562563	NO ACTION	Sepsis-3 definition: life-threatening organ dysfunction...	210	210	NO ACTION	NO ACTION	No	No	—	—	Sepsis — Clinical Judgment	—
+1778251562565	NO ACTION	Septic shock definition: sepsis plus...	218	218	NO ACTION	NO ACTION	No	No	—	—	Sepsis — Clinical Judgment	—
+1778251562567	SAFE REWRITE	SSC Hour-1 Bundle 5 actions...	328	237	REWRITE	SAFE REWRITE	No	No	—	—	Sepsis — Hour-1 Bundle; high-yield	Back compressed 328→237; all 5 elements preserved; CCRN KEY condensed
+1778251562569	NO ACTION	First-line vasopressor in septic shock...	258	258	REWRITE	NO ACTION	YES (250→300)	No	—	—	Sepsis — vasopressor management	Dropped from REWRITE: 258 now within 300-char limit
+1778251562571	NO ACTION	Corticosteroids (hydrocortisone 200 mg/day) added when...	256	256	REWRITE	NO ACTION	YES (250→300)	No	—	—	Sepsis — corticosteroids; Clinical Judgment	Dropped from REWRITE
+1778251562573	NO ACTION	Procalcitonin (PCT) is used in sepsis to...	296	296	REWRITE	NO ACTION	YES (250→300)	No	—	—	Sepsis — antibiotic stewardship	Dropped from REWRITE
+1778251562575	NO ACTION	Sepsis-related immunosuppression (late sepsis)...	281	281	REWRITE	NO ACTION	YES (250→300)	No	—	—	Sepsis — immunosuppression	Dropped from REWRITE
+1778251562577	NO ACTION	In septic shock, target MAP is...	227	227	NO ACTION	NO ACTION	No	No	—	—	Sepsis — hemodynamic targets	—
+1778251562579	NO ACTION	Fluid resuscitation in sepsis: use...	297	297	REWRITE	NO ACTION	YES (250→300)	No	—	—	Sepsis — fluid management	Dropped from REWRITE
+1778251562581	NO ACTION	Sepsis bundle monitoring: reassess fluid responsiveness...	263	263	REWRITE	NO ACTION	YES (250→300)	No	—	—	Sepsis — fluid responsiveness	Dropped from REWRITE
+1778251562583	NO ACTION	Difference between hypertensive emergency/crisis and urgency?	261	261	REWRITE	NO ACTION	YES (250→300)	No	—	—	Multisystem (MISPLACED)	MISPLACED card; dropped from REWRITE
+1778251562585	NO ACTION	Normal CVP range? What makes it increase?	126	126	NO ACTION	NO ACTION	No	No	—	—	Hemodynamics (MISPLACED)	MISPLACED
+1778251562587	NO ACTION	ART line transducer level with?	216	216	NO ACTION	NO ACTION	No	No	—	—	Monitoring (MISPLACED)	MISPLACED
+1778251562589	NO ACTION	What is the ankle-brachial index?	131	131	NO ACTION	NO ACTION	No	No	—	—	Vascular (MISPLACED)	MISPLACED
+1778251562591	NO ACTION	Avoid if peripheral artery disease?	70	70	NO ACTION	NO ACTION	No	No	—	—	Vascular (MISPLACED)	MISPLACED
+1778251562593	NO ACTION	Position when pulling CVC from IJ?	128	128	NO ACTION	NO ACTION	No	No	—	—	Lines/procedures (MISPLACED)	MISPLACED
+1778251562595	NO ACTION	What is RVSP? What is considered normal?	300	300	REWRITE	NO ACTION	YES (250→300)	No	—	—	Cardiac (MISPLACED)	At exactly 300 chars; dropped from REWRITE
+1778251562597	SAFE REWRITE	What is ventilation? Primary and secondary control?	394	227	REWRITE	SAFE REWRITE	No	No	—	—	Respiratory physiology (MISPLACED)	Back compressed 394→227; MISPLACED card; content preserved
+1778251562599	NO ACTION	What is V/Q ratio? Normal?	73	73	NO ACTION	NO ACTION	No	No	—	—	Respiratory (MISPLACED)	MISPLACED
+1778251562601	NO ACTION	What does Midodrine do?	131	131	NO ACTION	NO ACTION	No	No	—	—	Pharmacology (MISPLACED)	MISPLACED
+1778251562603	NO ACTION	Treatment for carbon monoxide poisoning?	88	88	NO ACTION	NO ACTION	No	No	—	—	Toxicology (MISPLACED)	MISPLACED
+1778251562605	SAFE REWRITE	Key things about chest tube management?	448	266	REWRITE	SAFE REWRITE	No	No	—	—	Respiratory care (MISPLACED)	Back compressed 448→266; MISPLACED card; all 6 management points preserved
+1778251562607	NO ACTION	Causes of high pressure alarms on vents?	85	85	NO ACTION	NO ACTION	No	No	—	—	Ventilator management (MISPLACED)	MISPLACED
+1778251562609	NO ACTION	What is trousseau's sign?	165	165	NO ACTION	NO ACTION	No	No	—	—	Electrolytes (MISPLACED)	MISPLACED
+1778251562611	NO ACTION	What two things should you know about the spleen?	252	252	REWRITE	NO ACTION	YES (250→300)	No	—	—	GI/Trauma (MISPLACED)	Dropped from REWRITE
+1778251562613	NO ACTION	Treatment for IAP >12–15? >20?	160	160	NO ACTION	NO ACTION	No	No	—	—	Abdominal compartment (MISPLACED)	MISPLACED
+1778251562615	NO ACTION	Complications of bariatric surgery?	216	216	NO ACTION	NO ACTION	No	No	—	—	Surgical (MISPLACED)	MISPLACED
+1778251562617	NO ACTION	Pathophysiology of bowel infarction?	153	153	NO ACTION	NO ACTION	No	No	—	—	GI (MISPLACED)	MISPLACED
+1778251562619	NO ACTION	Tx for bowel infarction?	143	143	NO ACTION	NO ACTION	No	No	—	—	GI (MISPLACED)	MISPLACED
+1778251562621	NO ACTION	Treatment of bowel perf?	206	206	NO ACTION	NO ACTION	No	No	—	—	GI (MISPLACED)	MISPLACED
+1778251562623	NO ACTION	Enteral vs parenteral nutrition?	171	171	NO ACTION	NO ACTION	No	No	—	—	Nutrition (MISPLACED)	MISPLACED
+1778251562625	NO ACTION	Nursing considerations for enteral nutrition?	298	298	REWRITE	NO ACTION	YES (250→300)	No	—	—	Nutrition (MISPLACED)	Dropped from REWRITE
+1778251562627	NO ACTION	Treatment for a simple pneumothorax?	200	200	NO ACTION	NO ACTION	No	No	—	—	Respiratory (MISPLACED)	MISPLACED
+1778251562629	NO ACTION	Clonidine withdrawal symptoms?	69	69	NO ACTION	NO ACTION	No	No	—	—	Pharmacology (MISPLACED)	MISPLACED
+1778251562631	NO ACTION	Key consideration for rewarming after targeted temperature control?	100	100	NO ACTION	NO ACTION	No	No	—	—	Cardiology/neuro (MISPLACED)	MISPLACED
+1778251562633	NO ACTION	What cranial nerves does 'doll's eyes' assess?	242	242	NO ACTION	NO ACTION	No	No	—	—	Neurology (MISPLACED)	MISPLACED
+1778251562635	NO ACTION	Respiratory patterns with brain stem abnormalities?	249	249	NO ACTION	NO ACTION	No	No	—	—	Neurology (MISPLACED)	MISPLACED
+1778251562637	NO ACTION	Potential complications of SAH?	213	213	NO ACTION	NO ACTION	No	No	—	—	Neurology (MISPLACED)	MISPLACED
+1778251562639	NO ACTION	Why would 0.45 NS and D5W be contraindicated for increased ICP?	156	156	NO ACTION	NO ACTION	No	No	—	—	Neurology (MISPLACED)	MISPLACED
+1778251562641	NO ACTION	Difference in acuity of epidural vs subdural hematomas?	76	76	NO ACTION	NO ACTION	No	No	—	—	Neurology (MISPLACED)	MISPLACED
+1778251562643	NO ACTION	Signs of basilar skull fx?	212	212	NO ACTION	NO ACTION	No	No	—	—	Neurology (MISPLACED)	MISPLACED
+1778251562645	SAFE REWRITE	Signs of meningeal irritation?	327	173	REWRITE	SAFE REWRITE	No	No	—	—	Neurology (MISPLACED)	Back compressed 327→173; MISPLACED card; all 3 signs with procedures preserved
+1778251562647	NO ACTION	Guillain-Barre syndrome?	122	122	NO ACTION	NO ACTION	No	No	—	—	Neurology (MISPLACED)	MISPLACED
+1778251562649	NO ACTION	Signs of opioid withdrawal?	187	187	NO ACTION	NO ACTION	No	No	—	—	Pharmacology (MISPLACED)	MISPLACED
+1778251562651	NO ACTION	Symptom common with acute inferior MI?	224	224	NO ACTION	NO ACTION	No	No	—	—	Cardiology (MISPLACED)	MISPLACED
+1778251562653	NO ACTION	How does hypophosphatemia present?	123	123	NO ACTION	NO ACTION	No	No	—	—	Electrolytes (MISPLACED)	MISPLACED
+1778251562655	NO ACTION	Positive sign that a VSD has occurred?	153	153	NO ACTION	NO ACTION	No	No	—	—	Cardiology (MISPLACED)	MISPLACED
+1778251562657	NO ACTION	What are cardiac glycosides?	243	243	NO ACTION	NO ACTION	No	No	—	—	Pharmacology (MISPLACED)	MISPLACED
+1778251562659	NO ACTION	What intervention is linked to abdominal compartment syndrome?	98	98	NO ACTION	NO ACTION	No	No	—	—	Surgical (MISPLACED)	MISPLACED
+1778251562661	NO ACTION	Change in sodium and BUN with bleeding?	65	65	NO ACTION	NO ACTION	No	No	—	—	Renal (MISPLACED)	MISPLACED
+1778251562663	NO ACTION	Symptoms of papillary muscle rupture?	85	85	NO ACTION	NO ACTION	No	No	—	—	Cardiology (MISPLACED)	MISPLACED
+1778251562665	NO ACTION	Blood in effluent bag during CRRT?	70	70	NO ACTION	NO ACTION	No	No	—	—	Renal (MISPLACED)	MISPLACED
+1778251562667	NO ACTION	Treat ascites with hepatic failure?	246	246	NO ACTION	NO ACTION	No	No	—	—	GI/Hepatic (MISPLACED)	MISPLACED
+1778251562669	NO ACTION	How quickly do people develop tolerance to NTG?	41	41	NO ACTION	NO ACTION	No	No	—	—	Pharmacology (MISPLACED)	MISPLACED
+1778251562671	NO ACTION	Post-valve replacement: fever, new murmur, positive blood cultures...	29	29	NO ACTION	NO ACTION	No	No	—	—	Cardiology (MISPLACED)	MISPLACED
+1778251562673	NO ACTION	Agitated, pacing patient with hypoxia: first intervention?	30	30	NO ACTION	NO ACTION	No	No	—	—	Clinical Judgment (MISPLACED)	MISPLACED
+1778251562675	NO ACTION	Patient requests confidentiality about a diagnosis...	51	51	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562677	NO ACTION	Patient demands ineffective antibiotic...	73	73	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562679	NO ACTION	Team orders conflict with hospital policy?	78	78	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562681	NO ACTION	Patient states 10/10 pain but appears calm...	63	63	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562683	NO ACTION	Patient with severe anxiety during NIV?	68	68	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562685	NO ACTION	Key reassessment requirement after restraints applied?	89	89	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562687	NO ACTION	When language barriers exist, which interpreter?	62	62	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562689	NO ACTION	Patient observes fasting; medication scheduling?	71	71	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562691	NO ACTION	Action demonstrating inclusion for LGBTQ+ patients?	64	64	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562693	NO ACTION	Teach-back is best described as?	70	70	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562695	NO ACTION	Best way to individualize education for new trach caregiver?	62	62	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562697	NO ACTION	What defines shared decision-making in the ICU?	76	76	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562699	NO ACTION	Rapid response activation should be based on?	69	69	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562701	NO ACTION	What action supports family as part of the team?	62	62	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562703	NO ACTION	Statistics that evaluate a screening test's accuracy?	63	63	NO ACTION	NO ACTION	No	No	—	—	Professional Practice	—
+1778251562705	NO ACTION	What happens during cardiopulmonary bypass?	125	125	NO ACTION	NO ACTION	No	No	—	—	Cardiac surgery (MISPLACED)	MISPLACED
+1778251562707	NO ACTION	Confused patient pulls at IV lines and shouts. Priority?	33	33	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562709	NO ACTION	Patient with depression says 'I want to end it all.' Priority?	43	43	NO ACTION	NO ACTION	No	No	—	—	Prof Caring & Ethical Practice	—
+1778251562711	SAFE REWRITE	Furosemide ICU dosing: IV bolus, continuous infusion, dose equivalent...	521	230	REWRITE	SAFE REWRITE	No	No	—	No source contradiction; specific dosing not confirmed in Juarez/Colson Ridge; MISPLACED Ph7 card; compressed 521→230	Ph7 Pharmacology — Diuretics	Executed; Back updated
+1778251562713	SOURCE-UPDATED REWRITE	Furosemide always depletes K⁺ and Mg²⁺ — nurse ALWAYS monitors...	444	281	REWRITE	SOURCE-UPDATED REWRITE	No	Moderate	—	SOURCE UPDATE: "loss of K⁺ in collecting duct" → "↑Na⁺ delivery to distal nephron → K⁺ wasting"; Juarez p.640/655 confirms furosemide acts on ascending limb not collecting duct; MISPLACED Ph7 card	Ph7 Pharmacology — Diuretics	Executed; anatomical correction per Juarez p.640/655
+1778251562715	SAFE REWRITE	Hypertonic saline (3% NaCl) for increased ICP...	509	261	REWRITE	SAFE REWRITE	No	YES	NOTE	3% NaCl confirmed (Juarez p.506); 23.4%/30 mL bolus/Na⁺ ≤10 mEq/L limit not verified but not contradicted; all clinical values preserved; MISPLACED Ph7 card; compressed 509→261	Ph7 Pharmacology — Osmotic Agents	Executed; dosing specifics unverified in searched sources
+1778436692044	SAFE SPLIT (SUSPENDED)	Septic Shock 1-Hour Bundle [Pos 1/2] — FIRST action before antibiotics...	1766	—	SPLIT	SAFE SPLIT	No	YES	NOTE	Bundle timing confirmed Juarez p.352; specific regimens not source-verified but preserved from original; mortality figure 7-10% preserved (Juarez cites ~12%); 3 daughters NIDs 1779276778099/100/101; original suspended	Sepsis — antibiotic stewardship; high-yield	Executed; card 1778436692045 suspended
+1778436692047	SAFE SPLIT (SUSPENDED)	[Synthesis] Septic Shock 1-Hour Bundle all 5 elements...	1633	—	SPLIT	SAFE SPLIT	No	No	—	—	Sepsis — Hour-1 Bundle synthesis; very high-yield	Original suspended; 3 daughter cards created (NIDs 1779274817096/097/098)
+1778480387928	FLAG FOR REVIEW	DO2 = CO × ___ × 10. Component contributing LEAST...	1022	1022	SPLIT	FLAG FOR REVIEW	No	Chart	REVIEW	Chart model (CCRN Chart: do2+) — Back designed for chart annotation; 300-char compression destroys chart function; requires chart-specific review decision	O2 delivery — hemodynamic; CCRN high-relevance	Exempt from standard compression? Awaiting direction
+1778480387931	FLAG FOR REVIEW	Critical DO2 threshold ~___. Below this, O2 consumption becomes...	1379	1379	SPLIT	FLAG FOR REVIEW	No	Chart	REVIEW	Chart model (CCRN Chart: do2+); tagged 'simplify' — evaluate chart-specific compression options	O2 delivery — hemodynamic; CCRN high-relevance	Awaiting direction on chart model approach
+1778480387934	FLAG FOR REVIEW	Post-op patient: Hgb 6.8, SaO2 97%, CO 3.2, lactate 3.6...	1364	1364	SPLIT	FLAG FOR REVIEW	No	Chart	REVIEW	Chart model (CCRN Chart: do2+)	O2 delivery clinical application; CCRN high-relevance	Awaiting direction
+1778808560000	FLAG FOR REVIEW	SSC 2021 targets lactate clearance ___ at 2h and ___ at 6h...	440	440	REWRITE	FLAG FOR REVIEW	No	Chart	REVIEW	Chart model (CCRN Chart: lactate_clearance); ≥10%/≥20% targets cited to SSC 2021 — not found in extracted source docs (Juarez uses "remeasure within 2–4h" without threshold); same targets accepted in other deck chart cards	Sepsis lactate resuscitation; Clinical Judgment	Awaiting direction on chart model approach
+1778808560003	FLAG FOR REVIEW	Septic shock initial lactate 7.4, at 6h repeat 6.9. Clearance = ?...	693	693	SPLIT	FLAG FOR REVIEW	No	Chart	REVIEW	Chart model (CCRN Chart: lactate_clearance)	Sepsis resuscitation endpoint assessment	Awaiting direction
+1778808560006	FLAG FOR REVIEW	Post-arrest patient: MAP 72, ScvO2 78%, adequate UO, lactate 8.1...	803	803	SPLIT	FLAG FOR REVIEW	No	Chart	REVIEW	Chart model (CCRN Chart: lactate_clearance)	Type B lactic acidosis, post-arrest; Clinical Judgment	Awaiting direction
+1778808560009	FLAG FOR REVIEW	DO2/VO2 curve: O2 consumption becomes supply-dependent below ~___...	700	700	SPLIT	FLAG FOR REVIEW	No	Chart	REVIEW	Chart model (CCRN Chart: do2_vo2_curve); PhaseBadge &amp; encoding anomaly — PRESERVE EXACTLY	O2 supply-demand; hemodynamic	PhaseBadge anomaly preserved as-is; awaiting direction
+1778808560012	FLAG FOR REVIEW	In sepsis, DO2/VO2 curve shows ___, meaning VO2 continues rising...	856	856	SPLIT	FLAG FOR REVIEW	No	Chart	REVIEW	Chart model (CCRN Chart: do2_vo2_curve)	Cytopathic hypoxia, sepsis pathophysiology	Awaiting direction
+1778808560015	FLAG FOR REVIEW	Septic patient: CI 4.8, Hgb 10, SaO2 98%, ScvO2 84%, lactate 6.2...	967	967	SPLIT	FLAG FOR REVIEW	No	Chart	REVIEW	Chart model (CCRN Chart: do2_vo2_curve)	Cytopathic hypoxia triad; Clinical Judgment	Awaiting direction
+1779276778099	DAUGHTER (new)	Septic Shock Bundle: Why must blood cultures be drawn BEFORE antibiotics...	—	285	—	Created	—	No	—	—	Sepsis — blood cultures; antibiotic stewardship	Daughter of NID 1778436692044; cultures before antibiotics
+1779276778100	DAUGHTER (new)	Septic Shock Bundle: What is the antibiotic timing target after sepsis recognition...	—	273	—	Created	—	No	—	—	Sepsis — antibiotic timing; Hour-1 Bundle	Daughter of NID 1778436692044; timing + mortality impact (7-10%/h; Juarez cites ~12%)
+1779276778101	DAUGHTER (new)	Septic Shock empiric antibiotics — regimen by suspected source...	—	244	—	Created	—	No	—	—	Sepsis — empiric antibiotics; high-yield	Daughter of NID 1778436692044; regimens by source (not source-verified; preserved from original)
+1779274817096	DAUGHTER (new)	Septic Shock Hour-1 Bundle — Elements 1–3: First, obtain...	—	273	—	Created	—	No	—	—	Sepsis — Hour-1 Bundle; high-yield	Daughter of NID 1778436692047; elements 1–3
+1779274817097	DAUGHTER (new)	Septic Shock Hour-1 Bundle — Elements 4–5: Start vasopressors...	—	272	—	Created	—	No	—	—	Sepsis — Hour-1 Bundle; high-yield	Daughter of NID 1778436692047; elements 4–5
+1779274817098	DAUGHTER (new)	Septic shock with lactate ≥4 mmol/L and normal BP is called...	—	273	—	Created	—	No	—	—	Sepsis — cryptic shock; lactate clearance; high-yield	Daughter of NID 1778436692047; cryptic shock + lactate endpoint
