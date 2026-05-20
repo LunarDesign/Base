@@ -3,3 +3,12 @@
 
 # Nested clone of the GitHub remote (not a submodule)
 /Base/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+.env
+.env.*
