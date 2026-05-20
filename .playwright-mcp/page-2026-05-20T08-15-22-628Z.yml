@@ -1,0 +1,281 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=e3]:
+    - generic [ref=e6]:
+      - link "AACN Home" [ref=e8] [cursor=pointer]:
+        - /url: https://www.aacn.org
+      - navigation [ref=e9]:
+        - list [ref=e10]:
+          - listitem [ref=e11] [cursor=pointer]:
+            - link "Career Resources" [ref=e12]:
+              - /url: https://careers.aacn.org/
+          - listitem [ref=e13] [cursor=pointer]:
+            - link "Store" [ref=e14]:
+              - /url: https://www.aacn.org/store
+          - listitem [ref=e15] [cursor=pointer]:
+            - link "Cart" [ref=e16]:
+              - /url: https://www.aacn.org/store/cart
+          - listitem [ref=e17] [cursor=pointer]:
+            - link "Join" [ref=e18]:
+              - /url: https://www.aacn.org/membership
+          - listitem [ref=e19] [cursor=pointer]:
+            - link "Sign In" [ref=e20]:
+              - /url: https://www.aacn.org/membership/signin?returnurl=certification/get-certified/ccrn-adult
+          - listitem [ref=e21] [cursor=pointer]:
+            - generic [ref=e22]: 
+      - navigation [ref=e23]:
+        - list [ref=e24]:
+          - listitem [ref=e25] [cursor=pointer]:
+            - link "Education" [ref=e26]:
+              - /url: https://www.aacn.org/education
+          - listitem [ref=e27] [cursor=pointer]:
+            - link "Nursing Excellence" [ref=e28]:
+              - /url: https://www.aacn.org/nursing-excellence
+          - listitem [ref=e29] [cursor=pointer]:
+            - link "Certification" [ref=e30]:
+              - /url: https://www.aacn.org/certification
+          - listitem [ref=e31] [cursor=pointer]:
+            - link "Conferences & Events" [ref=e32]:
+              - /url: https://www.aacn.org/conferences-and-events
+          - listitem [ref=e33] [cursor=pointer]:
+            - link "Clinical Resources" [ref=e34]:
+              - /url: https://www.aacn.org/clinical-resources
+    - generic:  
+    - text:                     
+  - main [ref=e36]:
+    - generic [ref=e37]:
+      - generic [ref=e40]:
+        - link "Certification" [ref=e41] [cursor=pointer]:
+          - /url: /certification
+        - link "Get Certified" [ref=e42] [cursor=pointer]:
+          - /url: /certification/get-certified
+        - text: CCRN (Adult)
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - heading "CCRN (Adult) – Direct Care Eligibility Pathway" [level=1] [ref=e46]
+          - generic [ref=e47]:
+            - paragraph [ref=e48]:
+              - text: CCRN
+              - superscript [ref=e49]: ®
+              - text: (Adult) is a specialty certification. The Direct Care Eligibility Pathway is for nurses who provide direct care to acutely/critically ill adult patients regardless of their physical location. Nurses interested in this certification pathway may work in areas such as intensive care units, cardiac care units, trauma units or critical care transport/flight.
+            - paragraph [ref=e50]:
+              - text: This certification is accepted by the Magnet Recognition Program
+              - superscript [ref=e51]: ®
+              - text: .
+        - link "Apply" [ref=e55] [cursor=pointer]:
+          - /url: /certification/get-certified/ccrn-adult/overview
+    - generic [ref=e57]:
+      - heading "Initial Eligibility Requirements & Fees" [level=2] [ref=e59]
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - paragraph [ref=e63]:
+            - strong [ref=e64]: A current, unencumbered U.S. RN or APRN license is required.
+            - text: An unencumbered license is not currently being subjected to formal discipline by the board of nursing in the state(s) in which the nurse is practicing and has no provisions or conditions that limit the nurse’s practice. Provisions or conditions may include, but are not limited to, direct supervision of practice, drug administration limitations and/or practice area exclusions.
+          - paragraph [ref=e65]:
+            - strong [ref=e66]: "Candidates must complete one of the following clinical practice hour requirement options:"
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - heading "Two-Year Option" [level=5] [ref=e71]
+            - paragraph [ref=e73]:
+              - text: Practice as an RN or APRN for 1,750 hours in direct care of
+              - strong [ref=e74]: acutely/critically ill
+              - text: adult patients during the previous two years, with 875 of those hours accrued in the most recent year preceding application
+          - paragraph [ref=e76]: OR
+          - generic [ref=e77]:
+            - heading "Five-Year Option" [level=5] [ref=e79]
+            - paragraph [ref=e81]:
+              - text: Practice as an RN or APRN during the previous five years with a minimum of 2,000 hours in direct care of
+              - strong [ref=e82]: acutely/critically ill
+              - text: adult patients, with 144 of those hours accrued in the most recent year preceding application
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - generic [ref=e88]: "Eligible Clinical Practice Hours:"
+          - list [ref=e90]:
+            - listitem [ref=e91]: Must be completed in a U.S.-based or Canada-based facility or in a facility determined to be comparable to the U.S. standard of acute/critical care nursing practice.
+            - listitem [ref=e92]: Are those spent actively providing direct care to acutely/critically ill adult patients or supervising nurses or nursing students at the bedside of acutely/critically ill adult patients, if working as a manager, educator, preceptor or APRN. The majority of practice hours for exam eligibility must be focused on critically ill patients.
+            - listitem [ref=e93]: Are verifiable by your clinical supervisor or professional colleague (RN or physician). Contact information must be provided for verification of eligibility related to clinical hours, to be used if you are selected for audit.
+            - listitem [ref=e94]: For complete eligibility requirements, refer to the CCRN Exam Handbook – Direct Care Pathway.
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - paragraph [ref=e99]: AACN Members
+            - paragraph [ref=e101]: $255
+          - generic [ref=e102]:
+            - paragraph [ref=e104]: Nonmembers
+            - paragraph [ref=e106]: $370
+          - link "Apply" [ref=e109] [cursor=pointer]:
+            - /url: /certification/get-certified/ccrn-adult/overview
+            - text: Apply
+    - generic [ref=e112]:
+      - heading "Handbooks" [level=2] [ref=e114]
+      - generic [ref=e115]:
+        - link "CCRN Exam Handbook Direct Care Pathway • Detailed Eligibility Requirements • Test Plan/Testable Nursing Actions • Sample Questions • Exam Preparation Tools" [ref=e117] [cursor=pointer]:
+          - /url: /-/media/aacn-website/certification/get-certified/handbooks/ccrnexamhandbook.pdf
+          - generic [ref=e118]:
+            - paragraph [ref=e120]: CCRN Exam Handbook
+            - generic [ref=e121]:
+              - paragraph [ref=e122]:
+                - strong [ref=e123]: Direct Care Pathway
+              - list [ref=e124]:
+                - listitem [ref=e125]: • Detailed Eligibility Requirements
+                - listitem [ref=e126]: • Test Plan/Testable Nursing Actions
+                - listitem [ref=e127]: • Sample Questions
+                - listitem [ref=e128]: • Exam Preparation Tools
+        - link "Exam Policy Handbook • Exam Rescheduling and Cancellation • What to Expect on the Day of Your Exam • Name and Address Changes • Code of Ethics/Upholding the Value of Certification" [ref=e130] [cursor=pointer]:
+          - /url: /-/media/aacn-website/certification/get-certified/handbooks/certpolicyhndbk.pdf
+          - generic [ref=e131]:
+            - paragraph [ref=e133]: Exam Policy Handbook
+            - list [ref=e135]:
+              - listitem [ref=e136]: • Exam Rescheduling and Cancellation
+              - listitem [ref=e137]: • What to Expect on the Day of Your Exam
+              - listitem [ref=e138]: • Name and Address Changes
+              - listitem [ref=e139]: • Code of Ethics/Upholding the Value of Certification
+    - generic [ref=e141]:
+      - generic [ref=e142]:
+        - generic:
+          - heading "How to Prepare" [level=2] [ref=e143]
+          - paragraph [ref=e145]: Exam Resources for CCRN Adult – Direct Care Pathway
+      - generic [ref=e146]:
+        - link "Exam Handbook With Test Plan Essential certification document featuring the test plan, sample questions, exam bibliography and available AACN exam prep resources" [ref=e148] [cursor=pointer]:
+          - /url: /-/media/aacn-website/certification/get-certified/handbooks/ccrnexamhandbook.pdf
+          - generic [ref=e149]:
+            - generic [ref=e150]: Exam Handbook With Test Plan
+            - generic [ref=e151]: Essential certification document featuring the test plan, sample questions, exam bibliography and available AACN exam prep resources
+        - link "Practice Exam Online practice exam providing realistic test experience with randomized questions, correct answer rationales and exam scores" [ref=e153] [cursor=pointer]:
+          - /url: /certification/preparation-tools-and-handbooks/certification-practice-exams
+          - generic [ref=e154]:
+            - generic [ref=e155]: Practice Exam
+            - paragraph [ref=e157]: Online practice exam providing realistic test experience with randomized questions, correct answer rationales and exam scores
+        - link "CCRN Adult Review Course In-depth certification review presented by national experts, with CE available upon completion" [ref=e159] [cursor=pointer]:
+          - /url: /store/books/accrnod/adult-ccrn-certification-review-course-online-individual-purchase
+          - generic [ref=e160]:
+            - generic [ref=e161]: CCRN Adult Review Course
+            - paragraph [ref=e163]: In-depth certification review presented by national experts, with CE available upon completion
+        - link "Books & Bundles Additional AACN study resources to assist you in preparing for certification" [ref=e165] [cursor=pointer]:
+          - /url: /store/certification-review-products
+          - generic [ref=e166]:
+            - generic [ref=e167]: Books & Bundles
+            - paragraph [ref=e169]: Additional AACN study resources to assist you in preparing for certification
+        - link "Testing Information Details about testing options, exam scheduling, ADA accommodations and exam day experience" [ref=e171] [cursor=pointer]:
+          - /url: /certification/preparation-tools-and-handbooks/testing-information
+          - generic [ref=e172]:
+            - generic [ref=e173]: Testing Information
+            - generic [ref=e174]: Details about testing options, exam scheduling, ADA accommodations and exam day experience
+      - paragraph [ref=e180]: AACN Certification Corporation does not approve, endorse, or require for eligibility use of any specific exam preparation products.
+    - generic [ref=e182]:
+      - heading "Apply" [level=2] [ref=e187]
+      - generic [ref=e191]:
+        - generic [ref=e192]: Validate that you meet eligibility requirements detailed in the CCRN Exam Handbook – Direct Care Pathway and apply now.
+        - link "Apply" [ref=e194] [cursor=pointer]:
+          - /url: /certification/get-certified/ccrn-adult/overview
+    - generic [ref=e197]:
+      - heading "Renew" [level=2] [ref=e202]
+      - paragraph [ref=e208]:
+        - text: Is your renewal date approaching? Be prepared – find out more about
+        - link "CCRN Adult Renewal Options." [ref=e210] [cursor=pointer]:
+          - /url: /certification/certification-renewal/ccrn-adult
+    - generic [ref=e213]:
+      - heading "CCRN Information" [level=2] [ref=e216]
+      - generic [ref=e217]:
+        - link "CCRN Eligibility Policy – Direct Care Pathway " [ref=e219] [cursor=pointer]:
+          - /url: /-/media/aacn-website/certification/get-certified/policy-ccrn-initial.pdf
+        - link "FAQ " [ref=e221] [cursor=pointer]:
+          - /url: /certification/get-certified/ccrn-frequently-asked-questions
+        - link "Practice Decision Tree " [ref=e223] [cursor=pointer]:
+          - /url: /-/media/aacn-website/certification/get-certified/practicedecisiontreeexam.pdf
+        - link "CCRN or PCCN Comparison " [ref=e225] [cursor=pointer]:
+          - /url: /certification/ccrn-or-pccn
+        - link "Executive Summary " [ref=e227] [cursor=pointer]:
+          - /url: /certification/get-certified/ccrn-practice-analysis
+        - link "Certificants by State " [ref=e229] [cursor=pointer]:
+          - /url: /certification/get-certified/ccrns-by-state
+        - link "Audits " [ref=e231] [cursor=pointer]:
+          - /url: /certification/preparation-tools-and-handbooks/audits
+  - contentinfo [ref=e232]:
+    - generic [ref=e233]:
+      - generic [ref=e234]:
+        - link "AACN Home" [ref=e237] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e238]:
+          - list [ref=e239]:
+            - listitem [ref=e240]:
+              - link "Visit AACN on Facebook" [ref=e241] [cursor=pointer]:
+                - /url: https://www.facebook.com/aacnface
+                - generic [ref=e242]: 
+            - listitem [ref=e243]:
+              - link "Visit AACN on X (formerly Twitter)" [ref=e244] [cursor=pointer]:
+                - /url: https://x.com/aacnme
+                - generic [ref=e245]: 
+            - listitem [ref=e246]:
+              - link "Visit AACN on LinkedIn" [ref=e247] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/aacn
+                - generic [ref=e248]: 
+            - listitem [ref=e249]:
+              - link "Visit AACN on YouTube" [ref=e250] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/AACNTube
+                - generic [ref=e251]: 
+            - listitem [ref=e252]:
+              - link "Visit AACN on Instagram" [ref=e253] [cursor=pointer]:
+                - /url: https://www.instagram.com/exceptionalnurses/
+                - generic [ref=e254]: 
+          - link "Get Our Newsletter" [ref=e256] [cursor=pointer]:
+            - /url: https://www.aacn.org/membership/myaacn/account?openpanel=js-panel-5#communications
+      - generic [ref=e257]:
+        - list [ref=e258]:
+          - listitem [ref=e259]:
+            - link "About Us" [ref=e260] [cursor=pointer]:
+              - /url: /about-aacn
+          - listitem [ref=e261]:
+            - link "Contact Us" [ref=e262] [cursor=pointer]:
+              - /url: /about-aacn/contact-us
+          - listitem [ref=e263]:
+            - link "Board" [ref=e264] [cursor=pointer]:
+              - /url: /about-aacn/board
+          - listitem [ref=e265]:
+            - link "Member Benefits" [ref=e266] [cursor=pointer]:
+              - /url: /membership/membership-benefits
+        - list [ref=e267]:
+          - listitem [ref=e268]:
+            - link "Newsroom" [ref=e269] [cursor=pointer]:
+              - /url: /newsroom
+          - listitem [ref=e270]:
+            - link "Policy & Advocacy" [ref=e271] [cursor=pointer]:
+              - /url: /policy-and-advocacy
+          - listitem [ref=e272]:
+            - link "Jobs at AACN" [ref=e273] [cursor=pointer]:
+              - /url: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ec6b81f7-2d4c-453b-a9f4-8b56cfc4a899&ccId=19000101_000001&lang=en_US
+          - listitem [ref=e274]:
+            - link "Enterprise Solutions" [ref=e275] [cursor=pointer]:
+              - /url: https://solutions.aacn.org/
+        - list [ref=e276]:
+          - listitem [ref=e277]:
+            - link "Blog" [ref=e278] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e279]:
+            - link "AACN Theme" [ref=e280] [cursor=pointer]:
+              - /url: /aacn-theme
+          - listitem [ref=e281]:
+            - link "Give to AACN" [ref=e282] [cursor=pointer]:
+              - /url: /give-aacn-a-gift
+          - listitem [ref=e283]:
+            - link "Group Discounts" [ref=e284] [cursor=pointer]:
+              - /url: /bulk-discounts
+        - list [ref=e285]:
+          - listitem [ref=e286]:
+            - link "Advertising" [ref=e287] [cursor=pointer]:
+              - /url: /advertising-footer
+          - listitem [ref=e288]:
+            - link "Privacy Policy" [ref=e289] [cursor=pointer]:
+              - /url: /privacy-policy
+          - listitem [ref=e290]:
+            - link "Terms & Conditions" [ref=e291] [cursor=pointer]:
+              - /url: /terms-and-conditions
+          - listitem [ref=e292]:
+            - link "Accessibility" [ref=e293] [cursor=pointer]:
+              - /url: /accessibility
+        - generic [ref=e294]:
+          - paragraph [ref=e295]: Browse books, pocket cards, practice tools, certification reviews, products and more
+          - link "Shop Now" [ref=e297] [cursor=pointer]:
+            - /url: /store
+        - text:     
+      - paragraph [ref=e299]: © 1996 - 2026 American Association of Critical-Care Nurses. All rights reserved.

@@ -1,0 +1,103 @@
+[     515ms] [LOG] TypeError: window.__gpp is not a function
+    at new qo (https://cmp.gatekeeperconsent.com/min.js:35:167127)
+    at new xa (https://cmp.gatekeeperconsent.com/min.js:35:272116)
+    at new La (https://cmp.gatekeeperconsent.com/min.js:35:279064)
+    at https://cmp.gatekeeperconsent.com/min.js:35:281598
+    at https://cmp.gatekeeperconsent.com/min.js:301:1970 @ https://cmp.gatekeeperconsent.com/min.js:34
+[     515ms] [LOG] ✅ IAB GPP CMP API Initialized! User is in jurisdiction: FL @ https://cmp.gatekeeperconsent.com/min.js:34
+[     516ms] [LOG] ℹ️ No stored consent found. Showing consent UI. @ https://cmp.gatekeeperconsent.com/min.js:34
+[     516ms] [LOG] ✅ Storing GPP consent for section: usfl {ProcessingNotice: 1, SaleOptOutNotice: 1, TargetedAdvertisingOptOutNotice: 1, SaleOptOut: 2, TargetedAdvertisingOptOut: 2} @ https://cmp.gatekeeperconsent.com/min.js:34
+[     518ms] [LOG] Saving consent to cookie: DBABAw~BVoAAACA @ https://cmp.gatekeeperconsent.com/min.js:34
+[     518ms] [LOG] Verified stored consent: DBABAw~BVoAAACA @ https://cmp.gatekeeperconsent.com/min.js:34
+[     519ms] [LOG] GPP ping response after update: Re @ https://cmp.gatekeeperconsent.com/min.js:34
+[     519ms] [LOG] ✅ Stored GPP Consent for FL in section usfl @ https://cmp.gatekeeperconsent.com/min.js:34
+[     519ms] [LOG] ✅ GPP Consent Updated: He @ https://cmp.gatekeeperconsent.com/min.js:34
+[     519ms] [LOG] Saving consent to cookie: DBABAw~BVoAAACA @ https://cmp.gatekeeperconsent.com/min.js:34
+[     521ms] [LOG] Verified stored consent: DBABAw~BVoAAACA @ https://cmp.gatekeeperconsent.com/min.js:34
+[     752ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at rK (https://open-exam-prep.com/_next/static/chunks/8ac57f575082e701.js?dpl=dpl_GEXex9g4nyZp8aMQVmGu9Y7HVcbE:1:44811)
+    at rY (https://open-exam-prep.com/_next/static/chunks/8ac57f575082e701.js?dpl=dpl_GEXex9g4nyZp8aMQVmGu9Y7HVcbE:1:45844)
+    at https://open-exam-prep.com/_next/static/chunks/8ac57f575082e701.js?dpl=dpl_GEXex9g4nyZp8aMQVmGu9Y7HVcbE:1:139564
+    at sp (https://open-exam-prep.com/_next/static/chunks/8ac57f575082e701.js?dpl=dpl_GEXex9g4nyZp8aMQVmGu9Y7HVcbE:1:144725)
+    at sc (https://open-exam-prep.com/_next/static/chunks/8ac57f575082e701.js?dpl=dpl_GEXex9g4nyZp8aMQVmGu9Y7HVcbE:1:136065)
+    at https://open-exam-prep.com/_next/static/chunks/8ac57f575082e701.js?dpl=dpl_GEXex9g4nyZp8aMQVmGu9Y7HVcbE:1:130894
+    at u9 (https://open-exam-prep.com/_next/static/chunks/8ac57f575082e701.js?dpl=dpl_GEXex9g4nyZp8aMQVmGu9Y7HVcbE:1:130995)
+    at sV (https://open-exam-prep.com/_next/static/chunks/8ac57f575082e701.js?dpl=dpl_GEXex9g4nyZp8aMQVmGu9Y7HVcbE:1:157509)
+    at MessagePort.z (https://open-exam-prep.com/_next/static/chunks/8ac57f575082e701.js?dpl=dpl_GEXex9g4nyZp8aMQVmGu9Y7HVcbE:1:6349)
+[    2482ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://ups.analytics.yahoo.com/ups/58713/fed?v=1&1p=0&gdpr=0&gdpr_consent=&us_privacy=&gpp=DBABAw~BVoAAACA&gpp_sid=&url=https://open-exam-prep.com/practice/ccrn&pixelId=58713:0
+[    2669ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://accounts.google.com/gsi/client:84
+[    2769ms] [WARNING] [GPT] Slot.setTargeting is deprecated, use Slot.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#171 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202605150101/pubads_impl.js?cb=31098634:18
+[    2773ms] [WARNING] [GPT] PubAdsService.disableInitialLoad is deprecated, use googletag.setConfig({disableInitialLoad: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202605150101/pubads_impl.js?cb=31098634:18
+[    2849ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://accounts.google.com/gsi/status?client_id=441653263209-30ragsahs967q1n4iaec89577kmifumn.apps.googleusercontent.com&cas=6B0rcu3WI8RdW2Gm3m3MNEuHkvyrkshdshgJ70oc%2FB0&bs=FLlpuikJMionVbpk1LEXocZszsBlti0x1d0bgig60f0:0
+[    2949ms] [LOG] Called iframe: onetag-sys.com [] 
+Number of topics:  0 @ https://onetag-sys.com/static/topicsapi.html?bidder=onetag:13
+[    2968ms] [ERROR] Attestation check for Protected Audience on https://tlx.3lift.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    2968ms] [ERROR] Attestation check for Protected Audience on https://direct.adsrvr.org failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    2968ms] [ERROR] Attestation check for Protected Audience on https://prebid.media.net failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    2968ms] [ERROR] Attestation check for Protected Audience on https://onetag-sys.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    2969ms] [ERROR] Attestation check for Protected Audience on https://rtb.openx.net failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3034ms] [ERROR] Attestation check for Protected Audience on https://hbopenbid.pubmatic.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3098ms] [WARNING] [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.
+https://goo.gle/gpt-message#155 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202605150101/pubads_impl.js?cb=31098634:18
+[    3169ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://ups.analytics.yahoo.com/ups/58813/fed?gpp=DBABAw~BVoAAACA&gpp_sid=-1&gdpr=false&gdpr_consent=&v=1&url=https%3A%2F%2Fopen-exam-prep.com%2Fpractice%2Fccrn:0
+[    3173ms] [WARNING] [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.
+https://goo.gle/gpt-message#155 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202605150101/pubads_impl.js?cb=31098634:18
+[    3210ms] [LOG] Called iframe: acdn.adnxs.com [] 
+Number of topics:  0 @ https://acdn.adnxs.com/prebid/topics/topics_frame.html?bidder=appnexus:17
+[    3253ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://eb2.3lift.com/topics/topics_frame.html?bidder=triplelift:0
+[    3296ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://btlr.sharethrough.com/topics/topics_frame.html?bidder=sharethrough:0
+[    3297ms] [LOG] Called iframe: ads.pubmatic.com [] 
+Number of topics:  0 @ https://ads.pubmatic.com/AdServer/js/topics/topics_frame.html?bidder=pubmatic:19
+[    3297ms] [LOG] Called iframe: pa.openx.net [] 
+Number of topics:  0 @ https://pa.openx.net/topics_frame.html?bidder=openx:15
+[    3391ms] [ERROR] Attestation check for Protected Audience on https://tlx.3lift.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3391ms] [ERROR] Attestation check for Protected Audience on https://hb-api.omnitagjs.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3391ms] [ERROR] Attestation check for Protected Audience on https://prebid.smilewanted.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3391ms] [ERROR] Attestation check for Protected Audience on https://rtb.openx.net failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3391ms] [ERROR] Attestation check for Protected Audience on https://prebid.media.net failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3391ms] [ERROR] Attestation check for Protected Audience on https://prg.smartadserver.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3391ms] [ERROR] Attestation check for Protected Audience on https://onetag-sys.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3391ms] [ERROR] Attestation check for Protected Audience on https://ads.yieldmo.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3396ms] [ERROR] Attestation check for Protected Audience on https://ssp.disqus.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3396ms] [ERROR] Attestation check for Protected Audience on https://direct.adsrvr.org failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3415ms] [ERROR] Attestation check for Protected Audience on https://hbopenbid.pubmatic.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3426ms] [WARNING] Google Deploy of the SharedId library has been deprecated. Please select another option in the GAM UI. If you use Prebid, we suggest the Prebid.js UserId option. If you do not, you may configure GAM to allow Google to share a first party user identifier with OB and AB participants, which is either the publisherProvidedId or the __gads value when that is missing. @ https://cdn.jsdelivr.net/gh/prebid/shared-id/pubcid.js/docs/pubcid.min.js:0
+[    3850ms] [ERROR] Failed to load resource: net::ERR_CERT_DATE_INVALID @ https://wt.rqtrk.eu/d00044ac-a097-4f82-8dd0-d396cf336696-trk.js:0
+[    3860ms] [ERROR] Attestation check for Protected Audience on https://prebid-server.rubiconproject.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3860ms] [ERROR] Attestation check for Protected Audience on https://direct.adsrvr.org failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3860ms] [ERROR] Attestation check for Protected Audience on https://onetag-sys.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3860ms] [ERROR] Attestation check for Protected Audience on https://prebid.media.net failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3860ms] [ERROR] Attestation check for Protected Audience on https://api.w.inmobi.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3860ms] [ERROR] Attestation check for Protected Audience on https://hb.minutemedia-prebid.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3860ms] [ERROR] Attestation check for Protected Audience on https://btlr.sharethrough.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3860ms] [ERROR] Attestation check for Protected Audience on https://btlr.sharethrough.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3860ms] [ERROR] Attestation check for Protected Audience on https://btlr.sharethrough.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3860ms] [ERROR] Attestation check for Protected Audience on https://btlr.sharethrough.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3860ms] [ERROR] Attestation check for Protected Audience on https://btlr.sharethrough.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3860ms] [ERROR] Attestation check for Protected Audience on https://rtb.openx.net failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3861ms] [ERROR] Attestation check for Protected Audience on https://rtb.openx.net failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3861ms] [ERROR] Attestation check for Protected Audience on https://rtb.openx.net failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3861ms] [ERROR] Attestation check for Protected Audience on https://rtb.openx.net failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3861ms] [ERROR] Attestation check for Protected Audience on https://rtb.openx.net failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3861ms] [ERROR] Attestation check for Protected Audience on https://prebid.cootlogix.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3973ms] [ERROR] Attestation check for Protected Audience on https://direct.adsrvr.org failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3973ms] [ERROR] Attestation check for Protected Audience on https://ssp.disqus.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3973ms] [ERROR] Attestation check for Protected Audience on https://rtb.openx.net failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3978ms] [ERROR] Attestation check for Protected Audience on https://tlx.3lift.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3978ms] [ERROR] Attestation check for Protected Audience on https://onetag-sys.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3978ms] [ERROR] Attestation check for Protected Audience on https://targeting.unrulymedia.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    3978ms] [ERROR] Attestation check for Protected Audience on https://ib.adnxs.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    4193ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cs.krushmedia.com/4831fbf13dd518a56346a6e0ec8ba9d5.gif?puid=ID5-2-d1791677-83b7-481c-b9a4-b030c2e36d68&redir=https%3A%2F%2Fsync.inmobi.com%2Fsetuid%3FbidderID%3D1315%26dspUserId%3D%5BUID%5D&gdpr=0&gdpr_consent=:0
+[    4403ms] [WARNING] VIDEOJS: WARN: videojs.mergeOptions is deprecated and will be removed in 9.0; please use videojs.obj.merge instead. @ https://go.ezodn.com/beardeddragon/wyvern.js?cb=191:11
+[    4450ms] [WARNING] VIDEOJS: WARN: videojs.formatTime is deprecated and will be removed in 9.0; please use videojs.time.formatTime instead. @ https://go.ezodn.com/beardeddragon/wyvern.js?cb=191:11
+[    4474ms] [ERROR] Attestation check for Protected Audience on https://ssp.disqus.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    4474ms] [ERROR] Attestation check for Protected Audience on https://rtb.openx.net failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    4474ms] [ERROR] Attestation check for Protected Audience on https://direct.adsrvr.org failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    4474ms] [ERROR] Attestation check for Protected Audience on https://tlx.3lift.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    4474ms] [ERROR] Attestation check for Protected Audience on https://ib.adnxs.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    4474ms] [ERROR] Attestation check for Protected Audience on https://onetag-sys.com failed. @ https://open-exam-prep.com/practice/ccrn:0
+[    4537ms] [ERROR] Prompt dismissed. API exponential cool down not triggered. @ https://open-exam-prep.com/practice/ccrn:0
+[    4700ms] [INFO] Powered by AMP ⚡ HTML – Version 2603032146000 https://open-exam-prep.com/practice/ccrn @ https://cdn.ampproject.org/rtv/012603032146000/amp4ads-v0.mjs:1
+[    4760ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://accounts.google.com/gsi/client:85

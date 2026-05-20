@@ -1,0 +1,37 @@
+[       3ms] [WARNING] <link rel=preload> has an unsupported `type` value @ https://killexams.com/pass4sure/exam-detail/CCRN-Adult:477
+[       3ms] [WARNING] <link rel=preload> has an unsupported `type` value @ https://killexams.com/pass4sure/exam-detail/CCRN-Adult:483
+[       3ms] [WARNING] <link rel=preload> has an unsupported `type` value @ https://killexams.com/pass4sure/exam-detail/CCRN-Adult:489
+[       4ms] [WARNING] <link rel=preload> has an unsupported `type` value @ https://killexams.com/pass4sure/exam-detail/CCRN-Adult:495
+[     539ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://killexams.com/pass4sure/exam-detail/checker.jpg:0
+[     717ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://killexams.com/img/exam-detail-header@2x.jpg:0
+[    1484ms] [ERROR] Access to fetch at 'https://va.tawk.to/log-performance/v3' from origin 'https://killexams.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://killexams.com/pass4sure/exam-detail/CCRN-Adult:0
+[    1484ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://va.tawk.to/log-performance/v3:0
+[    1484ms] [ERROR] true @ https://embed.tawk.to/_s/v4/app/6a0d312dd3d/js/twk-chunk-common.js:1
+[    3095ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    3152ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    3189ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    3284ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    3852ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    3950ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    7777ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    7801ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    7806ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    7816ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    7831ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    7848ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    7866ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    8673ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    8723ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    9240ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    9249ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    9264ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    9284ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[    9331ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[   10043ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[   10048ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[   10064ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[   10081ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[   10114ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[   11231ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[   11281ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
+[   11364ms] [ERROR] Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/feature/6662647093133312 @ https://killexams.com/js/jquery-21.js:7
